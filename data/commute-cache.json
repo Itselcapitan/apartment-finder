@@ -1,26 +1,26 @@
 {
   "(undisclosed address) elmwood park nj 07407": {
-    "minutes": 25,
-    "text": "25 mins",
-    "mode": "driving",
+    "minutes": 78,
+    "text": "1 hour 18 mins",
+    "mode": "transit",
     "address": "(undisclosed Address), Elmwood Park, NJ 07407"
   },
   "58 s 13th st floor 2 newark nj 07107": {
-    "minutes": 20,
-    "text": "20 mins",
-    "mode": "driving",
+    "minutes": 100,
+    "text": "1 hour 40 mins",
+    "mode": "transit",
     "address": "58 S 13th St Floor 2, Newark, NJ 07107"
   },
   "813 de luca rd belleville nj 07109": {
-    "minutes": 25,
-    "text": "25 mins",
-    "mode": "driving",
+    "minutes": 90,
+    "text": "1 hour 30 mins",
+    "mode": "transit",
     "address": "813 De Luca Rd, Belleville, NJ 07109"
   },
   "86 sussex st 2 jersey city nj 07302": {
-    "minutes": 25,
-    "text": "25 mins",
-    "mode": "driving",
+    "minutes": 31,
+    "text": "31 mins",
+    "mode": "transit",
     "address": "86 Sussex St #2, Jersey City, NJ 07302"
   },
   "200 w 98th st new york ny 10025": {
@@ -30,27 +30,27 @@
     "address": "200 W 98th St APT 2W, New York, NY 10025"
   },
   "(undisclosed address) hoboken nj 07030": {
-    "minutes": 11,
-    "text": "11 mins",
-    "mode": "driving",
+    "minutes": 29,
+    "text": "29 mins",
+    "mode": "transit",
     "address": "(undisclosed Address), Hoboken, NJ 07030"
   },
   "736-738 eaton st elizabeth nj 07202": {
-    "minutes": 29,
-    "text": "29 mins",
-    "mode": "driving",
+    "minutes": 84,
+    "text": "1 hour 24 mins",
+    "mode": "transit",
     "address": "736-738 Eaton St, Elizabeth, NJ 07202"
   },
   "131 clinton st hoboken nj 07030": {
-    "minutes": 11,
-    "text": "11 mins",
-    "mode": "driving",
+    "minutes": 22,
+    "text": "22 mins",
+    "mode": "transit",
     "address": "131 Clinton St APT 4, Hoboken, NJ 07030"
   },
   "15 gifford ave d5 jersey city nj 07304": {
-    "minutes": 26,
-    "text": "26 mins",
-    "mode": "driving",
+    "minutes": 52,
+    "text": "52 mins",
+    "mode": "transit",
     "address": "15 Gifford Ave #D5, Jersey City, NJ 07304"
   },
   "247 w 63rd st new york ny 10023": {
@@ -59,17 +59,59 @@
     "mode": "transit",
     "address": "247 W 63rd St APT 3B, New York, NY 10023"
   },
+  "(undisclosed address) irvington ny 10533": {
+    "minutes": 111,
+    "text": "1 hour 51 mins",
+    "mode": "transit",
+    "address": "(undisclosed Address), Irvington, NY 10533"
+  },
+  "274 robinson ave 1 bronx ny 10465": {
+    "minutes": 119,
+    "text": "1 hour 59 mins",
+    "mode": "transit",
+    "address": "274 Robinson Ave #1, Bronx, NY 10465"
+  },
+  "4314 157th st 2 flushing ny 11355": {
+    "minutes": 75,
+    "text": "1 hour 15 mins",
+    "mode": "transit",
+    "address": "4314 157th St #2, Flushing, NY 11355"
+  },
+  "8 holly ln rye ny 10580": {
+    "minutes": 117,
+    "text": "1 hour 57 mins",
+    "mode": "transit",
+    "address": "8 Holly Ln, Rye, NY 10580"
+  },
   "1547 summit ave 2 hillside nj 07205": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
+    "minutes": 65,
+    "text": "1 hour 5 mins",
+    "mode": "transit",
     "address": "1547 Summit Ave #2, Hillside, NJ 07205"
+  },
+  "3 mill pond ln locust valley ny 11560": {
+    "minutes": 704,
+    "text": "11 hours 44 mins",
+    "mode": "walking",
+    "address": "3 Mill Pond Ln, Locust Valley, NY 11560"
+  },
+  "32-03 35th ave 2 astoria ny 11106": {
+    "minutes": 44,
+    "text": "44 mins",
+    "mode": "transit",
+    "address": "32-03 35th Ave #2, Astoria, NY 11106"
   },
   "106 central park s new york ny 10019": {
     "minutes": 33,
     "text": "33 mins",
     "mode": "transit",
     "address": "106 Central Park S APT 29A, New York, NY 10019"
+  },
+  "23-53 31st st 3 astoria ny 11105": {
+    "minutes": 51,
+    "text": "51 mins",
+    "mode": "transit",
+    "address": "23-53 31st St #3, Astoria, NY 11105"
   },
   "425 riverside dr new york ny 10025": {
     "minutes": 45,
@@ -84,40 +126,88 @@
     "address": "18 E 13th St APT 4, New York, NY 10003"
   },
   "13 farmersville rd califon nj 07830": {
-    "minutes": 61,
-    "text": "1 hour 1 min",
-    "mode": "driving",
+    "minutes": 1309,
+    "text": "21 hours 49 mins",
+    "mode": "walking",
     "address": "13 Farmersville Rd, Califon, NJ 07830"
   },
+  "1465 burke ave bronx ny 10469": {
+    "minutes": 82,
+    "text": "1 hour 22 mins",
+    "mode": "transit",
+    "address": "1465 Burke Ave, Bronx, NY 10469"
+  },
+  "320 vineland ave 1 staten island ny 10312": {
+    "minutes": 122,
+    "text": "2 hours 2 mins",
+    "mode": "transit",
+    "address": "320 Vineland Ave #1, Staten Island, NY 10312"
+  },
   "103 gill ln iselin nj 08830": {
-    "minutes": 35,
-    "text": "35 mins",
-    "mode": "driving",
+    "minutes": 110,
+    "text": "1 hour 50 mins",
+    "mode": "transit",
     "address": "103 Gill Ln, Iselin, NJ 08830"
   },
   "70 arthur st clifton nj 07011": {
-    "minutes": 21,
-    "text": "21 mins",
-    "mode": "driving",
+    "minutes": 80,
+    "text": "1 hour 20 mins",
+    "mode": "transit",
     "address": "70 Arthur St, Clifton, NJ 07011"
   },
   "121 town square pl jersey city nj": {
-    "minutes": 18,
-    "text": "18 mins",
-    "mode": "driving",
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "transit",
     "address": "121 Town Square Pl, Jersey City, NJ"
   },
   "819 kensington ave 1 plainfield nj 07060": {
-    "minutes": 43,
-    "text": "43 mins",
-    "mode": "driving",
+    "minutes": 133,
+    "text": "2 hours 13 mins",
+    "mode": "transit",
     "address": "819 Kensington Ave #1, Plainfield, NJ 07060"
   },
+  "197 monitor st 1r brooklyn ny 11222": {
+    "minutes": 57,
+    "text": "57 mins",
+    "mode": "transit",
+    "address": "197 Monitor St #1R, Brooklyn, NY 11222"
+  },
+  "(undisclosed address) amityville ny 11701": {
+    "minutes": 94,
+    "text": "1 hour 34 mins",
+    "mode": "transit",
+    "address": "(undisclosed Address), Amityville, NY 11701"
+  },
+  "(undisclosed address) far rockaway ny 11691": {
+    "minutes": 98,
+    "text": "1 hour 38 mins",
+    "mode": "transit",
+    "address": "(undisclosed Address), Far Rockaway, NY 11691"
+  },
+  "85 bay 8th st 2 brooklyn ny 11228": {
+    "minutes": 87,
+    "text": "1 hour 27 mins",
+    "mode": "transit",
+    "address": "85 Bay 8th St #2, Brooklyn, NY 11228"
+  },
   "270 herbert ave 1a hillside nj 07205": {
-    "minutes": 25,
-    "text": "25 mins",
-    "mode": "driving",
+    "minutes": 64,
+    "text": "1 hour 4 mins",
+    "mode": "transit",
     "address": "270 Herbert Ave #1A, Hillside, NJ 07205"
+  },
+  "10440 queens blvd forest hills ny": {
+    "minutes": 56,
+    "text": "56 mins",
+    "mode": "transit",
+    "address": "10440 Queens Blvd, Forest Hills, NY"
+  },
+  "439 jefferson ave 2b brooklyn ny 11221": {
+    "minutes": 57,
+    "text": "57 mins",
+    "mode": "transit",
+    "address": "439 Jefferson Ave #2B, Brooklyn, NY 11221"
   },
   "200 stanton st new york ny": {
     "minutes": 46,
@@ -125,845 +215,509 @@
     "mode": "transit",
     "address": "200 Stanton St, New York, NY"
   },
+  "329 union st brooklyn ny 11231": {
+    "minutes": 50,
+    "text": "50 mins",
+    "mode": "transit",
+    "address": "329 Union St APT 4A, Brooklyn, NY 11231"
+  },
   "535 broadway new york ny": {
     "minutes": 40,
     "text": "40 mins",
     "mode": "transit",
     "address": "535 Broadway, New York, NY"
   },
+  "325 eldert st 2e brooklyn ny 11237": {
+    "minutes": 55,
+    "text": "55 mins",
+    "mode": "transit",
+    "address": "325 Eldert St #2E, Brooklyn, NY 11237"
+  },
+  "243 e 95th st 2c brooklyn ny 11212": {
+    "minutes": 83,
+    "text": "1 hour 23 mins",
+    "mode": "transit",
+    "address": "243 E 95th St #2C, Brooklyn, NY 11212"
+  },
+  "102 central ave brooklyn ny": {
+    "minutes": 60,
+    "text": "1 hour 0 mins",
+    "mode": "transit",
+    "address": "102 Central Ave, Brooklyn, NY"
+  },
+  "876 greene ave 1d brooklyn ny 11221": {
+    "minutes": 62,
+    "text": "1 hour 2 mins",
+    "mode": "transit",
+    "address": "876 Greene Ave #1D, Brooklyn, NY 11221"
+  },
+  "230 jefferson st brooklyn ny": {
+    "minutes": 51,
+    "text": "51 mins",
+    "mode": "transit",
+    "address": "230 Jefferson St, Brooklyn, NY"
+  },
+  "20420 46th ave 1 bayside ny 11361": {
+    "minutes": 87,
+    "text": "1 hour 27 mins",
+    "mode": "transit",
+    "address": "20420 46th Ave #1, Bayside, NY 11361"
+  },
+  "124 oak street yonkers ny 10701": {
+    "minutes": 97,
+    "text": "1 hour 37 mins",
+    "mode": "transit",
+    "address": "124 Oak Street, Yonkers, NY 10701"
+  },
   "668 jefferson ave 2 elizabeth nj 07201": {
-    "minutes": 25,
-    "text": "25 mins",
-    "mode": "driving",
+    "minutes": 81,
+    "text": "1 hour 21 mins",
+    "mode": "transit",
     "address": "668 Jefferson Ave #2, Elizabeth, NJ 07201"
   },
+  "980 kent ave brooklyn ny": {
+    "minutes": 53,
+    "text": "53 mins",
+    "mode": "transit",
+    "address": "980 Kent Ave, Brooklyn, NY"
+  },
+  "16 wade sq bronx ny": {
+    "minutes": 71,
+    "text": "1 hour 11 mins",
+    "mode": "transit",
+    "address": "16 Wade Sq, Bronx, NY"
+  },
+  "1910 lacombe ave bronx ny 10473": {
+    "minutes": 86,
+    "text": "1 hour 26 mins",
+    "mode": "transit",
+    "address": "1910 Lacombe Ave APT 2, Bronx, NY 10473"
+  },
+  "11-27 mcbride st 3 far rockaway ny 11691": {
+    "minutes": 101,
+    "text": "1 hour 41 mins",
+    "mode": "transit",
+    "address": "11-27 McBride St #3, Far Rockaway, NY 11691"
+  },
   "(undisclosed address) clifton nj 07011": {
-    "minutes": 22,
-    "text": "22 mins",
-    "mode": "driving",
+    "minutes": 79,
+    "text": "1 hour 19 mins",
+    "mode": "transit",
     "address": "(undisclosed Address), Clifton, NJ 07011"
   },
+  "2888 faber ter far rockaway ny": {
+    "minutes": 123,
+    "text": "2 hours 3 mins",
+    "mode": "transit",
+    "address": "2888 Faber Ter, Far Rockaway, NY"
+  },
+  "9312 avenue m floor 2 brooklyn ny 11236": {
+    "minutes": 91,
+    "text": "1 hour 31 mins",
+    "mode": "transit",
+    "address": "9312 Avenue M Floor 2, Brooklyn, NY 11236"
+  },
   "225 s 9th st 2a newark nj 07103": {
-    "minutes": 22,
-    "text": "22 mins",
-    "mode": "driving",
+    "minutes": 73,
+    "text": "1 hour 13 mins",
+    "mode": "transit",
     "address": "225 S 9th St #2A, Newark, NJ 07103"
   },
+  "167 beach 25th st a far rockaway ny 11691": {
+    "minutes": 114,
+    "text": "1 hour 54 mins",
+    "mode": "transit",
+    "address": "167 Beach 25th St #A, Far Rockaway, NY 11691"
+  },
+  "61-47 231st st 1 oakland gardens ny 11364": {
+    "minutes": 110,
+    "text": "1 hour 50 mins",
+    "mode": "transit",
+    "address": "61-47 231st St #1, Oakland Gardens, NY 11364"
+  },
   "505 summit ave jersey city nj": {
-    "minutes": 19,
-    "text": "19 mins",
-    "mode": "driving",
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
     "address": "505 Summit Ave, Jersey City, NJ"
   },
+  "24 covert st 3b brooklyn ny 11207": {
+    "minutes": 60,
+    "text": "1 hour 0 mins",
+    "mode": "transit",
+    "address": "24 Covert St #3B, Brooklyn, NY 11207"
+  },
   "28 wainwright st newark nj": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
+    "minutes": 84,
+    "text": "1 hour 24 mins",
+    "mode": "transit",
     "address": "28 Wainwright St, Newark, NJ"
   },
   "170 s 9th st newark nj 07107": {
-    "minutes": 21,
-    "text": "21 mins",
-    "mode": "driving",
+    "minutes": 74,
+    "text": "1 hour 14 mins",
+    "mode": "transit",
     "address": "170 S 9th St, Newark, NJ 07107"
   },
   "75 n 15th st east orange nj": {
-    "minutes": 21,
-    "text": "21 mins",
-    "mode": "driving",
+    "minutes": 82,
+    "text": "1 hour 22 mins",
+    "mode": "transit",
     "address": "75 N 15th St, East Orange, NJ"
   },
+  "50 victor st yonkers ny 10701": {
+    "minutes": 114,
+    "text": "1 hour 54 mins",
+    "mode": "transit",
+    "address": "50 Victor St, Yonkers, NY 10701"
+  },
   "70 s 9th st floor 1 newark nj 07107": {
-    "minutes": 20,
-    "text": "20 mins",
-    "mode": "driving",
+    "minutes": 79,
+    "text": "1 hour 19 mins",
+    "mode": "transit",
     "address": "70 S 9th St Floor 1, Newark, NJ 07107"
   },
   "141 ward st 1 orange nj 07050": {
-    "minutes": 25,
-    "text": "25 mins",
-    "mode": "driving",
+    "minutes": 71,
+    "text": "1 hour 11 mins",
+    "mode": "transit",
     "address": "141 Ward St #1, Orange, NJ 07050"
   },
   "91 stuyvesant ave newark nj": {
-    "minutes": 25,
-    "text": "25 mins",
-    "mode": "driving",
+    "minutes": 94,
+    "text": "1 hour 34 mins",
+    "mode": "transit",
     "address": "91 Stuyvesant Ave, Newark, NJ"
   },
   "23 quincy st 4 passaic nj 07055": {
-    "minutes": 18,
-    "text": "18 mins",
-    "mode": "driving",
+    "minutes": 77,
+    "text": "1 hour 17 mins",
+    "mode": "transit",
     "address": "23 Quincy St #4, Passaic, NJ 07055"
   },
+  "101 maple st yonkers ny 10701": {
+    "minutes": 100,
+    "text": "1 hour 40 mins",
+    "mode": "transit",
+    "address": "101 Maple St APT 5, Yonkers, NY 10701"
+  },
   "275 s 7th st newark nj": {
-    "minutes": 23,
-    "text": "23 mins",
-    "mode": "driving",
+    "minutes": 88,
+    "text": "1 hour 28 mins",
+    "mode": "transit",
     "address": "275 S 7th St, Newark, NJ"
   },
   "468 springfield avenue - 2 468 springfield ave newark nj 07103": {
-    "minutes": 26,
-    "text": "26 mins",
-    "mode": "driving",
+    "minutes": 85,
+    "text": "1 hour 25 mins",
+    "mode": "transit",
     "address": "468 Springfield Avenue - 2, 468 Springfield Ave, Newark, NJ 07103"
   },
   "84 2nd st elizabethport nj 07206": {
-    "minutes": 26,
-    "text": "26 mins",
-    "mode": "driving",
+    "minutes": 85,
+    "text": "1 hour 25 mins",
+    "mode": "transit",
     "address": "84 2nd St APT 2, Elizabethport, NJ 07206"
   },
   "78 clerk st 1 jersey city nj 07305": {
-    "minutes": 25,
-    "text": "25 mins",
-    "mode": "driving",
+    "minutes": 46,
+    "text": "46 mins",
+    "mode": "transit",
     "address": "78 Clerk St #1, Jersey City, NJ 07305"
   },
+  "177 orchard st floor 2 yonkers ny 10703": {
+    "minutes": 116,
+    "text": "1 hour 56 mins",
+    "mode": "transit",
+    "address": "177 Orchard St Floor 2, Yonkers, NY 10703"
+  },
+  "179 saint marys ave staten island ny 10305": {
+    "minutes": 100,
+    "text": "1 hour 40 mins",
+    "mode": "transit",
+    "address": "179 Saint Marys Ave, Staten Island, NY 10305"
+  },
+  "685 e 240th st floor 1 bronx ny 10470": {
+    "minutes": 84,
+    "text": "1 hour 24 mins",
+    "mode": "transit",
+    "address": "685 E 240th St Floor 1, Bronx, NY 10470"
+  },
   "92 n 15th st floor 2 east orange nj 07017": {
-    "minutes": 21,
-    "text": "21 mins",
-    "mode": "driving",
+    "minutes": 71,
+    "text": "1 hour 11 mins",
+    "mode": "transit",
     "address": "92 N 15th St Floor 2, East Orange, NJ 07017"
   },
+  "1577 e new york ave brooklyn ny 11212": {
+    "minutes": 68,
+    "text": "1 hour 8 mins",
+    "mode": "transit",
+    "address": "1577 E New York Ave, Brooklyn, NY 11212"
+  },
+  "100 mclean ave yonkers ny 10705": {
+    "minutes": 87,
+    "text": "1 hour 27 mins",
+    "mode": "transit",
+    "address": "100 McLean Ave, Yonkers, NY 10705"
+  },
+  "180 ashburton ave yonkers ny 10701": {
+    "minutes": 114,
+    "text": "1 hour 54 mins",
+    "mode": "transit",
+    "address": "180 Ashburton Ave, Yonkers, NY 10701"
+  },
   "96 w 19th st floor 2 bayonne nj 07002": {
-    "minutes": 29,
-    "text": "29 mins",
-    "mode": "driving",
+    "minutes": 62,
+    "text": "1 hour 2 mins",
+    "mode": "transit",
     "address": "96 W 19th St Floor 2, Bayonne, NJ 07002"
   },
+  "138 hawthorne ave yonkers ny 10701": {
+    "minutes": 96,
+    "text": "1 hour 36 mins",
+    "mode": "transit",
+    "address": "138 Hawthorne Ave, Yonkers, NY 10701"
+  },
+  "4257 carpenter ave 2 bronx ny 10466": {
+    "minutes": 84,
+    "text": "1 hour 24 mins",
+    "mode": "transit",
+    "address": "4257 Carpenter Ave #2, Bronx, NY 10466"
+  },
+  "832 calhoun ave bronx ny": {
+    "minutes": 99,
+    "text": "1 hour 39 mins",
+    "mode": "transit",
+    "address": "832 Calhoun Ave, Bronx, NY"
+  },
+  "111 w 190th st 2 bronx ny 10468": {
+    "minutes": 65,
+    "text": "1 hour 5 mins",
+    "mode": "transit",
+    "address": "111 W 190th St #2, Bronx, NY 10468"
+  },
   "240 bergen ave jersey city nj 07305": {
-    "minutes": 26,
-    "text": "26 mins",
-    "mode": "driving",
+    "minutes": 47,
+    "text": "47 mins",
+    "mode": "transit",
     "address": "240 Bergen Ave APT 3R, Jersey City, NJ 07305"
   },
+  "168 hillside ave mount vernon ny": {
+    "minutes": 105,
+    "text": "1 hour 45 mins",
+    "mode": "transit",
+    "address": "168 Hillside Ave, Mount Vernon, NY"
+  },
+  "1902 marmion ave bronx ny": {
+    "minutes": 70,
+    "text": "1 hour 10 mins",
+    "mode": "transit",
+    "address": "1902 Marmion Ave, Bronx, NY"
+  },
   "828 s 16th st newark nj 07108": {
-    "minutes": 27,
-    "text": "27 mins",
-    "mode": "driving",
+    "minutes": 81,
+    "text": "1 hour 21 mins",
+    "mode": "transit",
     "address": "828 S 16th St APT 2, Newark, NJ 07108"
   },
   "239 lehigh ave newark nj": {
-    "minutes": 23,
-    "text": "23 mins",
-    "mode": "driving",
+    "minutes": 58,
+    "text": "58 mins",
+    "mode": "transit",
     "address": "239 Lehigh Ave, Newark, NJ"
   },
   "47 fleming ave 1 newark nj 07105": {
-    "minutes": 19,
-    "text": "19 mins",
-    "mode": "driving",
+    "minutes": 46,
+    "text": "46 mins",
+    "mode": "transit",
     "address": "47 Fleming Ave #1, Newark, NJ 07105"
   },
   "65 hawkins st newark nj": {
-    "minutes": 17,
-    "text": "17 mins",
-    "mode": "driving",
+    "minutes": 46,
+    "text": "46 mins",
+    "mode": "transit",
     "address": "65 Hawkins St, Newark, NJ"
   },
   "16 duryea st newark nj": {
-    "minutes": 19,
-    "text": "19 mins",
-    "mode": "driving",
+    "minutes": 74,
+    "text": "1 hour 14 mins",
+    "mode": "transit",
     "address": "16 Duryea St, Newark, NJ"
   },
+  "16 cedar st yonkers ny 10701": {
+    "minutes": 119,
+    "text": "1 hour 59 mins",
+    "mode": "transit",
+    "address": "16 Cedar St APT 6, Yonkers, NY 10701"
+  },
   "10 patten pl 1f newark nj 07112": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
+    "minutes": 85,
+    "text": "1 hour 25 mins",
+    "mode": "transit",
     "address": "10 Patten Pl #1F, Newark, NJ 07112"
   },
   "81 smith st newark nj": {
-    "minutes": 26,
-    "text": "26 mins",
-    "mode": "driving",
+    "minutes": 100,
+    "text": "1 hour 40 mins",
+    "mode": "transit",
     "address": "81 Smith St, Newark, NJ"
   },
   "110 chadwick ave floor 1 newark nj 07108": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
+    "minutes": 82,
+    "text": "1 hour 22 mins",
+    "mode": "transit",
     "address": "110 Chadwick Ave Floor 1, Newark, NJ 07108"
   },
+  "1715 tenbroeck ave bronx ny": {
+    "minutes": 94,
+    "text": "1 hour 34 mins",
+    "mode": "transit",
+    "address": "1715 Tenbroeck Ave, Bronx, NY"
+  },
+  "7 jones pl yonkers ny 10703": {
+    "minutes": 113,
+    "text": "1 hour 53 mins",
+    "mode": "transit",
+    "address": "7 Jones Pl, Yonkers, NY 10703"
+  },
+  "1545 selwyn ave bronx ny": {
+    "minutes": 55,
+    "text": "55 mins",
+    "mode": "transit",
+    "address": "1545 Selwyn Ave, Bronx, NY"
+  },
   "1051 hunterdon st newark nj 07112": {
-    "minutes": 25,
-    "text": "25 mins",
-    "mode": "driving",
+    "minutes": 54,
+    "text": "54 mins",
+    "mode": "transit",
     "address": "1051 Hunterdon St APT 1, Newark, NJ 07112"
   },
   "43 treacy ave 1 newark nj 07108": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
+    "minutes": 83,
+    "text": "1 hour 23 mins",
+    "mode": "transit",
     "address": "43 Treacy Ave #1, Newark, NJ 07108"
   },
   "1103 grove st 1 irvington nj 07111": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
+    "minutes": 63,
+    "text": "1 hour 3 mins",
+    "mode": "transit",
     "address": "1103 Grove St #1, Irvington, NJ 07111"
   },
   "495 clinton ave newark nj 07108": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
+    "minutes": 81,
+    "text": "1 hour 21 mins",
+    "mode": "transit",
     "address": "495 Clinton Ave APT 3, Newark, NJ 07108"
   },
   "195 lincoln ave 105 newark nj 07104": {
-    "minutes": 21,
-    "text": "21 mins",
-    "mode": "driving",
+    "minutes": 98,
+    "text": "1 hour 38 mins",
+    "mode": "transit",
     "address": "195 Lincoln Ave #105, Newark, NJ 07104"
   },
   "784 s 19th st newark nj": {
-    "minutes": 25,
-    "text": "25 mins",
-    "mode": "driving",
+    "minutes": 81,
+    "text": "1 hour 21 mins",
+    "mode": "transit",
     "address": "784 S 19th St, Newark, NJ"
   },
+  "932 e 217th st 2 bronx ny 10469": {
+    "minutes": 87,
+    "text": "1 hour 27 mins",
+    "mode": "transit",
+    "address": "932 E 217th St #2, Bronx, NY 10469"
+  },
+  "74 saratoga ave yonkers ny 10705": {
+    "minutes": 85,
+    "text": "1 hour 25 mins",
+    "mode": "transit",
+    "address": "74 Saratoga Ave, Yonkers, NY 10705"
+  },
   "58 s 14th st floor 3 newark nj 07107": {
-    "minutes": 20,
-    "text": "20 mins",
-    "mode": "driving",
+    "minutes": 101,
+    "text": "1 hour 41 mins",
+    "mode": "transit",
     "address": "58 S 14th St Floor 3, Newark, NJ 07107"
   },
+  "957 e 217th st floor 1 bronx ny 10469": {
+    "minutes": 88,
+    "text": "1 hour 28 mins",
+    "mode": "transit",
+    "address": "957 E 217th St Floor 1, Bronx, NY 10469"
+  },
+  "936 e 224th st bronx ny": {
+    "minutes": 87,
+    "text": "1 hour 27 mins",
+    "mode": "transit",
+    "address": "936 E 224th St, Bronx, NY"
+  },
   "16 triton ter newark nj": {
-    "minutes": 21,
-    "text": "21 mins",
-    "mode": "driving",
+    "minutes": 81,
+    "text": "1 hour 21 mins",
+    "mode": "transit",
     "address": "16 Triton Ter, Newark, NJ"
   },
+  "10932 176th st jamaica ny 11433": {
+    "minutes": 76,
+    "text": "1 hour 16 mins",
+    "mode": "transit",
+    "address": "10932 176th St, Jamaica, NY 11433"
+  },
   "44 11th ave w 3 newark nj 07107": {
-    "minutes": 20,
-    "text": "20 mins",
-    "mode": "driving",
+    "minutes": 77,
+    "text": "1 hour 17 mins",
+    "mode": "transit",
     "address": "44 11th Ave W #3, Newark, NJ 07107"
   },
+  "372 balcom ave floor 1 bronx ny 10465": {
+    "minutes": 113,
+    "text": "1 hour 53 mins",
+    "mode": "transit",
+    "address": "372 Balcom Ave Floor 1, Bronx, NY 10465"
+  },
   "246 s 8th st 1 newark nj 07103": {
-    "minutes": 22,
-    "text": "22 mins",
-    "mode": "driving",
+    "minutes": 90,
+    "text": "1 hour 30 mins",
+    "mode": "transit",
     "address": "246 S 8th St #1, Newark, NJ 07103"
   },
   "95 melrose ave 2l irvington nj 07111": {
-    "minutes": 25,
-    "text": "25 mins",
-    "mode": "driving",
+    "minutes": 76,
+    "text": "1 hour 16 mins",
+    "mode": "transit",
     "address": "95 Melrose Ave #2L, Irvington, NJ 07111"
   },
+  "1334 bay 24th st floor 2 far rockaway ny 11691": {
+    "minutes": 116,
+    "text": "1 hour 56 mins",
+    "mode": "transit",
+    "address": "1334 Bay 24th St Floor 2, Far Rockaway, NY 11691"
+  },
   "118 cedar ave 1 newark nj 07106": {
-    "minutes": 23,
-    "text": "23 mins",
-    "mode": "driving",
+    "minutes": 81,
+    "text": "1 hour 21 mins",
+    "mode": "transit",
     "address": "118 Cedar Ave #1, Newark, NJ 07106"
   },
   "131 orient ave floor 2 jersey city nj 07305": {
-    "minutes": 27,
-    "text": "27 mins",
-    "mode": "driving",
+    "minutes": 44,
+    "text": "44 mins",
+    "mode": "transit",
     "address": "131 Orient Ave Floor 2, Jersey City, NJ 07305"
   },
-  "744 s 15th st newark nj": {
-    "minutes": 26,
-    "text": "26 mins",
-    "mode": "driving",
-    "address": "744 S 15th St, Newark, NJ"
-  },
-  "47 milford ave newark nj": {
-    "minutes": 22,
-    "text": "22 mins",
-    "mode": "driving",
-    "address": "47 Milford Ave, Newark, NJ"
-  },
-  "323 park ave newark nj 07107": {
-    "minutes": 21,
-    "text": "21 mins",
-    "mode": "driving",
-    "address": "323 Park Ave APT 6, Newark, NJ 07107"
-  },
-  "641 15th ave 1l newark nj 07103": {
-    "minutes": 22,
-    "text": "22 mins",
-    "mode": "driving",
-    "address": "641 15th Ave #1L, Newark, NJ 07103"
-  },
-  "18 willoughby st 1 newark nj 07112": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
-    "address": "18 Willoughby St #1, Newark, NJ 07112"
-  },
-  "691 elizabeth ave newark nj": {
-    "minutes": 23,
-    "text": "23 mins",
-    "mode": "driving",
-    "address": "691 Elizabeth Ave, Newark, NJ"
-  },
-  "1442 springfield ave irvington nj 07111": {
-    "minutes": 27,
-    "text": "27 mins",
-    "mode": "driving",
-    "address": "1442 Springfield Ave APT 3L, Irvington, NJ 07111"
-  },
-  "265 w runyon st 1 newark nj 07108": {
-    "minutes": 22,
-    "text": "22 mins",
-    "mode": "driving",
-    "address": "265 W Runyon St #1, Newark, NJ 07108"
-  },
-  "46 hawkins st newark nj": {
-    "minutes": 17,
-    "text": "17 mins",
-    "mode": "driving",
-    "address": "46 Hawkins St, Newark, NJ"
-  },
-  "65 halstead st kearny nj": {
-    "minutes": 21,
-    "text": "21 mins",
-    "mode": "driving",
-    "address": "65 Halstead St, Kearny, NJ"
-  },
-  "182 n 17th st 1 east orange nj 07017": {
-    "minutes": 22,
-    "text": "22 mins",
-    "mode": "driving",
-    "address": "182 N 17th St #1, East Orange, NJ 07017"
-  },
-  "29 taylor st floor 2 newark nj 07104": {
-    "minutes": 21,
-    "text": "21 mins",
-    "mode": "driving",
-    "address": "29 Taylor St Floor 2, Newark, NJ 07104"
-  },
-  "1219 9th st 2 north bergen nj 07047": {
-    "minutes": 11,
-    "text": "11 mins",
-    "mode": "driving",
-    "address": "1219 9th St #2, North Bergen, NJ 07047"
-  },
-  "533 13th ave floor 2 newark nj 07103": {
-    "minutes": 22,
-    "text": "22 mins",
-    "mode": "driving",
-    "address": "533 13th Ave Floor 2, Newark, NJ 07103"
-  },
-  "261 amherst st east orange nj 07018": {
-    "minutes": 23,
-    "text": "23 mins",
-    "mode": "driving",
-    "address": "261 Amherst St APT 2, East Orange, NJ 07018"
-  },
-  "182 1st st 1 newark nj 07107": {
-    "minutes": 19,
-    "text": "19 mins",
-    "mode": "driving",
-    "address": "182 1st St #1, Newark, NJ 07107"
-  },
-  "40 aldine st 1 newark nj 07112": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
-    "address": "40 Aldine St #1, Newark, NJ 07112"
-  },
-  "46 fabyan pl newark nj": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
-    "address": "46 Fabyan Pl, Newark, NJ"
-  },
-  "264 vermont ave floor 3 irvington nj 07111": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
-    "address": "264 Vermont Ave Floor 3, Irvington, NJ 07111"
-  },
-  "426 s 17th st newark nj": {
-    "minutes": 22,
-    "text": "22 mins",
-    "mode": "driving",
-    "address": "426 S 17th St, Newark, NJ"
-  },
-  "126 eastern pkwy 1 irvington nj 07111": {
-    "minutes": 21,
-    "text": "21 mins",
-    "mode": "driving",
-    "address": "126 Eastern Pkwy #1, Irvington, NJ 07111"
-  },
-  "76 halstead st 1 newark nj 07106": {
-    "minutes": 25,
-    "text": "25 mins",
-    "mode": "driving",
-    "address": "76 Halstead St #1, Newark, NJ 07106"
-  },
-  "220 roseville ave newark nj": {
-    "minutes": 20,
-    "text": "20 mins",
-    "mode": "driving",
-    "address": "220 Roseville Ave, Newark, NJ"
-  },
-  "11 cottage st newark nj 07102": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
-    "address": "11 Cottage St APT 3, Newark, NJ 07102"
-  },
-  "737 s 14th st newark nj": {
-    "minutes": 26,
-    "text": "26 mins",
-    "mode": "driving",
-    "address": "737 S 14th St, Newark, NJ"
-  },
-  "92 huntington ter floor 2 newark nj 07112": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
-    "address": "92 Huntington Ter Floor 2, Newark, NJ 07112"
-  },
-  "65 bruen ave irvington nj 07111": {
-    "minutes": 23,
-    "text": "23 mins",
-    "mode": "driving",
-    "address": "65 Bruen Ave APT 1, Irvington, NJ 07111"
-  },
-  "139 smith st 2 elizabeth nj 07201": {
-    "minutes": 25,
-    "text": "25 mins",
-    "mode": "driving",
-    "address": "139 Smith St #2, Elizabeth, NJ 07201"
-  },
-  "50 woodside pl newark nj 07104": {
-    "minutes": 23,
-    "text": "23 mins",
-    "mode": "driving",
-    "address": "50 Woodside Pl APT 1, Newark, NJ 07104"
-  },
-  "951 clinton ave irvington nj 07111": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
-    "address": "951 Clinton Ave APT 2B, Irvington, NJ 07111"
-  },
-  "536 s 18th st floor 2 newark nj 07103": {
-    "minutes": 23,
-    "text": "23 mins",
-    "mode": "driving",
-    "address": "536 S 18th St Floor 2, Newark, NJ 07103"
-  },
-  "136 broad st perth amboy nj 08861": {
-    "minutes": 38,
-    "text": "38 mins",
-    "mode": "driving",
-    "address": "136 Broad St, Perth Amboy, NJ 08861"
-  },
-  "292 s 6th st 2 newark nj 07103": {
-    "minutes": 23,
-    "text": "23 mins",
-    "mode": "driving",
-    "address": "292 S 6th St #2, Newark, NJ 07103"
-  },
-  "72 norwood st 1 newark nj 07106": {
-    "minutes": 26,
-    "text": "26 mins",
-    "mode": "driving",
-    "address": "72 Norwood St #1, Newark, NJ 07106"
-  },
-  "856 s 14th st floor 2 newark nj 07108": {
-    "minutes": 25,
-    "text": "25 mins",
-    "mode": "driving",
-    "address": "856 S 14th St Floor 2, Newark, NJ 07108"
-  },
-  "10 boylan st floor 2 newark nj 07106": {
-    "minutes": 23,
-    "text": "23 mins",
-    "mode": "driving",
-    "address": "10 Boylan St Floor 2, Newark, NJ 07106"
-  },
-  "139 n 11th st 3r newark nj 07107": {
-    "minutes": 21,
-    "text": "21 mins",
-    "mode": "driving",
-    "address": "139 N 11th St #3R, Newark, NJ 07107"
-  },
-  "394 myrtle ave floor 1 irvington nj 07111": {
-    "minutes": 21,
-    "text": "21 mins",
-    "mode": "driving",
-    "address": "394 Myrtle Ave Floor 1, Irvington, NJ 07111"
-  },
-  "217 chadwick ave 2r newark nj 07108": {
-    "minutes": 22,
-    "text": "22 mins",
-    "mode": "driving",
-    "address": "217 Chadwick Ave #2R, Newark, NJ 07108"
-  },
-  "38 columbia ave newark nj": {
-    "minutes": 22,
-    "text": "22 mins",
-    "mode": "driving",
-    "address": "38 Columbia Ave, Newark, NJ"
-  },
-  "278 oraton st 1 newark nj 07104": {
-    "minutes": 21,
-    "text": "21 mins",
-    "mode": "driving",
-    "address": "278 Oraton St #1, Newark, NJ 07104"
-  },
-  "133 wilkinson ave 6 jersey city nj 07305": {
-    "minutes": 26,
-    "text": "26 mins",
-    "mode": "driving",
-    "address": "133 Wilkinson Ave #6, Jersey City, NJ 07305"
-  },
-  "316 mount prospect ave newark nj": {
-    "minutes": 22,
-    "text": "22 mins",
-    "mode": "driving",
-    "address": "316 Mount Prospect Ave, Newark, NJ"
-  },
-  "432 avon ave floor 2 newark nj 07108": {
-    "minutes": 26,
-    "text": "26 mins",
-    "mode": "driving",
-    "address": "432 Avon Ave Floor 2, Newark, NJ 07108"
-  },
-  "83 willoughby st newark nj": {
-    "minutes": 23,
-    "text": "23 mins",
-    "mode": "driving",
-    "address": "83 Willoughby St, Newark, NJ"
-  },
-  "113 gesner st linden nj": {
-    "minutes": 32,
-    "text": "32 mins",
-    "mode": "driving",
-    "address": "113 Gesner St, Linden, NJ"
-  },
-  "327 w runyon st floor 1 newark nj 07108": {
-    "minutes": 23,
-    "text": "23 mins",
-    "mode": "driving",
-    "address": "327 W Runyon St Floor 1, Newark, NJ 07108"
-  },
-  "38 cambridge st 1 east orange nj 07018": {
-    "minutes": 23,
-    "text": "23 mins",
-    "mode": "driving",
-    "address": "38 Cambridge St #1, East Orange, NJ 07018"
-  },
-  "28 abbotsford ave 2 newark nj 07106": {
-    "minutes": 26,
-    "text": "26 mins",
-    "mode": "driving",
-    "address": "28 Abbotsford Ave #2, Newark, NJ 07106"
-  },
-  "908 bergen st newark nj": {
-    "minutes": 22,
-    "text": "22 mins",
-    "mode": "driving",
-    "address": "908 Bergen St, Newark, NJ"
-  },
-  "15 vermont ave 2 newark nj 07106": {
-    "minutes": 22,
-    "text": "22 mins",
-    "mode": "driving",
-    "address": "15 Vermont Ave #2, Newark, NJ 07106"
-  },
-  "297 ridgewood ave floor 2 newark nj 07112": {
-    "minutes": 21,
-    "text": "21 mins",
-    "mode": "driving",
-    "address": "297 Ridgewood Ave Floor 2, Newark, NJ 07112"
-  },
-  "100 wilkinson ave 2 jersey city nj 07305": {
-    "minutes": 27,
-    "text": "27 mins",
-    "mode": "driving",
-    "address": "100 Wilkinson Ave #2, Jersey City, NJ 07305"
-  },
-  "95 s burnett st floor 1 east orange nj 07018": {
-    "minutes": 20,
-    "text": "20 mins",
-    "mode": "driving",
-    "address": "95 S Burnett St Floor 1, East Orange, NJ 07018"
-  },
-  "116 s 7th st floor 2 newark nj 07107": {
-    "minutes": 21,
-    "text": "21 mins",
-    "mode": "driving",
-    "address": "116 S 7th St Floor 2, Newark, NJ 07107"
-  },
-  "74 martin luther king jr dr 2 jersey city nj 07305": {
-    "minutes": 27,
-    "text": "27 mins",
-    "mode": "driving",
-    "address": "74 Martin Luther King Jr Dr #2, Jersey City, NJ 07305"
-  },
-  "218 clinton pl newark nj 07112": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
-    "address": "218 Clinton Pl APT 1, Newark, NJ 07112"
-  },
-  "591 15th ave newark nj": {
-    "minutes": 23,
-    "text": "23 mins",
-    "mode": "driving",
-    "address": "591 15th Ave, Newark, NJ"
-  },
-  "51 hawkins st newark nj": {
-    "minutes": 17,
-    "text": "17 mins",
-    "mode": "driving",
-    "address": "51 Hawkins St, Newark, NJ"
-  },
-  "241 12th ave newark nj": {
-    "minutes": 22,
-    "text": "22 mins",
-    "mode": "driving",
-    "address": "241 12th Ave, Newark, NJ"
-  },
-  "66 valley st 2 newark nj 07106": {
-    "minutes": 25,
-    "text": "25 mins",
-    "mode": "driving",
-    "address": "66 Valley St #2, Newark, NJ 07106"
-  },
-  "535 hawthorne ave newark nj": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
-    "address": "535 Hawthorne Ave, Newark, NJ"
-  },
-  "698 s 20th st newark nj": {
-    "minutes": 23,
-    "text": "23 mins",
-    "mode": "driving",
-    "address": "698 S 20th St, Newark, NJ"
-  },
-  "197 n 11th st 2 newark nj 07107": {
-    "minutes": 22,
-    "text": "22 mins",
-    "mode": "driving",
-    "address": "197 N 11th St #2, Newark, NJ 07107"
-  },
-  "147 21st st irvington nj 07111": {
-    "minutes": 22,
-    "text": "22 mins",
-    "mode": "driving",
-    "address": "147 21st St APT 2L, Irvington, NJ 07111"
-  },
-  "89 cedar ave newark nj": {
-    "minutes": 23,
-    "text": "23 mins",
-    "mode": "driving",
-    "address": "89 Cedar Ave, Newark, NJ"
-  },
-  "66 isabella ave newark nj": {
-    "minutes": 23,
-    "text": "23 mins",
-    "mode": "driving",
-    "address": "66 Isabella Ave, Newark, NJ"
-  },
-  "445 mt prospect ave newark nj 07104": {
-    "minutes": 25,
-    "text": "25 mins",
-    "mode": "driving",
-    "address": "445 Mt Prospect Ave APT 2B, Newark, NJ 07104"
-  },
-  "244 nye ave floor 2 newark nj 07112": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
-    "address": "244 Nye Ave Floor 2, Newark, NJ 07112"
-  },
-  "143 johnson ave newark nj 07108": {
-    "minutes": 21,
-    "text": "21 mins",
-    "mode": "driving",
-    "address": "143 Johnson Ave APT 1, Newark, NJ 07108"
-  },
-  "102 s 12th st 1 newark nj 07107": {
-    "minutes": 21,
-    "text": "21 mins",
-    "mode": "driving",
-    "address": "102 S 12th St #1, Newark, NJ 07107"
-  },
-  "354 s 10th st 1l newark nj 07103": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
-    "address": "354 S 10th St #1L, Newark, NJ 07103"
-  },
-  "15 grace st 3 irvington nj 07111": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
-    "address": "15 Grace St #3, Irvington, NJ 07111"
-  },
-  "53 milford ave newark nj": {
-    "minutes": 22,
-    "text": "22 mins",
-    "mode": "driving",
-    "address": "53 Milford Ave, Newark, NJ"
-  },
-  "161 bergen ave 4 jersey city nj 07305": {
-    "minutes": 26,
-    "text": "26 mins",
-    "mode": "driving",
-    "address": "161 Bergen Ave #4, Jersey City, NJ 07305"
-  },
-  "225 isabella ave floor 1 irvington nj 07111": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
-    "address": "225 Isabella Ave Floor 1, Irvington, NJ 07111"
-  },
-  "234 sherman ave newark nj": {
-    "minutes": 21,
-    "text": "21 mins",
-    "mode": "driving",
-    "address": "234 Sherman Ave, Newark, NJ"
-  },
-  "329 park ave newark nj 07107": {
-    "minutes": 21,
-    "text": "21 mins",
-    "mode": "driving",
-    "address": "329 Park Ave APT 4, Newark, NJ 07107"
-  },
-  "178 seymour ave newark nj 07108": {
-    "minutes": 22,
-    "text": "22 mins",
-    "mode": "driving",
-    "address": "178 Seymour Ave APT 3, Newark, NJ 07108"
-  },
-  "286 hunterdon st floor 1 newark nj 07103": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
-    "address": "286 Hunterdon St Floor 1, Newark, NJ 07103"
-  },
-  "50-52 n 12th st 2l newark nj 07107": {
-    "minutes": 21,
-    "text": "21 mins",
-    "mode": "driving",
-    "address": "50-52 N 12th St #2L, Newark, NJ 07107"
-  },
-  "91 clifton terrace fl 1st weehawken nj 07086": {
-    "minutes": 27,
-    "text": "27 mins",
-    "mode": "walking",
-    "address": "91 Clifton Terrace # Fl 1ST, Weehawken, NJ 07086"
-  },
-  "809 summer ave floor 1 newark nj 07104": {
-    "minutes": 23,
-    "text": "23 mins",
-    "mode": "driving",
-    "address": "809 Summer Ave Floor 1, Newark, NJ 07104"
-  },
-  "36 n 18th st floor 1 east orange nj 07017": {
-    "minutes": 21,
-    "text": "21 mins",
-    "mode": "driving",
-    "address": "36 N 18th St Floor 1, East Orange, NJ 07017"
-  },
-  "512 e jersey st 3r elizabethport nj 07206": {
-    "minutes": 26,
-    "text": "26 mins",
-    "mode": "driving",
-    "address": "512 E Jersey St #3R, Elizabethport, NJ 07206"
-  },
-  "234 n 7th st floor 2 newark nj 07107": {
-    "minutes": 22,
-    "text": "22 mins",
-    "mode": "driving",
-    "address": "234 N 7th St Floor 2, Newark, NJ 07107"
-  },
-  "575 highland ave newark nj 07104": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
-    "address": "575 Highland Ave APT 2, Newark, NJ 07104"
-  },
-  "721 highland ave newark nj": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
-    "address": "721 Highland Ave, Newark, NJ"
-  },
-  "146 palm street - - 3 bedroom 2 bathroom for rent - $240000 - parking included 146 palm st floor 3 newark nj 07106": {
-    "minutes": 25,
-    "text": "25 mins",
-    "mode": "driving",
-    "address": "146 Palm Street - Apt. 3 - 3 Bedroom 2 Bathroom For Rent - $2400.00 - Parking Included, 146 Palm St Floor 3, Newark, NJ 07106"
-  },
-  "189 n 11th st newark nj": {
-    "minutes": 21,
-    "text": "21 mins",
-    "mode": "driving",
-    "address": "189 N 11th St, Newark, NJ"
-  },
-  "108 madison st paterson nj": {
-    "minutes": 25,
-    "text": "25 mins",
-    "mode": "driving",
-    "address": "108 Madison St, Paterson, NJ"
-  },
-  "27 hanford st 1 newark nj 07114": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
-    "address": "27 Hanford St #1, Newark, NJ 07114"
-  },
-  "961 grove st irvington nj": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
-    "address": "961 Grove St, Irvington, NJ"
-  },
-  "6 park pl floor 1 paterson nj 07524": {
-    "minutes": 30,
-    "text": "30 mins",
-    "mode": "driving",
-    "address": "6 Park Pl Floor 1, Paterson, NJ 07524"
-  },
-  "71 w runyon st newark nj": {
-    "minutes": 19,
-    "text": "19 mins",
-    "mode": "driving",
-    "address": "71 W Runyon St, Newark, NJ"
-  },
-  "70 n willow st montclair nj 07042": {
-    "minutes": 27,
-    "text": "27 mins",
-    "mode": "driving",
-    "address": "70 N Willow St APT 1, Montclair, NJ 07042"
-  },
-  "117 isabella ave floor 2 newark nj 07106": {
-    "minutes": 23,
-    "text": "23 mins",
-    "mode": "driving",
-    "address": "117 Isabella Ave Floor 2, Newark, NJ 07106"
-  },
-  "38 wainwright st 40 newark nj 07112": {
-    "minutes": 24,
-    "text": "24 mins",
-    "mode": "driving",
-    "address": "38 Wainwright St #40, Newark, NJ 07112"
-  },
-  "10 tillinghast st 1 newark nj 07108": {
-    "minutes": 22,
-    "text": "22 mins",
-    "mode": "driving",
-    "address": "10 Tillinghast St #1, Newark, NJ 07108"
-  },
-  "35 seymour ave floor 2 newark nj 07108": {
-    "minutes": 26,
-    "text": "26 mins",
-    "mode": "driving",
-    "address": "35 Seymour Ave Floor 2, Newark, NJ 07108"
+  "24 mulberry st floor 2 yonkers ny 10701": {
+    "minutes": 118,
+    "text": "1 hour 58 mins",
+    "mode": "transit",
+    "address": "24 Mulberry St Floor 2, Yonkers, NY 10701"
+  },
+  "4629 carpenter ave bronx ny 10470": {
+    "minutes": 87,
+    "text": "1 hour 27 mins",
+    "mode": "transit",
+    "address": "4629 Carpenter Ave, Bronx, NY 10470"
   },
   "401 jackson st 604 hoboken nj 07030": {
     "minutes": 12,
@@ -1132,6 +886,30 @@
     "text": "12 mins",
     "mode": "driving",
     "address": "415 Newark St APT 6B, Hoboken, NJ 07030"
+  },
+  "133 wilkinson ave 6 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "133 Wilkinson Ave #6, Jersey City, NJ 07305"
+  },
+  "100 wilkinson ave 2 jersey city nj 07305": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "100 Wilkinson Ave #2, Jersey City, NJ 07305"
+  },
+  "74 martin luther king jr dr 2 jersey city nj 07305": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "74 Martin Luther King Jr Dr #2, Jersey City, NJ 07305"
+  },
+  "161 bergen ave 4 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "161 Bergen Ave #4, Jersey City, NJ 07305"
   },
   "18 skyline dr floor 2 jersey city nj 07305": {
     "minutes": 23,
@@ -2020,5 +1798,947 @@
     "text": "22 mins",
     "mode": "driving",
     "address": "321 Warren St, Jersey City, NJ"
+  },
+  "150 clendenny ave floor 2 jersey city nj 07304": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "150 Clendenny Ave Floor 2, Jersey City, NJ 07304"
+  },
+  "298 pearsall ave 2 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "298 Pearsall Ave #2, Jersey City, NJ 07305"
+  },
+  "232 bidwell ave jersey city nj": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "232 Bidwell Ave, Jersey City, NJ"
+  },
+  "224 old bergen rd 1 jersey city nj 07305": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "224 Old Bergen Rd #1, Jersey City, NJ 07305"
+  },
+  "25 fulton ave 2 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "25 Fulton Ave #2, Jersey City, NJ 07305"
+  },
+  "350 bergen ave 8 jersey city nj 07304": {
+    "minutes": 29,
+    "text": "29 mins",
+    "mode": "driving",
+    "address": "350 Bergen Ave #8, Jersey City, NJ 07304"
+  },
+  "155 bayview ave floor 1 jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "155 Bayview Ave Floor 1, Jersey City, NJ 07305"
+  },
+  "74 baldwin ave jersey city nj": {
+    "minutes": 21,
+    "text": "21 mins",
+    "mode": "driving",
+    "address": "74 Baldwin Ave, Jersey City, NJ"
+  },
+  "270 hancock ave jersey city nj": {
+    "minutes": 10,
+    "text": "10 mins",
+    "mode": "driving",
+    "address": "270 Hancock Ave, Jersey City, NJ"
+  },
+  "78 ave 1 jersey city nj 07305": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "78 Sterling Ave #1, Jersey City, NJ 07305"
+  },
+  "207 south st floor 2 jersey city nj 07307": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "207 South St Floor 2, Jersey City, NJ 07307"
+  },
+  "91 palisade ave 2 jersey city nj 07306": {
+    "minutes": 16,
+    "text": "16 mins",
+    "mode": "driving",
+    "address": "91 Palisade Ave #2, Jersey City, NJ 07306"
+  },
+  "532 summit ave jersey city nj": {
+    "minutes": 19,
+    "text": "19 mins",
+    "mode": "driving",
+    "address": "532 Summit Ave, Jersey City, NJ"
+  },
+  "6 bayside park dr jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "6 Bayside Park Dr, Jersey City, NJ 07305"
+  },
+  "187 woodlawn ave 1b jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "187 Woodlawn Ave #1B, Jersey City, NJ 07305"
+  },
+  "99 ferry st floor 3 jersey city nj 07307": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "99 Ferry St Floor 3, Jersey City, NJ 07307"
+  },
+  "236 whiton st floor 1 jersey city nj 07304": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "236 Whiton St Floor 1, Jersey City, NJ 07304"
+  },
+  "41 randolph ave 1 jersey city nj 07305": {
+    "minutes": 29,
+    "text": "29 mins",
+    "mode": "driving",
+    "address": "41 Randolph Ave #1, Jersey City, NJ 07305"
+  },
+  "389 van nostrand ave jersey city nj 07305": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "389 Van Nostrand Ave Unit 2, Jersey City, NJ 07305"
+  },
+  "76 neptune ave floor 3 jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "76 Neptune Ave Floor 3, Jersey City, NJ 07305"
+  },
+  "50 gates ave floor 2 jersey city nj 07305": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "50 Gates Ave Floor 2, Jersey City, NJ 07305"
+  },
+  "37 pamrapo ave 2 jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "37 Pamrapo Ave #2, Jersey City, NJ 07305"
+  },
+  "14 ave 1 jersey city nj 07305": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "14 Stevens Ave #1, Jersey City, NJ 07305"
+  },
+  "3586 kennedy blvd 2l jersey city nj 07307": {
+    "minutes": 13,
+    "text": "13 mins",
+    "mode": "driving",
+    "address": "3586 Kennedy Blvd #2L, Jersey City, NJ 07307"
+  },
+  "473-475 ocean ave jersey city nj": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "473-475 Ocean Ave, Jersey City, NJ"
+  },
+  "157 bayview ave 2 jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "157 Bayview Ave #2, Jersey City, NJ 07305"
+  },
+  "157 bayview ave floor 1 jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "157 Bayview Ave Floor 1, Jersey City, NJ 07305"
+  },
+  "121 prospect st floor 2 jersey city nj 07307": {
+    "minutes": 16,
+    "text": "16 mins",
+    "mode": "driving",
+    "address": "121 Prospect St Floor 2, Jersey City, NJ 07307"
+  },
+  "133 arlington ave jersey city nj": {
+    "minutes": 28,
+    "text": "28 mins",
+    "mode": "driving",
+    "address": "133 Arlington Ave, Jersey City, NJ"
+  },
+  "12 gifford ave 5d jersey city nj 07304": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "12 Gifford Ave #5D, Jersey City, NJ 07304"
+  },
+  "70 rose ave jersey city nj 07305": {
+    "minutes": 29,
+    "text": "29 mins",
+    "mode": "driving",
+    "address": "70 Rose Ave APT 2R, Jersey City, NJ 07305"
+  },
+  "212 seaview ave floor 2 jersey city nj 07305": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "212 Seaview Ave Floor 2, Jersey City, NJ 07305"
+  },
+  "15 spring st 1 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "15 Spring St #1, Jersey City, NJ 07305"
+  },
+  "47 lembeck ave 2 jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "47 Lembeck Ave #2, Jersey City, NJ 07305"
+  },
+  "91a arlington ave jersey city nj": {
+    "minutes": 29,
+    "text": "29 mins",
+    "mode": "driving",
+    "address": "91A Arlington Ave, Jersey City, NJ"
+  },
+  "293 fairmount ave 502 jersey city nj 07306": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "293 Fairmount Ave #502, Jersey City, NJ 07306"
+  },
+  "17 gardner ave 2 jersey city nj 07304": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "17 Gardner Ave #2, Jersey City, NJ 07304"
+  },
+  "71 bostwick ave 6 jersey city nj 07305": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "71 Bostwick Ave #6, Jersey City, NJ 07305"
+  },
+  "138 mallory ave 306 jersey city nj 07304": {
+    "minutes": 22,
+    "text": "22 mins",
+    "mode": "driving",
+    "address": "138 Mallory Ave #306, Jersey City, NJ 07304"
+  },
+  "2694 kennedy blvd jersey city nj": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "2694 Kennedy Blvd, Jersey City, NJ"
+  },
+  "(undisclosed address) jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "(undisclosed Address), Jersey City, NJ 07305"
+  },
+  "65 bergen ave jersey city nj": {
+    "minutes": 30,
+    "text": "30 mins",
+    "mode": "driving",
+    "address": "6.5 Bergen Ave, Jersey City, NJ"
+  },
+  "193 virginia ave jersey city nj 07304": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "193 Virginia Ave, Jersey City, NJ 07304"
+  },
+  "159 bidwell ave jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "159 Bidwell Ave Unit 2, Jersey City, NJ 07305"
+  },
+  "188 arlington ave floor 1 jersey city nj 07305": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "188 Arlington Ave Floor 1, Jersey City, NJ 07305"
+  },
+  "68 lexington ave 1 jersey city nj 07304": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "68 Lexington Ave #1, Jersey City, NJ 07304"
+  },
+  "37 reservoir ave jersey city nj": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "37 Reservoir Ave, Jersey City, NJ"
+  },
+  "149 cherry st jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "149 Cherry St, Jersey City, NJ 07305"
+  },
+  "121 carteret ave 2 jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "121 Carteret Ave #2, Jersey City, NJ 07305"
+  },
+  "335 lembeck ave 2 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "335 Lembeck Ave #2, Jersey City, NJ 07305"
+  },
+  "557 ocean ave 5c jersey city nj 07305": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "557 Ocean Ave #5C, Jersey City, NJ 07305"
+  },
+  "129 highland ave floor 2 jersey city nj 07306": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "129 Highland Ave Floor 2, Jersey City, NJ 07306"
+  },
+  "234 danforth ave floor 2 jersey city nj 07305": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "234 Danforth Ave Floor 2, Jersey City, NJ 07305"
+  },
+  "41 union st jersey city nj 07304": {
+    "minutes": 28,
+    "text": "28 mins",
+    "mode": "driving",
+    "address": "41 Union St Unit 2, Jersey City, NJ 07304"
+  },
+  "163 jewett ave jersey city nj 07304": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "163 Jewett Ave, Jersey City, NJ 07304"
+  },
+  "28 sheffield st floor 1 jersey city nj 07305": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "28 Sheffield St Floor 1, Jersey City, NJ 07305"
+  },
+  "101 clendenny ave floor 1 jersey city nj 07304": {
+    "minutes": 29,
+    "text": "29 mins",
+    "mode": "driving",
+    "address": "101 Clendenny Ave Floor 1, Jersey City, NJ 07304"
+  },
+  "the agnes 132 yale ave jersey city nj 07304": {
+    "minutes": 20,
+    "text": "20 mins",
+    "mode": "driving",
+    "address": "The Agnes, 132 Yale Ave Unit 455, Jersey City, NJ 07304"
+  },
+  "69 poplar st 2 jersey city nj 07306": {
+    "minutes": 12,
+    "text": "12 mins",
+    "mode": "driving",
+    "address": "69 Poplar St #2, Jersey City, NJ 07306"
+  },
+  "253 webster ave 3 jersey city nj 07307": {
+    "minutes": 11,
+    "text": "11 mins",
+    "mode": "driving",
+    "address": "253 Webster Ave #3, Jersey City, NJ 07307"
+  },
+  "121 garfield ave 3 jersey city nj 07305": {
+    "minutes": 22,
+    "text": "22 mins",
+    "mode": "driving",
+    "address": "121 Garfield Ave #3, Jersey City, NJ 07305"
+  },
+  "115 brown pl jersey city nj": {
+    "minutes": 28,
+    "text": "28 mins",
+    "mode": "driving",
+    "address": "115 Brown Pl, Jersey City, NJ"
+  },
+  "188 delaware ave jersey city nj 07306": {
+    "minutes": 21,
+    "text": "21 mins",
+    "mode": "driving",
+    "address": "188 Delaware Ave APT 3, Jersey City, NJ 07306"
+  },
+  "3 henry st floor 2 jersey city nj 07306": {
+    "minutes": 19,
+    "text": "19 mins",
+    "mode": "driving",
+    "address": "3 Henry St Floor 2, Jersey City, NJ 07306"
+  },
+  "140 ave 1 jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "140 Sterling Ave #1, Jersey City, NJ 07305"
+  },
+  "208 mcadoo ave floor 2 jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "208 McAdoo Ave Floor 2, Jersey City, NJ 07305"
+  },
+  "30 bergen ave floor basement jersey city nj 07305": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "30 Bergen Ave Floor Basement, Jersey City, NJ 07305"
+  },
+  "24 emerson ave jersey city nj 07306": {
+    "minutes": 19,
+    "text": "19 mins",
+    "mode": "driving",
+    "address": "24 Emerson Ave APT 2, Jersey City, NJ 07306"
+  },
+  "304 fulton ave jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "304 Fulton Ave APT 2, Jersey City, NJ 07305"
+  },
+  "230 union st floor 1 jersey city nj 07304": {
+    "minutes": 29,
+    "text": "29 mins",
+    "mode": "driving",
+    "address": "230 Union St Floor 1, Jersey City, NJ 07304"
+  },
+  "1 suburbia ct jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "1 Suburbia Ct, Jersey City, NJ 07305"
+  },
+  "639 ocean ave jersey city nj 07305": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "639 Ocean Ave, Jersey City, NJ 07305"
+  },
+  "131 armstrong ave jersey city nj": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "131 Armstrong Ave, Jersey City, NJ"
+  },
+  "131 armstrong ave jersey city nj 07305": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "131 Armstrong Ave, Jersey City, NJ 07305"
+  },
+  "104 baldwin ave 3r jersey city nj 07306": {
+    "minutes": 20,
+    "text": "20 mins",
+    "mode": "driving",
+    "address": "104 Baldwin Ave #3R, Jersey City, NJ 07306"
+  },
+  "294 coles st 414 jersey city nj 07310": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "294 Coles St #414, Jersey City, NJ 07310"
+  },
+  "239 harrison ave jersey city nj 07304": {
+    "minutes": 28,
+    "text": "28 mins",
+    "mode": "driving",
+    "address": "239 Harrison Ave Unit 2, Jersey City, NJ 07304"
+  },
+  "91 arlington ave 1 jersey city nj 07305": {
+    "minutes": 29,
+    "text": "29 mins",
+    "mode": "driving",
+    "address": "91 Arlington Ave #1, Jersey City, NJ 07305"
+  },
+  "53 williams ave 2 jersey city nj 07304": {
+    "minutes": 22,
+    "text": "22 mins",
+    "mode": "driving",
+    "address": "53 Williams Ave #2, Jersey City, NJ 07304"
+  },
+  "35 fairview ave jersey city nj": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "35 Fairview Ave, Jersey City, NJ"
+  },
+  "216 claremont ave 2 jersey city nj 07305": {
+    "minutes": 30,
+    "text": "30 mins",
+    "mode": "driving",
+    "address": "216 Claremont Ave #2, Jersey City, NJ 07305"
+  },
+  "15 wales ave jersey city nj 07306": {
+    "minutes": 19,
+    "text": "19 mins",
+    "mode": "driving",
+    "address": "15 Wales Ave, Jersey City, NJ 07306"
+  },
+  "69 clerk st 2 jersey city nj 07305": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "69 Clerk St #2, Jersey City, NJ 07305"
+  },
+  "30 whitman ave 1 jersey city nj 07306": {
+    "minutes": 20,
+    "text": "20 mins",
+    "mode": "driving",
+    "address": "30 Whitman Ave #1, Jersey City, NJ 07306"
+  },
+  "33 belmont ave 2 jersey city nj 07304": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "33 Belmont Ave #2, Jersey City, NJ 07304"
+  },
+  "189 myrtle ave floor 1 jersey city nj 07305": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "189 Myrtle Ave Floor 1, Jersey City, NJ 07305"
+  },
+  "169 ogden ave 2 jersey city nj 07307": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "169 Ogden Ave #2, Jersey City, NJ 07307"
+  },
+  "555 communipaw ave 2 jersey city nj 07304": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "555 Communipaw Ave #2, Jersey City, NJ 07304"
+  },
+  "239 halladay st jersey city nj": {
+    "minutes": 28,
+    "text": "28 mins",
+    "mode": "driving",
+    "address": "239 Halladay St, Jersey City, NJ"
+  },
+  "8 bergen ave 36e jersey city nj 07305": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "8 Bergen Ave #36E, Jersey City, NJ 07305"
+  },
+  "38 graham st g jersey city nj 07307": {
+    "minutes": 12,
+    "text": "12 mins",
+    "mode": "driving",
+    "address": "38 Graham St #G, Jersey City, NJ 07307"
+  },
+  "350 princeton ave jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "350 Princeton Ave, Jersey City, NJ 07305"
+  },
+  "5 towers st jersey city nj 07305": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "5 Towers St, Jersey City, NJ 07305"
+  },
+  "133 lake st 4 jersey city nj 07306": {
+    "minutes": 18,
+    "text": "18 mins",
+    "mode": "driving",
+    "address": "133 Lake St #4, Jersey City, NJ 07306"
+  },
+  "392 liberty ave 2 jersey city nj 07307": {
+    "minutes": 15,
+    "text": "15 mins",
+    "mode": "driving",
+    "address": "392 Liberty Ave #2, Jersey City, NJ 07307"
+  },
+  "177 virginia ave 1 jersey city nj 07304": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "177 Virginia Ave #1, Jersey City, NJ 07304"
+  },
+  "134 kearney ave jersey city nj 07305": {
+    "minutes": 29,
+    "text": "29 mins",
+    "mode": "driving",
+    "address": "134 Kearney Ave, Jersey City, NJ 07305"
+  },
+  "189 grant ave 1 jersey city nj 07305": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "189 Grant Ave #1, Jersey City, NJ 07305"
+  },
+  "14 bergen ave floor 2 jersey city nj 07305": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "14 Bergen Ave Floor 2, Jersey City, NJ 07305"
+  },
+  "122 mercer st jersey city nj 07302": {
+    "minutes": 22,
+    "text": "22 mins",
+    "mode": "driving",
+    "address": "122 Mercer St, Jersey City, NJ 07302"
+  },
+  "93 ocean ave 2 jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "93 Ocean Ave #2, Jersey City, NJ 07305"
+  },
+  "37 belmont ave floor 2 jersey city nj 07304": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "37 Belmont Ave Floor 2, Jersey City, NJ 07304"
+  },
+  "136 suburbia ter jersey city nj": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "136 Suburbia Ter, Jersey City, NJ"
+  },
+  "388 princeton ave jersey city nj 07305": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "388 Princeton Ave, Jersey City, NJ 07305"
+  },
+  "12 bergen ave floor 2 jersey city nj 07305": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "12 Bergen Ave Floor 2, Jersey City, NJ 07305"
+  },
+  "24 britton st floor 2-id1501172p jersey city nj 07306": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "24 Britton St Floor 2-ID1501172P, Jersey City, NJ 07306"
+  },
+  "(undisclosed address) jersey city nj 07304": {
+    "minutes": 29,
+    "text": "29 mins",
+    "mode": "driving",
+    "address": "(undisclosed Address), Jersey City, NJ 07304"
+  },
+  "61 belmont ave floor 2 jersey city nj 07304": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "61 Belmont Ave Floor 2, Jersey City, NJ 07304"
+  },
+  "133 lake st 1 jersey city nj 07307": {
+    "minutes": 18,
+    "text": "18 mins",
+    "mode": "driving",
+    "address": "133 Lake St #1, Jersey City, NJ 07307"
+  },
+  "60 jordan ave 2e jersey city nj 07306": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "60 Jordan Ave #2E, Jersey City, NJ 07306"
+  },
+  "646 newark ave 2 jersey city nj 07306": {
+    "minutes": 19,
+    "text": "19 mins",
+    "mode": "driving",
+    "address": "646 Newark Ave #2, Jersey City, NJ 07306"
+  },
+  "196 randolph ave jersey city nj 07305": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "196 Randolph Ave Unit 1, Jersey City, NJ 07305"
+  },
+  "glenwood arms 64 glenwood ave jersey city nj 07306": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "Glenwood Arms, 64 Glenwood Ave APT 301, Jersey City, NJ 07306"
+  },
+  "145 chestnut ave jersey city nj": {
+    "minutes": 18,
+    "text": "18 mins",
+    "mode": "driving",
+    "address": "145 Chestnut Ave, Jersey City, NJ"
+  },
+  "(undisclosed address) jersey city nj 07302": {
+    "minutes": 20,
+    "text": "20 mins",
+    "mode": "driving",
+    "address": "(undisclosed Address), Jersey City, NJ 07302"
+  },
+  "829 garfield 829 garfield ave jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "829 Garfield, 829 Garfield Ave APT 517, Jersey City, NJ 07305"
+  },
+  "48 jefferson ave floor 2 jersey city nj 07306": {
+    "minutes": 15,
+    "text": "15 mins",
+    "mode": "driving",
+    "address": "48 Jefferson Ave Floor 2, Jersey City, NJ 07306"
+  },
+  "166 mallory ave 1 jersey city nj 07304": {
+    "minutes": 21,
+    "text": "21 mins",
+    "mode": "driving",
+    "address": "166 Mallory Ave #1, Jersey City, NJ 07304"
+  },
+  "359 new york ave 2 jersey city nj 07307": {
+    "minutes": 11,
+    "text": "11 mins",
+    "mode": "driving",
+    "address": "359 New York Ave #2, Jersey City, NJ 07307"
+  },
+  "260 palisade ave 3 jersey city nj 07307": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "260 Palisade Ave #3, Jersey City, NJ 07307"
+  },
+  "97 reservoir ave jersey city nj": {
+    "minutes": 15,
+    "text": "15 mins",
+    "mode": "driving",
+    "address": "97 Reservoir Ave, Jersey City, NJ"
+  },
+  "98 old bergen rd jersey city nj": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "98 Old Bergen Rd, Jersey City, NJ"
+  },
+  "journal squared 615 pavonia ave jersey city nj 07306": {
+    "minutes": 20,
+    "text": "20 mins",
+    "mode": "driving",
+    "address": "Journal Squared, 615 Pavonia Ave APT 913, Jersey City, NJ 07306"
+  },
+  "86 orient ave 2 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "86 Orient Ave #2, Jersey City, NJ 07305"
+  },
+  "135 sherman pl floor 2 jersey city nj 07307": {
+    "minutes": 16,
+    "text": "16 mins",
+    "mode": "driving",
+    "address": "135 Sherman Pl Floor 2, Jersey City, NJ 07307"
+  },
+  "72 mcadoo ave 2 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "72 McAdoo Ave #2, Jersey City, NJ 07305"
+  },
+  "87 wallis ave 1 jersey city nj 07302": {
+    "minutes": 20,
+    "text": "20 mins",
+    "mode": "driving",
+    "address": "87 Wallis Ave #1, Jersey City, NJ 07302"
+  },
+  "117 franklin st floor 2 jersey city nj 07307": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "117 Franklin St Floor 2, Jersey City, NJ 07307"
+  },
+  "33 stagg st jersey city nj": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "33 Stagg St, Jersey City, NJ"
+  },
+  "162 terrace ave 2 jersey city nj 07307": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "162 Terrace Ave #2, Jersey City, NJ 07307"
+  },
+  "136 suburbia ter jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "136 Suburbia Ter APT 1, Jersey City, NJ 07305"
+  },
+  "26 fulton ave floor 2 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "26 Fulton Ave Floor 2, Jersey City, NJ 07305"
+  },
+  "63 wade st jersey city nj": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "63 Wade St, Jersey City, NJ"
+  },
+  "the journal 36 journal sq 306 jersey city nj 07306": {
+    "minutes": 21,
+    "text": "21 mins",
+    "mode": "driving",
+    "address": "The Journal, 36 Journal Sq #306, Jersey City, NJ 07306"
+  },
+  "61 duncan ave apartments 61 duncan ave jersey city nj 07304": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "61 Duncan Ave Apartments, 61 Duncan Ave, Jersey City, NJ 07304"
+  },
+  "253 terrace ave 1 jersey city nj 07307": {
+    "minutes": 13,
+    "text": "13 mins",
+    "mode": "driving",
+    "address": "253 Terrace Ave #1, Jersey City, NJ 07307"
+  },
+  "15 irving st floor 2 jersey city nj 07307": {
+    "minutes": 13,
+    "text": "13 mins",
+    "mode": "driving",
+    "address": "15 Irving St Floor 2, Jersey City, NJ 07307"
+  },
+  "37 logan ave 2 jersey city nj 07306": {
+    "minutes": 19,
+    "text": "19 mins",
+    "mode": "driving",
+    "address": "37 Logan Ave #2, Jersey City, NJ 07306"
+  },
+  "77 sanford pl jersey city nj 07307": {
+    "minutes": 16,
+    "text": "16 mins",
+    "mode": "driving",
+    "address": "77 Sanford Pl, Jersey City, NJ 07307"
+  },
+  "130 grant ave 1 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "130 Grant Ave #1, Jersey City, NJ 07305"
+  },
+  "470 mallory ave floor 2 jersey city nj 07306": {
+    "minutes": 21,
+    "text": "21 mins",
+    "mode": "driving",
+    "address": "470 Mallory Ave Floor 2, Jersey City, NJ 07306"
+  },
+  "190 dwight st jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "190 Dwight St, Jersey City, NJ 07305"
+  },
+  "144 ave 2 jersey city nj 07305": {
+    "minutes": 28,
+    "text": "28 mins",
+    "mode": "driving",
+    "address": "144 Stevens Ave #2, Jersey City, NJ 07305"
+  },
+  "569 pavonia ave 533 jersey city nj 07306": {
+    "minutes": 19,
+    "text": "19 mins",
+    "mode": "driving",
+    "address": "569 Pavonia Ave #533, Jersey City, NJ 07306"
+  },
+  "41 randolph ave 2 jersey city nj 07305": {
+    "minutes": 29,
+    "text": "29 mins",
+    "mode": "driving",
+    "address": "41 Randolph Ave #2, Jersey City, NJ 07305"
+  },
+  "25 skillman ave 1 jersey city nj 07306": {
+    "minutes": 21,
+    "text": "21 mins",
+    "mode": "driving",
+    "address": "25 Skillman Ave #1, Jersey City, NJ 07306"
+  },
+  "79 crescent ave bsmt 1 jersey city nj 07304": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "79 Crescent Ave Bsmt 1, Jersey City, NJ 07304"
+  },
+  "(undisclosed address) jersey city nj 07307": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "(undisclosed Address), Jersey City, NJ 07307"
+  },
+  "29 st jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "29 Stegman St APT 1, Jersey City, NJ 07305"
+  },
+  "163 christopher columbus dr jersey city nj 07302": {
+    "minutes": 21,
+    "text": "21 mins",
+    "mode": "driving",
+    "address": "163 Christopher Columbus Dr APT 3, Jersey City, NJ 07302"
+  },
+  "398 ege ave floor 1 jersey city nj 07304": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "398 Ege Ave Floor 1, Jersey City, NJ 07304"
+  },
+  "371 danforth ave 1 jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "371 Danforth Ave #1, Jersey City, NJ 07305"
+  },
+  "49 belmont ave floor 1 jersey city nj 07304": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "49 Belmont Ave Floor 1, Jersey City, NJ 07304"
+  },
+  "24 fulton ave floor 2 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "24 Fulton Ave Floor 2, Jersey City, NJ 07305"
+  },
+  "181 princeton ave jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "181 Princeton Ave, Jersey City, NJ 07305"
+  },
+  "255 brunswick st jersey city nj": {
+    "minutes": 17,
+    "text": "17 mins",
+    "mode": "driving",
+    "address": "255 Brunswick St, Jersey City, NJ"
+  },
+  "818 communipaw ave 1 jersey city nj 07304": {
+    "minutes": 21,
+    "text": "21 mins",
+    "mode": "driving",
+    "address": "818 Communipaw Ave #1, Jersey City, NJ 07304"
   }
 }
