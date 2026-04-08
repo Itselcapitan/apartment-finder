@@ -15,25 +15,57 @@ const DOCS_LISTINGS_PATH = path.join(__dirname, '..', 'docs', 'listings.json');
 
 const MAX_BUDGET_PER_PERSON = 2500;
 const MAX_GROUP_SIZE = 6;
-const MAX_COMMUTE_MINUTES = 45;
 const MIN_BEDROOMS = 3;
 
+// Commute limits by region — Manhattan transit to Weehawken is longer
+const MAX_COMMUTE_BY_REGION = {
+  Manhattan: 60,     // Transit across the Hudson takes longer
+  Hoboken: 45,
+  Weehawken: 45,
+  'Jersey City': 45,
+  'Other NJ': 35,    // Only include if it's a short commute
+};
+const DEFAULT_MAX_COMMUTE = 45;
+
+// Minimum score threshold for non-priority regions (group of 4)
+// Manhattan and Hoboken always show; others need to earn their spot
+const MIN_SCORE_BY_REGION = {
+  Manhattan: 0,       // Always show
+  Hoboken: 0,         // Always show
+  Weehawken: 0,       // Always show (it's where the office is)
+  'Jersey City': 30,  // Show if decent
+  'Other NJ': 45,     // Only show if good
+};
+
 function applyHardFilters(listings) {
-  const maxRent = MAX_BUDGET_PER_PERSON * MAX_GROUP_SIZE; // Filter at max group size
+  const maxRent = MAX_BUDGET_PER_PERSON * MAX_GROUP_SIZE;
   const before = listings.length;
 
   const filtered = listings.filter(l => {
     if (l.rent > maxRent) return false;
     if (l.rent <= 0) return false;
-    // Note: laundry info is not available from search results — skip this filter.
-    // Amenity details require individual property detail API calls.
-    // if (!l.amenities.laundryInUnit) return false;
     if (l.bedrooms < MIN_BEDROOMS) return false;
-    if (l.commuteMinutes != null && l.commuteMinutes > MAX_COMMUTE_MINUTES) return false;
+
+    // Region-specific commute limits
+    const maxCommute = MAX_COMMUTE_BY_REGION[l.region] || DEFAULT_MAX_COMMUTE;
+    if (l.commuteMinutes != null && l.commuteMinutes > maxCommute) return false;
+
     return true;
   });
 
   console.log(`[Filter] ${before} → ${filtered.length} after hard filters`);
+  return filtered;
+}
+
+// After scoring, remove low-scoring listings from non-priority regions
+function applyScoreThresholds(listings) {
+  const before = listings.length;
+  const filtered = listings.filter(l => {
+    const minScore = MIN_SCORE_BY_REGION[l.region] ?? 30;
+    const score = l.scores?.[4] || 0;
+    return score >= minScore;
+  });
+  console.log(`[Priority] ${before} → ${filtered.length} after score thresholds`);
   return filtered;
 }
 
@@ -71,29 +103,43 @@ async function main() {
     console.log('[Commute] Skipped — no Google Maps API key');
   }
 
-  // 5. Apply hard filters
+  // 5. Apply hard filters (budget, bedrooms, commute)
   const filtered = applyHardFilters(deduplicated);
 
   // 6. Score listings for each group size
   scoreListings(filtered, [3, 4, 5, 6]);
 
-  // 7. Sort by default score (group of 4) descending
-  filtered.sort((a, b) => (b.scores?.[4] || 0) - (a.scores?.[4] || 0));
+  // 7. Apply score thresholds for non-priority areas
+  const prioritized = applyScoreThresholds(filtered);
 
-  // 7. Strip raw data to keep JSON smaller
-  const output = filtered.map(l => {
+  // 8. Sort: priority regions first, then by score
+  const REGION_PRIORITY = { Manhattan: 0, Hoboken: 1, Weehawken: 2, 'Jersey City': 3, 'Other NJ': 4 };
+  prioritized.sort((a, b) => {
+    const pa = REGION_PRIORITY[a.region] ?? 5;
+    const pb = REGION_PRIORITY[b.region] ?? 5;
+    if (pa !== pb) return pa - pb;
+    return (b.scores?.[4] || 0) - (a.scores?.[4] || 0);
+  });
+
+  // 9. Strip raw data to keep JSON smaller
+  const output = prioritized.map(l => {
     const { raw, ...clean } = l;
     return clean;
   });
 
-  // 8. Write output
+  // Log region breakdown
+  const regionCounts = {};
+  output.forEach(l => { regionCounts[l.region] = (regionCounts[l.region] || 0) + 1; });
+  console.log('[Regions]', regionCounts);
+
+  // 10. Write output
   const result = {
     lastUpdated: new Date().toISOString(),
     totalListings: output.length,
     filters: {
       maxBudgetPerPerson: MAX_BUDGET_PER_PERSON,
       maxGroupSize: MAX_GROUP_SIZE,
-      maxCommuteMinutes: MAX_COMMUTE_MINUTES,
+      maxCommuteByRegion: MAX_COMMUTE_BY_REGION,
       minBedrooms: MIN_BEDROOMS,
     },
     listings: output,

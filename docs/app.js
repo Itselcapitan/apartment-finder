@@ -220,8 +220,8 @@
   resetFilters.addEventListener('click', () => {
     filterPrice.value = 2500;
     filterPriceVal.textContent = '$2,500';
-    filterCommute.value = 45;
-    filterCommuteVal.textContent = '45 min';
+    filterCommute.value = 60;
+    filterCommuteVal.textContent = '60 min';
     filterBeds.value = '3';
     sortBy.value = 'score';
     filterNeighborhood.querySelectorAll('input').forEach(el => el.checked = true);

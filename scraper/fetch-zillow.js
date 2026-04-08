@@ -21,6 +21,32 @@ function normalizeAddress(addr) {
     .trim();
 }
 
+// Detect actual region from address text — Zillow search returns results outside the search area
+function detectRegion(address, city, state, zip) {
+  const addr = (address || '').toLowerCase();
+  const c = (city || '').toLowerCase();
+  const s = (state || '').toUpperCase();
+
+  // Jersey City
+  if (c.includes('jersey city') || addr.includes('jersey city')) return 'Jersey City';
+  // Hoboken
+  if (c.includes('hoboken') || addr.includes('hoboken')) return 'Hoboken';
+  // Weehawken
+  if (c.includes('weehawken') || addr.includes('weehawken')) return 'Weehawken';
+  // Manhattan — must be New York, NY and in Manhattan zip codes or borough
+  if ((c === 'new york' || c === 'manhattan') && s === 'NY') {
+    // Manhattan zip codes: 100xx-102xx
+    if (zip && /^10[012]\d{2}$/.test(zip)) return 'Manhattan';
+    return 'Manhattan'; // Default for New York, NY
+  }
+  // Other NYC boroughs (Brooklyn, Queens, Bronx, Staten Island) — skip
+  if (s === 'NY' && c !== 'new york' && c !== 'manhattan') return null;
+  // Other NJ cities near the area
+  if (s === 'NJ') return 'Other NJ';
+
+  return null; // Not in our target areas
+}
+
 function extractAmenities(listing) {
   const text = JSON.stringify(listing).toLowerCase();
   return {
@@ -67,8 +93,13 @@ async function fetchZillowListings(apiKey) {
           const bedrooms = prop.beds || prop.bedrooms || 0;
           if (bedrooms < 3) continue;
 
-          const address = prop.address || prop.street_address || '';
+          const fullAddress = prop.address || `${prop.street_address || ''}, ${prop.city || ''}, ${prop.state || ''} ${prop.zipcode || ''}`;
           const amenities = extractAmenities(prop);
+
+          // Determine actual region from address/city, not search area
+          // Zillow's Manhattan search often returns NJ and outer-borough results
+          const region = detectRegion(fullAddress, prop.city, prop.state, prop.zipcode);
+          if (!region) continue; // Skip listings outside our target areas
 
           // Extract photo URL from nested photos array
           const photoUrl = prop.image_url
@@ -80,11 +111,11 @@ async function fetchZillowListings(apiKey) {
             source: 'zillow',
             id: `zillow-${prop.zpid}`,
             zpid: prop.zpid,
-            address: prop.address || `${prop.street_address || ''}, ${prop.city || ''}, ${prop.state || ''} ${prop.zipcode || ''}`,
-            addressNormalized: normalizeAddress(prop.address || prop.street_address || ''),
+            address: fullAddress,
+            addressNormalized: normalizeAddress(fullAddress),
             neighborhood: prop.neighborhood || '',
-            region: area.region,
-            city: area.location,
+            region,
+            city: prop.city || '',
             zipCode: prop.zipcode || '',
             lat: prop.latitude || null,
             lng: prop.longitude || null,
@@ -103,6 +134,9 @@ async function fetchZillowListings(apiKey) {
 
         // Stop paginating if we got fewer results than a full page
         if (results.length < 40) break;
+
+        // Delay between pages to avoid 429 rate limits
+        await new Promise(r => setTimeout(r, 2000));
 
       } catch (err) {
         console.error(`[Zillow] Error fetching ${area.location} page ${page}:`, err.response?.status, err.response?.data?.error?.message || err.message);
