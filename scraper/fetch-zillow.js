@@ -70,26 +70,33 @@ async function fetchZillowListings(apiKey) {
           const address = prop.address || prop.street_address || '';
           const amenities = extractAmenities(prop);
 
+          // Extract photo URL from nested photos array
+          const photoUrl = prop.image_url
+            || prop.photos?.[0]?.urls?.large
+            || prop.photos?.[0]?.urls?.medium
+            || '';
+
           allListings.push({
             source: 'zillow',
             id: `zillow-${prop.zpid}`,
             zpid: prop.zpid,
-            address: typeof address === 'object' ? address.full || `${address.street}, ${address.city}, ${address.state} ${address.zip}` : address,
-            addressNormalized: normalizeAddress(typeof address === 'object' ? address.full || address.street || '' : address),
-            neighborhood: prop.neighborhood || (typeof address === 'object' ? address.neighborhood || '' : ''),
+            address: prop.address || `${prop.street_address || ''}, ${prop.city || ''}, ${prop.state || ''} ${prop.zipcode || ''}`,
+            addressNormalized: normalizeAddress(prop.address || prop.street_address || ''),
+            neighborhood: prop.neighborhood || '',
             region: area.region,
             city: area.location,
-            zipCode: typeof address === 'object' ? address.zip || '' : prop.zipcode || prop.zip || '',
-            lat: prop.latitude || prop.lat || null,
-            lng: prop.longitude || prop.lng || null,
-            rent: prop.price || prop.rent || 0,
+            zipCode: prop.zipcode || '',
+            lat: prop.latitude || null,
+            lng: prop.longitude || null,
+            rent: prop.price || 0,
             bedrooms,
-            bathrooms: prop.baths || prop.bathrooms || 0,
-            sqft: prop.sqft || prop.living_area || prop.livingArea || null,
-            photo: prop.photos?.[0] || prop.imgSrc || prop.image || '',
-            url: prop.url || prop.zillow_url || `https://www.zillow.com/homedetails/${prop.zpid}_zpid/`,
+            bathrooms: prop.baths || 0,
+            sqft: prop.sqft || null,
+            photo: photoUrl,
+            url: prop.detail_url || `https://www.zillow.com/homedetails/${prop.zpid}_zpid/`,
             amenities,
-            listingDate: prop.listing_date || prop.listingDateTime || null,
+            listingDate: null,
+            daysOnZillow: prop.days_on_zillow || null,
             raw: prop,
           });
         }

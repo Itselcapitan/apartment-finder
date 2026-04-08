@@ -24,7 +24,9 @@ function applyHardFilters(listings) {
   const filtered = listings.filter(l => {
     if (l.rent > maxRent) return false;
     if (l.rent <= 0) return false;
-    if (!l.amenities.laundryInUnit) return false;
+    // Note: laundry info is not available from search results — skip this filter.
+    // Amenity details require individual property detail API calls.
+    // if (!l.amenities.laundryInUnit) return false;
     if (l.bedrooms < MIN_BEDROOMS) return false;
     if (l.commuteMinutes != null && l.commuteMinutes > MAX_COMMUTE_MINUTES) return false;
     return true;
@@ -43,8 +45,7 @@ async function main() {
     process.exit(1);
   }
   if (!googleMapsKey) {
-    console.error('Missing GOOGLE_MAPS_API_KEY. Set it in .env or as an environment variable.');
-    process.exit(1);
+    console.warn('Warning: GOOGLE_MAPS_API_KEY not set. Commute times will be skipped.');
   }
 
   console.log('=== Apartment Finder Scraper ===\n');
@@ -59,8 +60,12 @@ async function main() {
   const all = [...zillowListings, ...apartmentsListings];
   const deduplicated = deduplicateListings(all);
 
-  // 3. Calculate commute times
-  await calculateCommuteTimes(deduplicated, googleMapsKey);
+  // 3. Calculate commute times (skip if no API key)
+  if (googleMapsKey) {
+    await calculateCommuteTimes(deduplicated, googleMapsKey);
+  } else {
+    console.log('[Commute] Skipped — no Google Maps API key');
+  }
 
   // 4. Apply hard filters
   const filtered = applyHardFilters(deduplicated);
