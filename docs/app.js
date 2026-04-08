@@ -45,6 +45,18 @@
     return '$' + n.toLocaleString();
   }
 
+  // Commute mode display
+  function commuteIcon(mode) {
+    if (mode === 'walking') return '\u{1F6B6}';
+    if (mode === 'driving') return '\u{1F697}';
+    return '\u{1F687}'; // transit
+  }
+  function commuteLabel(mode) {
+    if (mode === 'walking') return 'walk';
+    if (mode === 'driving') return 'drive';
+    return 'transit';
+  }
+
   // Get current filters
   function getFilters() {
     const neighborhoods = [...filterNeighborhood.querySelectorAll('input:checked')].map(el => el.value);
@@ -146,7 +158,7 @@
             <div class="card-top-row">
               <div>
                 <div class="card-address">${l.address}</div>
-                <div class="card-neighborhood">${l.region}${l.neighborhood ? ' — ' + l.neighborhood : ''}</div>
+                <div class="card-neighborhood">${l.neighborhood || l.region}${l.neighborhood && l.neighborhood !== l.region ? ' · ' + l.region : ''}</div>
               </div>
               <div class="score-badge ${scoreClass}">${score}</div>
             </div>
@@ -169,7 +181,7 @@
               <span class="detail-chip">${l.bedrooms} bed</span>
               <span class="detail-chip">${l.bathrooms} bath</span>
               ${l.sqft ? `<span class="detail-chip">${l.sqft.toLocaleString()} sqft</span>` : ''}
-              ${l.commuteMinutes != null ? `<span class="detail-chip">${l.commuteMinutes} min commute</span>` : ''}
+              ${l.commuteMinutes != null ? `<span class="detail-chip commute-chip">${commuteIcon(l.commuteMode)} ${l.commuteMinutes} min ${commuteLabel(l.commuteMode)}</span>` : ''}
             </div>
             ${amenityTags.length > 0 ? `
             <div class="card-amenities">

@@ -40,8 +40,8 @@ async function fetchZillowListings(apiKey) {
   for (const area of SEARCH_AREAS) {
     console.log(`[Zillow] Fetching rentals in ${area.location}...`);
 
-    // Paginate through results (up to 3 pages = ~120 listings per area)
-    for (let page = 1; page <= 3; page++) {
+    // Paginate through results (up to 8 pages = ~320 listings per area)
+    for (let page = 1; page <= 8; page++) {
       try {
         const response = await axios.get(`${BASE_URL}/search`, {
           params: {

@@ -32,6 +32,40 @@ function saveCache(cache) {
   fs.writeFileSync(CACHE_PATH, JSON.stringify(cache, null, 2));
 }
 
+// Determine which commute modes to try based on region
+// Manhattan: transit only (no driving through Lincoln Tunnel for daily commute)
+// NJ (Hoboken, Jersey City): walking, driving, and transit — pick the best
+function getModesForRegion(region) {
+  if (region === 'Manhattan') {
+    return ['transit', 'walking'];
+  }
+  // NJ areas — close enough to potentially walk or drive
+  return ['walking', 'driving', 'transit'];
+}
+
+async function fetchCommute(origin, mode, departureTime, apiKey) {
+  const params = {
+    origins: origin,
+    destinations: DESTINATION,
+    mode,
+    key: apiKey,
+  };
+  // departure_time only works with transit and driving
+  if (mode === 'transit' || mode === 'driving') {
+    params.departure_time = departureTime;
+  }
+  const response = await axios.get('https://maps.googleapis.com/maps/api/distancematrix/json', { params });
+  const element = response.data?.rows?.[0]?.elements?.[0];
+  if (element?.status === 'OK') {
+    return {
+      minutes: Math.round(element.duration.value / 60),
+      text: element.duration.text,
+      mode,
+    };
+  }
+  return null;
+}
+
 async function calculateCommuteTimes(listings, apiKey) {
   const cache = loadCache();
   const departureTime = getNextMondayAt9am();
@@ -40,14 +74,14 @@ async function calculateCommuteTimes(listings, apiKey) {
   for (const listing of listings) {
     const cacheKey = listing.addressNormalized || listing.address;
 
-    // Check cache first
-    if (cache[cacheKey]) {
+    // Check cache first (v2 cache has mode info)
+    if (cache[cacheKey] && cache[cacheKey].mode) {
       listing.commuteMinutes = cache[cacheKey].minutes;
       listing.commuteText = cache[cacheKey].text;
+      listing.commuteMode = cache[cacheKey].mode;
       continue;
     }
 
-    // Need origin — use address or lat/lng
     const origin = listing.lat && listing.lng
       ? `${listing.lat},${listing.lng}`
       : listing.address;
@@ -55,46 +89,54 @@ async function calculateCommuteTimes(listings, apiKey) {
     if (!origin) {
       listing.commuteMinutes = null;
       listing.commuteText = 'Unknown';
+      listing.commuteMode = null;
       continue;
     }
 
     try {
-      const response = await axios.get('https://maps.googleapis.com/maps/api/distancematrix/json', {
-        params: {
-          origins: origin,
-          destinations: DESTINATION,
-          mode: 'transit',
-          departure_time: departureTime,
-          key: apiKey,
-        },
-      });
+      const modes = getModesForRegion(listing.region);
+      let best = null;
 
-      const element = response.data?.rows?.[0]?.elements?.[0];
-      if (element?.status === 'OK') {
-        const minutes = Math.round(element.duration.value / 60);
-        const text = element.duration.text;
-        listing.commuteMinutes = minutes;
-        listing.commuteText = text;
-        cache[cacheKey] = { minutes, text, address: listing.address };
+      for (const mode of modes) {
+        const result = await fetchCommute(origin, mode, departureTime, apiKey);
+        apiCalls++;
+        if (result && (!best || result.minutes < best.minutes)) {
+          best = result;
+        }
+        // If walking is under 30 min, that's great — no need to check more
+        if (best && best.mode === 'walking' && best.minutes <= 30) break;
+      }
+
+      if (best) {
+        listing.commuteMinutes = best.minutes;
+        listing.commuteText = best.text;
+        listing.commuteMode = best.mode;
+        cache[cacheKey] = {
+          minutes: best.minutes,
+          text: best.text,
+          mode: best.mode,
+          address: listing.address,
+        };
       } else {
         listing.commuteMinutes = null;
         listing.commuteText = 'Not available';
+        listing.commuteMode = null;
       }
 
-      apiCalls++;
       // Small delay to respect rate limits
       if (apiCalls % 10 === 0) {
-        await new Promise(r => setTimeout(r, 1000));
+        await new Promise(r => setTimeout(r, 500));
       }
     } catch (err) {
       console.error(`[Commute] Error for "${listing.address}":`, err.message);
       listing.commuteMinutes = null;
       listing.commuteText = 'Error';
+      listing.commuteMode = null;
     }
   }
 
   saveCache(cache);
-  console.log(`[Commute] Calculated ${apiCalls} new commute times (${Object.keys(cache).length} total cached)`);
+  console.log(`[Commute] ${apiCalls} API calls, ${Object.keys(cache).length} total cached`);
   return listings;
 }
 

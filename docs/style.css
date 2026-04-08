@@ -364,6 +364,12 @@ main {
   border-radius: 4px;
 }
 
+.commute-chip {
+  background: #e8f5e9;
+  color: #2e7d32;
+  font-weight: 500;
+}
+
 .card-amenities {
   display: flex;
   flex-wrap: wrap;

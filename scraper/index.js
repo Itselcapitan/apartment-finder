@@ -7,6 +7,7 @@ const { fetchApartmentsListings } = require('./fetch-apartments');
 const { deduplicateListings } = require('./deduplicate');
 const { calculateCommuteTimes } = require('./commute');
 const { scoreListings } = require('./score');
+const { assignNeighborhoods } = require('./neighborhoods');
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const LISTINGS_PATH = path.join(DATA_DIR, 'listings.json');
@@ -60,20 +61,23 @@ async function main() {
   const all = [...zillowListings, ...apartmentsListings];
   const deduplicated = deduplicateListings(all);
 
-  // 3. Calculate commute times (skip if no API key)
+  // 3. Assign neighborhoods based on lat/lng
+  assignNeighborhoods(deduplicated);
+
+  // 4. Calculate commute times (skip if no API key)
   if (googleMapsKey) {
     await calculateCommuteTimes(deduplicated, googleMapsKey);
   } else {
     console.log('[Commute] Skipped — no Google Maps API key');
   }
 
-  // 4. Apply hard filters
+  // 5. Apply hard filters
   const filtered = applyHardFilters(deduplicated);
 
-  // 5. Score listings for each group size
+  // 6. Score listings for each group size
   scoreListings(filtered, [3, 4, 5, 6]);
 
-  // 6. Sort by default score (group of 4) descending
+  // 7. Sort by default score (group of 4) descending
   filtered.sort((a, b) => (b.scores?.[4] || 0) - (a.scores?.[4] || 0));
 
   // 7. Strip raw data to keep JSON smaller
