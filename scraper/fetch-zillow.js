@@ -1,6 +1,7 @@
 const axios = require('axios');
 
-const RAPIDAPI_HOST = 'zillow-com1.p.rapidapi.com';
+const RAPIDAPI_HOST = 'zillow-real-estate-api.p.rapidapi.com';
+const BASE_URL = `https://${RAPIDAPI_HOST}/v1`;
 
 const SEARCH_AREAS = [
   { location: 'Manhattan, New York, NY', region: 'Manhattan' },
@@ -38,55 +39,68 @@ async function fetchZillowListings(apiKey) {
 
   for (const area of SEARCH_AREAS) {
     console.log(`[Zillow] Fetching rentals in ${area.location}...`);
-    try {
-      const response = await axios.get('https://zillow-com1.p.rapidapi.com/propertyExtendedSearch', {
-        params: {
-          location: area.location,
-          status_type: 'ForRent',
-          home_type: 'Apartments',
-          bedsMin: 3,
-          sort: 'Newest',
-        },
-        headers: {
-          'x-rapidapi-key': apiKey,
-          'x-rapidapi-host': RAPIDAPI_HOST,
-        },
-      });
 
-      const results = response.data?.props || [];
-      console.log(`[Zillow] Found ${results.length} listings in ${area.location}`);
-
-      for (const prop of results) {
-        const bedrooms = prop.bedrooms || 0;
-        if (bedrooms < 3) continue;
-
-        const amenities = extractAmenities(prop);
-
-        allListings.push({
-          source: 'zillow',
-          id: `zillow-${prop.zpid}`,
-          zpid: prop.zpid,
-          address: prop.address || '',
-          addressNormalized: normalizeAddress(prop.address || ''),
-          neighborhood: prop.address ? prop.address.split(',')[0] : '',
-          region: area.region,
-          city: area.location,
-          zipCode: prop.zipcode || '',
-          lat: prop.latitude || null,
-          lng: prop.longitude || null,
-          rent: prop.price || 0,
-          bedrooms,
-          bathrooms: prop.bathrooms || 0,
-          sqft: prop.livingArea || null,
-          photo: prop.imgSrc || '',
-          url: `https://www.zillow.com/homedetails/${prop.zpid}_zpid/`,
-          amenities,
-          listingDate: prop.listingDateTime || null,
-          raw: prop,
+    // Paginate through results (up to 3 pages = ~120 listings per area)
+    for (let page = 1; page <= 3; page++) {
+      try {
+        const response = await axios.get(`${BASE_URL}/search`, {
+          params: {
+            location: area.location,
+            status: 'for_rent',
+            beds_min: 3,
+            sort: 'newest',
+            page,
+          },
+          headers: {
+            'x-rapidapi-key': apiKey,
+            'x-rapidapi-host': RAPIDAPI_HOST,
+          },
         });
+
+        const data = response.data?.data;
+        const results = data?.results || [];
+        console.log(`[Zillow] Page ${page}: ${results.length} listings in ${area.location}`);
+
+        if (results.length === 0) break;
+
+        for (const prop of results) {
+          const bedrooms = prop.beds || prop.bedrooms || 0;
+          if (bedrooms < 3) continue;
+
+          const address = prop.address || prop.street_address || '';
+          const amenities = extractAmenities(prop);
+
+          allListings.push({
+            source: 'zillow',
+            id: `zillow-${prop.zpid}`,
+            zpid: prop.zpid,
+            address: typeof address === 'object' ? address.full || `${address.street}, ${address.city}, ${address.state} ${address.zip}` : address,
+            addressNormalized: normalizeAddress(typeof address === 'object' ? address.full || address.street || '' : address),
+            neighborhood: prop.neighborhood || (typeof address === 'object' ? address.neighborhood || '' : ''),
+            region: area.region,
+            city: area.location,
+            zipCode: typeof address === 'object' ? address.zip || '' : prop.zipcode || prop.zip || '',
+            lat: prop.latitude || prop.lat || null,
+            lng: prop.longitude || prop.lng || null,
+            rent: prop.price || prop.rent || 0,
+            bedrooms,
+            bathrooms: prop.baths || prop.bathrooms || 0,
+            sqft: prop.sqft || prop.living_area || prop.livingArea || null,
+            photo: prop.photos?.[0] || prop.imgSrc || prop.image || '',
+            url: prop.url || prop.zillow_url || `https://www.zillow.com/homedetails/${prop.zpid}_zpid/`,
+            amenities,
+            listingDate: prop.listing_date || prop.listingDateTime || null,
+            raw: prop,
+          });
+        }
+
+        // Stop paginating if we got fewer results than a full page
+        if (results.length < 40) break;
+
+      } catch (err) {
+        console.error(`[Zillow] Error fetching ${area.location} page ${page}:`, err.response?.status, err.response?.data?.error?.message || err.message);
+        break;
       }
-    } catch (err) {
-      console.error(`[Zillow] Error fetching ${area.location}:`, err.response?.status, err.response?.data?.message || err.message);
     }
   }
 

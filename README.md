@@ -1,10 +1,10 @@
 # Apartment Finder
 
-A static apartment finder web app for Manhattan, Hoboken, and Jersey City. Fetches listings from Zillow and Apartments.com via RapidAPI, scores them with a composite algorithm, and serves everything as a GitHub Pages site — no backend needed.
+A static apartment finder web app for Manhattan, Hoboken, and Jersey City. Fetches listings from Zillow and Redfin via RapidAPI, scores them with a composite algorithm, and serves everything as a GitHub Pages site — no backend needed.
 
 ## Features
 
-- **Multi-source listings** from Zillow and Apartments.com (via RapidAPI)
+- **Multi-source listings** from Zillow and Redfin (via RapidAPI)
 - **Smart scoring** (0–100) based on price, commute, amenities, nightlife proximity, and geography
 - **Group size toggle** (3–6 people) that recalculates per-person rent, budget cap, and scores live
 - **Filters**: price/person, commute time, bedrooms, neighborhood, amenities
@@ -16,10 +16,10 @@ A static apartment finder web app for Manhattan, Hoboken, and Jersey City. Fetch
 
 ### 1. Get API Keys
 
-**RapidAPI** (covers Zillow + Apartments.com):
+**RapidAPI** (covers Zillow + Redfin):
 1. Sign up at [rapidapi.com](https://rapidapi.com)
-2. Subscribe to [Zillow Working API](https://rapidapi.com/apimaker/api/zillow-com1) (free tier: 100 req/month)
-3. Subscribe to an [Apartments.com API](https://rapidapi.com/search/apartments.com) (free tier varies)
+2. Subscribe to [Zillow Real Estate API](https://rapidapi.com/jdtpnjtp/api/zillow-real-estate-api) (free BASIC tier)
+3. Optionally subscribe to [Redfin Real Estate API](https://rapidapi.com/jdtpnjtp/api/redfin-real-estate-api) for a second data source (same key)
 4. Copy your RapidAPI key from any subscribed API's "Code Snippets" section
 
 **Google Maps Distance Matrix**:
@@ -86,7 +86,7 @@ apartment-finder/
 ├── scraper/
 │   ├── index.js                # Orchestrator
 │   ├── fetch-zillow.js         # Zillow RapidAPI client
-│   ├── fetch-apartments.js     # Apartments.com RapidAPI client
+│   ├── fetch-apartments.js     # Redfin RapidAPI client (second source)
 │   ├── deduplicate.js          # Cross-reference by address
 │   ├── commute.js              # Google Maps + cache
 │   └── score.js                # Scoring engine

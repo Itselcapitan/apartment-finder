@@ -1,9 +1,12 @@
 const axios = require('axios');
 
-const RAPIDAPI_HOST = 'apartments-com-api.p.rapidapi.com';
+// Uses the Redfin Real Estate API as a second data source (same RapidAPI key)
+// https://rapidapi.com/jdtpnjtp/api/redfin-real-estate-api
+const RAPIDAPI_HOST = 'redfin-real-estate-api.p.rapidapi.com';
+const BASE_URL = `https://${RAPIDAPI_HOST}/v1`;
 
 const SEARCH_AREAS = [
-  { location: 'Manhattan, NY', region: 'Manhattan' },
+  { location: 'Manhattan, New York, NY', region: 'Manhattan' },
   { location: 'Hoboken, NJ', region: 'Hoboken' },
   { location: 'Jersey City, NJ', region: 'Jersey City' },
 ];
@@ -37,14 +40,14 @@ async function fetchApartmentsListings(apiKey) {
   const allListings = [];
 
   for (const area of SEARCH_AREAS) {
-    console.log(`[Apartments.com] Fetching rentals in ${area.location}...`);
+    console.log(`[Redfin] Fetching rentals in ${area.location}...`);
     try {
-      // Try the apartments-com-api endpoint
-      const response = await axios.get('https://apartments-com-api.p.rapidapi.com/apartments', {
+      const response = await axios.get(`${BASE_URL}/search`, {
         params: {
           location: area.location,
-          min_bedrooms: 3,
-          sort: 'default',
+          status: 'for_rent',
+          beds_min: 3,
+          sort: 'newest',
         },
         headers: {
           'x-rapidapi-key': apiKey,
@@ -52,54 +55,63 @@ async function fetchApartmentsListings(apiKey) {
         },
       });
 
-      const results = response.data?.listings || response.data?.results || response.data || [];
-      const listings = Array.isArray(results) ? results : [];
-      console.log(`[Apartments.com] Found ${listings.length} listings in ${area.location}`);
+      const data = response.data?.data;
+      const results = data?.results || [];
+      console.log(`[Redfin] Found ${results.length} listings in ${area.location}`);
 
-      for (const prop of listings) {
-        const bedrooms = prop.bedrooms || prop.beds || 0;
+      for (const prop of results) {
+        const bedrooms = prop.beds || prop.bedrooms || 0;
         if (bedrooms < 3) continue;
 
-        const address = prop.address || prop.streetAddress || prop.formattedAddress || '';
+        const address = prop.address || prop.street_address || '';
+        const fullAddress = typeof address === 'object'
+          ? address.full || `${address.street || ''}, ${address.city || ''}, ${address.state || ''} ${address.zip || ''}`
+          : address;
+
         const amenities = extractAmenities(prop);
 
-        // Parse rent — handle ranges like "$3,000 - $4,500"
+        // Parse rent — handle various formats
         let rent = 0;
-        const priceStr = String(prop.price || prop.rent || prop.monthlyRent || '0');
-        const prices = priceStr.match(/[\d,]+/g);
-        if (prices && prices.length > 0) {
-          rent = parseInt(prices[0].replace(/,/g, ''), 10);
+        if (typeof prop.price === 'number') {
+          rent = prop.price;
+        } else if (typeof prop.price === 'string') {
+          const prices = prop.price.match(/[\d,]+/g);
+          if (prices && prices.length > 0) {
+            rent = parseInt(prices[0].replace(/,/g, ''), 10);
+          }
+        } else if (prop.rent) {
+          rent = typeof prop.rent === 'number' ? prop.rent : parseInt(String(prop.rent).replace(/[^0-9]/g, ''), 10) || 0;
         }
 
         allListings.push({
-          source: 'apartments.com',
-          id: `apt-${prop.id || prop.listingId || allListings.length}`,
-          address,
-          addressNormalized: normalizeAddress(address),
-          neighborhood: prop.neighborhood || '',
+          source: 'redfin',
+          id: `redfin-${prop.property_id || prop.listing_id || prop.id || allListings.length}`,
+          address: fullAddress,
+          addressNormalized: normalizeAddress(fullAddress),
+          neighborhood: prop.neighborhood || (typeof address === 'object' ? address.neighborhood || '' : ''),
           region: area.region,
           city: area.location,
-          zipCode: prop.zipCode || prop.zip || '',
+          zipCode: typeof address === 'object' ? address.zip || '' : prop.zip || prop.zipcode || '',
           lat: prop.latitude || prop.lat || null,
           lng: prop.longitude || prop.lng || null,
           rent,
           bedrooms,
-          bathrooms: prop.bathrooms || prop.baths || 0,
-          sqft: prop.sqft || prop.squareFeet || prop.livingArea || null,
-          photo: prop.photo || prop.image || prop.imageUrl || prop.photos?.[0] || '',
-          url: prop.url || prop.detailUrl || prop.listingUrl || '',
+          bathrooms: prop.baths || prop.bathrooms || 0,
+          sqft: prop.sqft || prop.square_feet || prop.living_area || null,
+          photo: prop.photos?.[0] || prop.photo || prop.image || prop.imgSrc || '',
+          url: prop.url || prop.redfin_url || prop.listing_url || '',
           amenities,
-          listingDate: prop.listingDate || prop.availableDate || null,
+          listingDate: prop.listing_date || prop.list_date || null,
           raw: prop,
         });
       }
     } catch (err) {
-      console.error(`[Apartments.com] Error fetching ${area.location}:`, err.response?.status, err.response?.data?.message || err.message);
-      // Apartments.com API may not be available — continue gracefully
+      console.error(`[Redfin] Error fetching ${area.location}:`, err.response?.status, err.response?.data?.error?.message || err.message);
+      // Redfin API may not be subscribed — continue gracefully
     }
   }
 
-  console.log(`[Apartments.com] Total listings: ${allListings.length}`);
+  console.log(`[Redfin] Total listings: ${allListings.length}`);
   return allListings;
 }
 
