@@ -1,0 +1,13 @@
+{
+  "name": "apartment-finder-scraper",
+  "version": "1.0.0",
+  "description": "Fetches apartment listings from Zillow and Apartments.com, scores and filters them",
+  "main": "index.js",
+  "scripts": {
+    "fetch": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "dotenv": "^16.4.0"
+  }
+}

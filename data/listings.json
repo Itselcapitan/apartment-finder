@@ -1,0 +1,11 @@
+{
+  "lastUpdated": "2026-04-07T12:00:00.000Z",
+  "totalListings": 0,
+  "filters": {
+    "maxBudgetPerPerson": 2500,
+    "maxGroupSize": 6,
+    "maxCommuteMinutes": 45,
+    "minBedrooms": 3
+  },
+  "listings": []
+}

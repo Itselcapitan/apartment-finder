@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Apartment Finder</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <h1>Apartment Finder</h1>
+      <p class="subtitle">Manhattan &middot; Hoboken &middot; Jersey City</p>
+    </div>
+    <div class="header-controls">
+      <div class="group-toggle">
+        <label>Group Size</label>
+        <div class="toggle-buttons" id="groupToggle">
+          <button data-size="3">3</button>
+          <button data-size="4" class="active">4</button>
+          <button data-size="5">5</button>
+          <button data-size="6">6</button>
+        </div>
+      </div>
+      <div class="budget-display">
+        <span class="budget-label">Budget cap</span>
+        <span class="budget-value" id="budgetCap">$10,000/mo</span>
+      </div>
+      <div class="last-updated" id="lastUpdated"></div>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-toggle" id="sidebarToggle">Filters</div>
+      <div class="sidebar-content">
+        <h3>Filters</h3>
+
+        <div class="filter-group">
+          <label>Max Price/Person</label>
+          <input type="range" id="filterPrice" min="500" max="2500" step="50" value="2500">
+          <span class="range-value" id="filterPriceVal">$2,500</span>
+        </div>
+
+        <div class="filter-group">
+          <label>Max Commute (min)</label>
+          <input type="range" id="filterCommute" min="5" max="45" step="5" value="45">
+          <span class="range-value" id="filterCommuteVal">45 min</span>
+        </div>
+
+        <div class="filter-group">
+          <label>Min Bedrooms</label>
+          <select id="filterBeds">
+            <option value="3">3+</option>
+            <option value="4">4+</option>
+            <option value="5">5+</option>
+            <option value="6">6+</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label>Neighborhood</label>
+          <div class="checkbox-group" id="filterNeighborhood">
+            <label><input type="checkbox" value="Manhattan" checked> Manhattan</label>
+            <label><input type="checkbox" value="Hoboken" checked> Hoboken</label>
+            <label><input type="checkbox" value="Jersey City" checked> Jersey City</label>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label>Amenities</label>
+          <div class="checkbox-group" id="filterAmenities">
+            <label><input type="checkbox" value="doorman"> Doorman</label>
+            <label><input type="checkbox" value="gym"> Gym</label>
+            <label><input type="checkbox" value="pool"> Pool</label>
+            <label><input type="checkbox" value="rooftop"> Rooftop</label>
+            <label><input type="checkbox" value="balcony"> Balcony</label>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label>Sort By</label>
+          <select id="sortBy">
+            <option value="score">Score (Best First)</option>
+            <option value="price-asc">Price (Low → High)</option>
+            <option value="price-desc">Price (High → Low)</option>
+            <option value="commute">Commute (Shortest)</option>
+            <option value="newest">Newest</option>
+          </select>
+        </div>
+
+        <button class="btn-reset" id="resetFilters">Reset Filters</button>
+      </div>
+    </aside>
+
+    <main>
+      <div class="results-bar">
+        <span id="resultsCount">0 listings</span>
+      </div>
+      <div class="listings-grid" id="listingsGrid">
+        <div class="loading" id="loading">Loading listings...</div>
+      </div>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
