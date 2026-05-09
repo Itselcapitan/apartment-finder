@@ -7126,5 +7126,455 @@
     "text": "7 mins",
     "mode": "walking",
     "address": "801 Harbor Blvd #410A, Weehawken, NJ 07086"
+  },
+  "324 w 87th st a new york ny 10024": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "324 W 87th St #A, New York, NY 10024"
+  },
+  "755 w end ave new york ny 10025": {
+    "minutes": 33,
+    "text": "33 mins",
+    "mode": "transit",
+    "address": "755 W End Ave APT 6A, New York, NY 10025"
+  },
+  "211 w 84th st phc new york ny 10024": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "211 W 84th St #Phc, New York, NY 10024"
+  },
+  "230 w 108th st new york ny 10025": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "230 W 108th St APT 6C, New York, NY 10025"
+  },
+  "246 w 106th st 5h new york ny 10025": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "246 W 106th St #5H, New York, NY 10025"
+  },
+  "4 w 108th st new york ny 10025": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "transit",
+    "address": "4 W 108th St APT 6, New York, NY 10025"
+  },
+  "1425 york ave new york ny 10021": {
+    "minutes": 49,
+    "text": "49 mins",
+    "mode": "transit",
+    "address": "1425 York Ave APT 9A, New York, NY 10021"
+  },
+  "200 e 89th st new york ny 10128": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "200 E 89th St APT 34D, New York, NY 10128"
+  },
+  "300 e 75th st new york ny 10021": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "300 E 75th St APT 29C, New York, NY 10021"
+  },
+  "176 e 82nd st 9 new york ny 10028": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "176 E 82nd St #9, New York, NY 10028"
+  },
+  "1256 lexington ave 3 new york ny 10028": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "1256 Lexington Ave #3, New York, NY 10028"
+  },
+  "29 bethune st 1 new york ny 10014": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "29 Bethune St #1, New York, NY 10014"
+  },
+  "405 e 56th st new york ny 10022": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "405 E 56th St APT 9D, New York, NY 10022"
+  },
+  "150 north st jersey city nj 07307": {
+    "minutes": 11,
+    "text": "11 mins",
+    "mode": "driving",
+    "address": "150 North St APT 3, Jersey City, NJ 07307"
+  },
+  "2050 ellery ave a fort lee nj 07024": {
+    "minutes": 18,
+    "text": "18 mins",
+    "mode": "driving",
+    "address": "2050 Ellery Ave #A, Fort Lee, NJ 07024"
+  },
+  "405 adams st 3a hoboken nj 07030": {
+    "minutes": 10,
+    "text": "10 mins",
+    "mode": "driving",
+    "address": "405 Adams St #3A, Hoboken, NJ 07030"
+  },
+  "800 vosseller ave martinsville nj 08836": {
+    "minutes": 47,
+    "text": "47 mins",
+    "mode": "driving",
+    "address": "800 Vosseller Ave, Martinsville, NJ 08836"
+  },
+  "177 midfield rd colonia nj 07067": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "driving",
+    "address": "177 Midfield Rd, Colonia, NJ 07067"
+  },
+  "8 sherwood rd edison nj 08820": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "driving",
+    "address": "8 Sherwood Rd, Edison, NJ 08820"
+  },
+  "12 e 49th st floor 2 bayonne nj 07002": {
+    "minutes": 21,
+    "text": "21 mins",
+    "mode": "driving",
+    "address": "12 E 49th St Floor 2, Bayonne, NJ 07002"
+  },
+  "505 summit 505 summit ave jersey city nj 07306": {
+    "minutes": 19,
+    "text": "19 mins",
+    "mode": "driving",
+    "address": "505 Summit, 505 Summit Ave, Jersey City, NJ 07306"
+  },
+  "waterside 30 waterside plz -30c new york ny 10010": {
+    "minutes": 47,
+    "text": "47 mins",
+    "mode": "transit",
+    "address": "Waterside, 30 Waterside Plz Unit 40-30C, New York, NY 10010"
+  },
+  "31 park ave floor 1 dumont nj 07628": {
+    "minutes": 32,
+    "text": "32 mins",
+    "mode": "driving",
+    "address": "31 Park Ave Floor 1, Dumont, NJ 07628"
+  },
+  "114 oak st jersey city nj": {
+    "minutes": 28,
+    "text": "28 mins",
+    "mode": "driving",
+    "address": "114 Oak St, Jersey City, NJ"
+  },
+  "112 75th st north bergen nj 07047": {
+    "minutes": 11,
+    "text": "11 mins",
+    "mode": "driving",
+    "address": "112 75th St, North Bergen, NJ 07047"
+  },
+  "3223 edward blvd 23 edison nj 08837": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "driving",
+    "address": "3223 Edward Stec Blvd #23, Edison, NJ 08837"
+  },
+  "8 andrews way piscataway nj 08854": {
+    "minutes": 42,
+    "text": "42 mins",
+    "mode": "driving",
+    "address": "8 Andrews Way, Piscataway, NJ 08854"
+  },
+  "91 harrison st 2 belleville nj 07109": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "91 Harrison St #2, Belleville, NJ 07109"
+  },
+  "205 beech ct norwood nj 07648": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "driving",
+    "address": "205 Beech Ct, Norwood, NJ 07648"
+  },
+  "9060 palisade ave north bergen nj 07047": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "9060 Palisade Ave APT 1026, North Bergen, NJ 07047"
+  },
+  "190 chapel ave e jersey city nj": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "190 Chapel Ave E, Jersey City, NJ"
+  },
+  "18 park ave westwood nj": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "driving",
+    "address": "18 Park Ave, Westwood, NJ"
+  },
+  "radio lofts at hudson house 316 15th st r310 jersey city nj 07310": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "Radio Lofts at Hudson House, 316 15th St #R310, Jersey City, NJ 07310"
+  },
+  "54 thompson st 3 raritan nj 08869": {
+    "minutes": 47,
+    "text": "47 mins",
+    "mode": "driving",
+    "address": "54 Thompson St #3, Raritan, NJ 08869"
+  },
+  "429 broome st penthouse 4c new york ny 10013": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "429 Broome St #Penthouse 4c, New York, NY 10013"
+  },
+  "119 panorama dr edgewater nj 07020": {
+    "minutes": 17,
+    "text": "17 mins",
+    "mode": "driving",
+    "address": "119 Panorama Dr, Edgewater, NJ 07020"
+  },
+  "92 highwood ave tenafly nj 07670": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "92 Highwood Ave, Tenafly, NJ 07670"
+  },
+  "194 sherman ave 2 paterson nj 07502": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "194 Sherman Ave #2, Paterson, NJ 07502"
+  },
+  "387 college dr edison nj 08817": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "driving",
+    "address": "387 College Dr, Edison, NJ 08817"
+  },
+  "1583 summit ave hillside nj 07205": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "1583 Summit Ave, Hillside, NJ 07205"
+  },
+  "187 new st floor 1 little falls nj 07424": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "187 New St Floor 1, Little Falls, NJ 07424"
+  },
+  "362 river dr floor 1 garfield nj 07026": {
+    "minutes": 20,
+    "text": "20 mins",
+    "mode": "driving",
+    "address": "362 River Dr Floor 1, Garfield, NJ 07026"
+  },
+  "194 prospect ave floor 2 bayonne nj 07002": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "194 Prospect Ave Floor 2, Bayonne, NJ 07002"
+  },
+  "260 shepard ave englewood nj 07631": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "260 Shepard Ave, Englewood, NJ 07631"
+  },
+  "404 n 3rd st east newark nj 07029": {
+    "minutes": 18,
+    "text": "18 mins",
+    "mode": "driving",
+    "address": "404 N 3rd St APT 2, East Newark, NJ 07029"
+  },
+  "156 w 20th st penthouse new york ny 10011": {
+    "minutes": 31,
+    "text": "31 mins",
+    "mode": "transit",
+    "address": "156 W 20th St #Penthouse, New York, NY 10011"
+  },
+  "815 highland ave paramus nj 07652": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "815 Highland Ave, Paramus, NJ 07652"
+  },
+  "234 w 14th st new york ny 10011": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "transit",
+    "address": "234 W 14th St APT 1D, New York, NY 10011"
+  },
+  "52 lincoln ave orange nj 07050": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "52 Lincoln Ave APT 302, Orange, NJ 07050"
+  },
+  "54 11th st hoboken nj": {
+    "minutes": 28,
+    "text": "28 mins",
+    "mode": "walking",
+    "address": "54 11th St, Hoboken, NJ"
+  },
+  "1202-1220 hudson st hoboken nj": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "1202-1220 Hudson St, Hoboken, NJ"
+  },
+  "252-260 11th st hoboken nj": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "walking",
+    "address": "252-260 11th St, Hoboken, NJ"
+  },
+  "518 79th st 2 north bergen nj 07047": {
+    "minutes": 16,
+    "text": "16 mins",
+    "mode": "driving",
+    "address": "518 79th St #2, North Bergen, NJ 07047"
+  },
+  "18 midland rd edison nj 08820": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "driving",
+    "address": "18 Midland Rd, Edison, NJ 08820"
+  },
+  "18 john st carteret nj 07008": {
+    "minutes": 29,
+    "text": "29 mins",
+    "mode": "driving",
+    "address": "18 John St, Carteret, NJ 07008"
+  },
+  "226 waverly pl south orange nj 07079": {
+    "minutes": 31,
+    "text": "31 mins",
+    "mode": "driving",
+    "address": "226 Waverly Pl, South Orange, NJ 07079"
+  },
+  "157 e 57th st new york ny": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "157 E 57th St, New York, NY"
+  },
+  "3147 broadway new york ny 10027": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "3147 Broadway APT 2, New York, NY 10027"
+  },
+  "62 farnham ave floor 1 garfield nj 07026": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "62 Farnham Ave Floor 1, Garfield, NJ 07026"
+  },
+  "326 pkwy jersey city nj": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "326 Stegman Pkwy, Jersey City, NJ"
+  },
+  "83 madison st hoboken nj 07030": {
+    "minutes": 12,
+    "text": "12 mins",
+    "mode": "driving",
+    "address": "83 Madison St APT 3, Hoboken, NJ 07030"
+  },
+  "54 smith st floor 1 belleville nj 07109": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "54 Smith St Floor 1, Belleville, NJ 07109"
+  },
+  "516 w 143rd st new york ny 10031": {
+    "minutes": 45,
+    "text": "45 mins",
+    "mode": "transit",
+    "address": "516 W 143rd St APT 4d, New York, NY 10031"
+  },
+  "143 christopher st 1a new york ny 10014": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "143 Christopher St #1A, New York, NY 10014"
+  },
+  "200 waverly pl new york ny": {
+    "minutes": 31,
+    "text": "31 mins",
+    "mode": "transit",
+    "address": "200 Waverly Pl, New York, NY"
+  },
+  "9 christopher st new york ny 10014": {
+    "minutes": 29,
+    "text": "29 mins",
+    "mode": "transit",
+    "address": "9 Christopher St APT 5, New York, NY 10014"
+  },
+  "115 avenue a new york ny 10009": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "115 Avenue A APT 3, New York, NY 10009"
+  },
+  "634 11th st new york ny 10009": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "634 11th St APT 9, New York, NY 10009"
+  },
+  "166 e 7th st 2 new york ny 10009": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "166 E 7th St #2, New York, NY 10009"
+  },
+  "116 avenue c new york ny 10009": {
+    "minutes": 45,
+    "text": "45 mins",
+    "mode": "transit",
+    "address": "116 Avenue C APT 10, New York, NY 10009"
+  },
+  "348 lenox ave new york ny 10027": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "348 Lenox Ave APT 3N, New York, NY 10027"
+  },
+  "136 edgecombe ave 3d new york ny 10030": {
+    "minutes": 43,
+    "text": "43 mins",
+    "mode": "transit",
+    "address": "136 Edgecombe Ave #3D, New York, NY 10030"
+  },
+  "32 e 126th st 3 new york ny 10035": {
+    "minutes": 44,
+    "text": "44 mins",
+    "mode": "transit",
+    "address": "32 E 126th St #3, New York, NY 10035"
+  },
+  "273 w 131st st new york ny 10027": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "273 W 131st St APT 2F, New York, NY 10027"
+  },
+  "2376 adam clayton powell jr blvd new york ny": {
+    "minutes": 47,
+    "text": "47 mins",
+    "mode": "transit",
+    "address": "2376 Adam Clayton Powell Jr Blvd, New York, NY"
   }
 }
