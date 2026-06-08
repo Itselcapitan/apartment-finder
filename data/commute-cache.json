@@ -7576,5 +7576,3623 @@
     "text": "47 mins",
     "mode": "transit",
     "address": "2376 Adam Clayton Powell Jr Blvd, New York, NY"
+  },
+  "115 e 55th st 4 new york ny 10022": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "115 E 55th St Unit Penthouse 4, New York, NY 10022"
+  },
+  "432 park ave new york ny": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "432 Park Ave, New York, NY"
+  },
+  "129 w 56th st new york ny 10019": {
+    "minutes": 30,
+    "text": "30 mins",
+    "mode": "transit",
+    "address": "129 W 56th St APT 3F, New York, NY 10019"
+  },
+  "135 w 52nd st penthouse 5s new york ny 10019": {
+    "minutes": 32,
+    "text": "32 mins",
+    "mode": "transit",
+    "address": "135 W 52nd St #Penthouse 5s, New York, NY 10019"
+  },
+  "20 w 53rd st new york ny 10019": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "transit",
+    "address": "20 W 53rd St, New York, NY 10019"
+  },
+  "245 w 51st st 503 new york ny 10019": {
+    "minutes": 22,
+    "text": "22 mins",
+    "mode": "transit",
+    "address": "245 W 51st St #503, New York, NY 10019"
+  },
+  "148 w 67th st new york ny 10023": {
+    "minutes": 32,
+    "text": "32 mins",
+    "mode": "transit",
+    "address": "148 W 67th St APT 10, New York, NY 10023"
+  },
+  "72 w 69th st new york ny 10023": {
+    "minutes": 31,
+    "text": "31 mins",
+    "mode": "transit",
+    "address": "72 W 69th St APT 5E, New York, NY 10023"
+  },
+  "80 w 82nd st 5c new york ny 10024": {
+    "minutes": 33,
+    "text": "33 mins",
+    "mode": "transit",
+    "address": "80 W 82nd St #5C, New York, NY 10024"
+  },
+  "321 w 94th st new york ny 10025": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "321 W 94th St APT 5C, New York, NY 10025"
+  },
+  "27 w 86th st 16-b new york ny 10024": {
+    "minutes": 31,
+    "text": "31 mins",
+    "mode": "transit",
+    "address": "27 W 86th St #16-B, New York, NY 10024"
+  },
+  "5 w 91st st new york ny 10024": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "5 W 91st St APT 6D, New York, NY 10024"
+  },
+  "14 w 103rd st 5e new york ny 10025": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "14 W 103rd St #5E, New York, NY 10025"
+  },
+  "203 w 90th st new york ny 10024": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "transit",
+    "address": "203 W 90th St APT 2G, New York, NY 10024"
+  },
+  "115 w 104th st new york ny 10025": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "115 W 104th St APT 63, New York, NY 10025"
+  },
+  "204 w 108th st new york ny": {
+    "minutes": 43,
+    "text": "43 mins",
+    "mode": "transit",
+    "address": "204 W 108th St, New York, NY"
+  },
+  "170 w 83rd st new york ny 10024": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "170 W 83rd St APT 4E, New York, NY 10024"
+  },
+  "244 w 74th st new york ny 10023": {
+    "minutes": 31,
+    "text": "31 mins",
+    "mode": "transit",
+    "address": "244 W 74th St APT 8A, New York, NY 10023"
+  },
+  "59 w 70th st new york ny 10023": {
+    "minutes": 29,
+    "text": "29 mins",
+    "mode": "transit",
+    "address": "59 W 70th St APT 2, New York, NY 10023"
+  },
+  "100 w 89th st penthouse 2 new york ny 10024": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "100 W 89th St #Penthouse 2, New York, NY 10024"
+  },
+  "305 riverside dr new york ny 10025": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "305 Riverside Dr APT 10A, New York, NY 10025"
+  },
+  "212 w 109th st new york ny 10025": {
+    "minutes": 42,
+    "text": "42 mins",
+    "mode": "transit",
+    "address": "212 W 109th St APT 5B, New York, NY 10025"
+  },
+  "154 w 70th st new york ny": {
+    "minutes": 31,
+    "text": "31 mins",
+    "mode": "transit",
+    "address": "154 W 70th St, New York, NY"
+  },
+  "172 w 107th st new york ny 10025": {
+    "minutes": 43,
+    "text": "43 mins",
+    "mode": "transit",
+    "address": "172 W 107th St APT 4R, New York, NY 10025"
+  },
+  "275 w 96th st new york ny": {
+    "minutes": 32,
+    "text": "32 mins",
+    "mode": "transit",
+    "address": "275 W 96th St, New York, NY"
+  },
+  "20 w 64th st new york ny 10023": {
+    "minutes": 30,
+    "text": "30 mins",
+    "mode": "transit",
+    "address": "20 W 64th St APT 12E, New York, NY 10023"
+  },
+  "132 w 109th st new york ny 10025": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "132 W 109th St APT 1C, New York, NY 10025"
+  },
+  "792 columbus ave new york ny": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "792 Columbus Ave, New York, NY"
+  },
+  "9 w 84th st a new york ny 10024": {
+    "minutes": 32,
+    "text": "32 mins",
+    "mode": "transit",
+    "address": "9 W 84th St #A, New York, NY 10024"
+  },
+  "128 w 73rd st new york ny 10023": {
+    "minutes": 31,
+    "text": "31 mins",
+    "mode": "transit",
+    "address": "128 W 73rd St APT 4B, New York, NY 10023"
+  },
+  "3 w 103rd st 4e new york ny 10025": {
+    "minutes": 33,
+    "text": "33 mins",
+    "mode": "transit",
+    "address": "3 W 103rd St #4E, New York, NY 10025"
+  },
+  "200 w 95th st 4e new york ny 10025": {
+    "minutes": 31,
+    "text": "31 mins",
+    "mode": "transit",
+    "address": "200 W 95th St #4E, New York, NY 10025"
+  },
+  "205 w 107th st new york ny 10025": {
+    "minutes": 43,
+    "text": "43 mins",
+    "mode": "transit",
+    "address": "205 W 107th St APT 3W, New York, NY 10025"
+  },
+  "271 w 70th st 2g new york ny 10023": {
+    "minutes": 33,
+    "text": "33 mins",
+    "mode": "transit",
+    "address": "271 W 70th St #2G, New York, NY 10023"
+  },
+  "160 riverside blvd new york ny": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "160 Riverside Blvd, New York, NY"
+  },
+  "327 central park w 5a new york ny 10025": {
+    "minutes": 33,
+    "text": "33 mins",
+    "mode": "transit",
+    "address": "327 Central Park W #5A, New York, NY 10025"
+  },
+  "200 w 109th st new york ny 10025": {
+    "minutes": 42,
+    "text": "42 mins",
+    "mode": "transit",
+    "address": "200 W 109th St APT C6, New York, NY 10025"
+  },
+  "207 w 107th st new york ny 10025": {
+    "minutes": 43,
+    "text": "43 mins",
+    "mode": "transit",
+    "address": "207 W 107th St APT 1W, New York, NY 10025"
+  },
+  "73 w 83rd st new york ny 10024": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "73 W 83rd St APT 5E, New York, NY 10024"
+  },
+  "204 w 109th st ll1 new york ny 10025": {
+    "minutes": 42,
+    "text": "42 mins",
+    "mode": "transit",
+    "address": "204 W 109th St #Ll1, New York, NY 10025"
+  },
+  "72 w 108th st new york ny": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "72 W 108th St, New York, NY"
+  },
+  "63 w 104th st new york ny 10025": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "63 W 104th St APT 701, New York, NY 10025"
+  },
+  "212 w 95th st 3b new york ny 10025": {
+    "minutes": 30,
+    "text": "30 mins",
+    "mode": "transit",
+    "address": "212 W 95th St #3B, New York, NY 10025"
+  },
+  "323 w 96th st new york ny 10025": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "323 W 96th St APT 315, New York, NY 10025"
+  },
+  "21 w 86th st new york ny 10024": {
+    "minutes": 30,
+    "text": "30 mins",
+    "mode": "transit",
+    "address": "21 W 86th St APT 14A, New York, NY 10024"
+  },
+  "4 w 103rd st new york ny 10025": {
+    "minutes": 33,
+    "text": "33 mins",
+    "mode": "transit",
+    "address": "4 W 103rd St APT 3A, New York, NY 10025"
+  },
+  "168 w 86th st new york ny 10024": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "transit",
+    "address": "168 W 86th St APT 15B, New York, NY 10024"
+  },
+  "780 wea new york ny": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "transit",
+    "address": "780 Wea, New York, NY"
+  },
+  "120 w 105th st new york ny 10025": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "120 W 105th St APT 1D, New York, NY 10025"
+  },
+  "250 w 91st st new york ny 10024": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "250 W 91st St APT 3C, New York, NY 10024"
+  },
+  "106 w 105th st new york ny 10025": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "106 W 105th St APT 3, New York, NY 10025"
+  },
+  "595 w end ave 9 new york ny 10024": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "595 W End Ave #9, New York, NY 10024"
+  },
+  "155 w 78th st new york ny 10024": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "155 W 78th St APT 3, New York, NY 10024"
+  },
+  "555 w 59th st townhouse 3c new york ny 10019": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "555 W 59th St #Townhouse 3c, New York, NY 10019"
+  },
+  "101 w 72nd st penthouse a new york ny 10023": {
+    "minutes": 30,
+    "text": "30 mins",
+    "mode": "transit",
+    "address": "101 W 72nd St Penthouse A, New York, NY 10023"
+  },
+  "129 w 94th st 1 new york ny 10025": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "129 W 94th St #1, New York, NY 10025"
+  },
+  "222 w 80th st new york ny": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "222 W 80th St, New York, NY"
+  },
+  "279 central park w 10c new york ny 10024": {
+    "minutes": 30,
+    "text": "30 mins",
+    "mode": "transit",
+    "address": "279 Central Park W #10C, New York, NY 10024"
+  },
+  "15 central park w new york ny 10023": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "transit",
+    "address": "15 Central Park W APT 37C, New York, NY 10023"
+  },
+  "248 w 105th st new york ny 10025": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "248 W 105th St APT 2B, New York, NY 10025"
+  },
+  "218 w 108th st 5a new york ny 10025": {
+    "minutes": 43,
+    "text": "43 mins",
+    "mode": "transit",
+    "address": "218 W 108th St #5A, New York, NY 10025"
+  },
+  "229 w 101st st 6c new york ny 10025": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "229 W 101st St #6C, New York, NY 10025"
+  },
+  "1 w 60th st 24e new york ny 10023": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "transit",
+    "address": "1 W 60th St #24E, New York, NY 10023"
+  },
+  "455 central park w new york ny 10025": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "455 Central Park W APT 22C, New York, NY 10025"
+  },
+  "25 columbus cir 75ce new york ny 10019": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "transit",
+    "address": "25 Columbus Cir #75CE, New York, NY 10019"
+  },
+  "5 w 103rd st new york ny": {
+    "minutes": 33,
+    "text": "33 mins",
+    "mode": "transit",
+    "address": "5 W 103rd St, New York, NY"
+  },
+  "932 amsterdam ave c new york ny 10025": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "932 Amsterdam Ave #C, New York, NY 10025"
+  },
+  "200 w 60th st new york ny 10023": {
+    "minutes": 31,
+    "text": "31 mins",
+    "mode": "transit",
+    "address": "200 W 60th St APT 15G, New York, NY 10023"
+  },
+  "170 e end ave new york ny 10128": {
+    "minutes": 43,
+    "text": "43 mins",
+    "mode": "transit",
+    "address": "170 E End Ave APT 8EF, New York, NY 10128"
+  },
+  "443 e 88th st new york ny 10128": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "443 E 88th St APT 23, New York, NY 10128"
+  },
+  "318 e 62nd st new york ny": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "318 E 62nd St, New York, NY"
+  },
+  "1412 madison ave 6 new york ny 10029": {
+    "minutes": 43,
+    "text": "43 mins",
+    "mode": "transit",
+    "address": "1412 Madison Ave #6, New York, NY 10029"
+  },
+  "222 e 61st st new york ny 10065": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "222 E 61st St, New York, NY 10065"
+  },
+  "336 e 94th st new york ny 10128": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "336 E 94th St APT 2E, New York, NY 10128"
+  },
+  "206 e 83rd st new york ny": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "206 E 83rd St, New York, NY"
+  },
+  "340 e 81st st new york ny 10028": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "340 E 81st St APT 3A, New York, NY 10028"
+  },
+  "265 e 66th st new york ny": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "265 E 66th St, New York, NY"
+  },
+  "21 e 84th st new york ny 10028": {
+    "minutes": 42,
+    "text": "42 mins",
+    "mode": "transit",
+    "address": "21 E 84th St, New York, NY 10028"
+  },
+  "221 e 59th st floor 2 new york ny 10022": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "221 E 59th St Floor 2, New York, NY 10022"
+  },
+  "1623 3rd ave new york ny 10128": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "1623 3rd Ave APT 16A, New York, NY 10128"
+  },
+  "50 e 72nd st new york ny": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "50 E 72nd St, New York, NY"
+  },
+  "1160 5th ave new york ny 10029": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "1160 5th Ave APT 601, New York, NY 10029"
+  },
+  "300 e 83rd st penthouse 20a new york ny 10028": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "300 E 83rd St #Penthouse 20a, New York, NY 10028"
+  },
+  "1105 lex ave new york ny": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "1105 Lex Ave, New York, NY"
+  },
+  "249 e 62nd st 9b new york ny 10065": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "249 E 62nd St #9B, New York, NY 10065"
+  },
+  "501 e 74th st new york ny 10021": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "501 E 74th St APT 17B, New York, NY 10021"
+  },
+  "173 e 73rd st 1 new york ny 10021": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "173 E 73rd St #1, New York, NY 10021"
+  },
+  "420 e 61st st new york ny 10065": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "420 E 61st St APT 21E, New York, NY 10065"
+  },
+  "525 e 72nd st 12de new york ny 10021": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "525 E 72nd St #12DE, New York, NY 10021"
+  },
+  "232 e 88th st new york ny 10128": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "232 E 88th St APT 3A, New York, NY 10128"
+  },
+  "226 e 70th st new york ny": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "226 E 70th St, New York, NY"
+  },
+  "312 e 91st st new york ny 10128": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "312 E 91st St APT 1R, New York, NY 10128"
+  },
+  "340 e 64th st 10/11j new york ny 10065": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "340 E 64th St #10/11J, New York, NY 10065"
+  },
+  "300 e 61st st new york ny 10065": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "300 E 61st St APT 4, New York, NY 10065"
+  },
+  "437 e 80th st new york ny 10075": {
+    "minutes": 43,
+    "text": "43 mins",
+    "mode": "transit",
+    "address": "437 E 80th St APT 10, New York, NY 10075"
+  },
+  "1685 1st ave new york ny 10128": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "1685 1st Ave APT 17, New York, NY 10128"
+  },
+  "343 e 74th st 34phd new york ny 10021": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "343 E 74th St #34PHD, New York, NY 10021"
+  },
+  "9 e 82nd st 2/3 new york ny 10028": {
+    "minutes": 61,
+    "text": "1 hour 1 min",
+    "mode": "transit",
+    "address": "9 E 82nd St #2/3, New York, NY 10028"
+  },
+  "1471 1st ave new york ny 10075": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "1471 1st Ave APT 2B, New York, NY 10075"
+  },
+  "301 e 94th st 25c new york ny 10128": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "301 E 94th St #25C, New York, NY 10128"
+  },
+  "165 e 90th st new york ny 10128": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "165 E 90th St APT 4C, New York, NY 10128"
+  },
+  "20 e end ave new york ny 10028": {
+    "minutes": 47,
+    "text": "47 mins",
+    "mode": "transit",
+    "address": "20 E End Ave APT 10A, New York, NY 10028"
+  },
+  "515 e 72nd st new york ny 10021": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "515 E 72nd St APT 9J, New York, NY 10021"
+  },
+  "178 e 80th st 14ab new york ny 10075": {
+    "minutes": 61,
+    "text": "1 hour 1 min",
+    "mode": "transit",
+    "address": "178 E 80th St #14AB, New York, NY 10075"
+  },
+  "355 e 72nd st new york ny 10021": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "355 E 72nd St APT 1, New York, NY 10021"
+  },
+  "309 e 92nd st new york ny": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "309 E 92nd St, New York, NY"
+  },
+  "218 e 79th st new york ny 10075": {
+    "minutes": 61,
+    "text": "1 hour 1 min",
+    "mode": "transit",
+    "address": "218 E 79th St, New York, NY 10075"
+  },
+  "1280 5th ave new york ny 10029": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "1280 5th Ave APT 15G, New York, NY 10029"
+  },
+  "1165 madison ave penthouse b new york ny 10028": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "1165 Madison Ave Penthouse B, New York, NY 10028"
+  },
+  "319 e 93rd st 1b new york ny 10128": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "319 E 93rd St #1B, New York, NY 10128"
+  },
+  "240 e 86th st new york ny 10028": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "transit",
+    "address": "240 E 86th St APT 12L, New York, NY 10028"
+  },
+  "201 e 86th st new york ny 10028": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "201 E 86th St APT 10c, New York, NY 10028"
+  },
+  "157 e 81st st 8 new york ny 10028": {
+    "minutes": 58,
+    "text": "58 mins",
+    "mode": "transit",
+    "address": "157 E 81st St #8, New York, NY 10028"
+  },
+  "130 e 67th st 4ef new york ny 10065": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "130 E 67th St #4EF, New York, NY 10065"
+  },
+  "231 e 60th st 5a new york ny 10022": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "231 E 60th St #5A, New York, NY 10022"
+  },
+  "433 e 80th st new york ny 10075": {
+    "minutes": 43,
+    "text": "43 mins",
+    "mode": "transit",
+    "address": "433 E 80th St APT 12, New York, NY 10075"
+  },
+  "400 e 67th st new york ny": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "400 E 67th St, New York, NY"
+  },
+  "1085 park ave new york ny 10128": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "1085 Park Ave APT 4B, New York, NY 10128"
+  },
+  "610 park ave new york ny 10065": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "610 Park Ave APT 12EF, New York, NY 10065"
+  },
+  "120 e 87th st new york ny 10128": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "transit",
+    "address": "120 E 87th St, New York, NY 10128"
+  },
+  "(undisclosed address) new york ny 10028": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "(undisclosed Address), New York, NY 10028"
+  },
+  "323 e 78th st new york ny 10075": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "323 E 78th St APT 1D, New York, NY 10075"
+  },
+  "1377 lexington ave new york ny 10128": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "1377 Lexington Ave APT 4A, New York, NY 10128"
+  },
+  "1735 york ave new york ny 10128": {
+    "minutes": 43,
+    "text": "43 mins",
+    "mode": "transit",
+    "address": "1735 York Ave APT 27c, New York, NY 10128"
+  },
+  "1228 madison ave 2 new york ny 10128": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "1228 Madison Ave #2, New York, NY 10128"
+  },
+  "360 e 65th st new york ny": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "360 E 65th St, New York, NY"
+  },
+  "356 e 78th st 19b new york ny 10075": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "356 E 78th St #19B, New York, NY 10075"
+  },
+  "227 e 82nd st 5e new york ny 10028": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "227 E 82nd St #5E, New York, NY 10028"
+  },
+  "1235 park ave 2a new york ny 10128": {
+    "minutes": 61,
+    "text": "1 hour 1 min",
+    "mode": "transit",
+    "address": "1235 Park Ave #2A, New York, NY 10128"
+  },
+  "389 e 89th st new york ny 10128": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "389 E 89th St APT 15G, New York, NY 10128"
+  },
+  "164 e 61st st new york ny 10065": {
+    "minutes": 33,
+    "text": "33 mins",
+    "mode": "transit",
+    "address": "164 E 61st St APT 2, New York, NY 10065"
+  },
+  "544 e 86th st phe new york ny 10028": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "544 E 86th St #Phe, New York, NY 10028"
+  },
+  "506 e 84th st new york ny 10028": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "506 E 84th St APT 1FW, New York, NY 10028"
+  },
+  "985 park ave /13 new york ny 10028": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "985 Park Ave Unit 12/13, New York, NY 10028"
+  },
+  "40 e 94th st 30ef new york ny 10128": {
+    "minutes": 46,
+    "text": "46 mins",
+    "mode": "transit",
+    "address": "40 E 94th St #30EF, New York, NY 10128"
+  },
+  "151 e 81st st new york ny 10028": {
+    "minutes": 58,
+    "text": "58 mins",
+    "mode": "transit",
+    "address": "151 E 81st St APT 3F, New York, NY 10028"
+  },
+  "111 e 88th st new york ny 10128": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "111 E 88th St APT 9A, New York, NY 10128"
+  },
+  "413 e 90th st 3f new york ny 10128": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "413 E 90th St #3F, New York, NY 10128"
+  },
+  "1711 2nd ave 3a new york ny 10128": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "1711 2nd Ave #3A, New York, NY 10128"
+  },
+  "161 e 89th st 2a new york ny 10128": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "161 E 89th St #2A, New York, NY 10128"
+  },
+  "486 e 74th st 1bc new york ny 10021": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "486 E 74th St #1BC, New York, NY 10021"
+  },
+  "216 e 61st st ths new york ny 10065": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "216 E 61st St #Ths, New York, NY 10065"
+  },
+  "920 park ave 15-c new york ny 10028": {
+    "minutes": 62,
+    "text": "1 hour 2 mins",
+    "mode": "transit",
+    "address": "920 Park Ave #15-C, New York, NY 10028"
+  },
+  "223 e 80th st 4 new york ny 10075": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "223 E 80th St #4, New York, NY 10075"
+  },
+  "59 e 66th st new york ny 10065": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "59 E 66th St, New York, NY 10065"
+  },
+  "1502 1st ave new york ny 10075": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "1502 1st Ave APT 2C, New York, NY 10075"
+  },
+  "1290 madison ave penthouse 7 new york ny 10128": {
+    "minutes": 48,
+    "text": "48 mins",
+    "mode": "transit",
+    "address": "1290 Madison Ave #Penthouse 7, New York, NY 10128"
+  },
+  "208 e 95th st c new york ny 10128": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "208 E 95th St #C, New York, NY 10128"
+  },
+  "260 trenton ave paterson nj 07503": {
+    "minutes": 22,
+    "text": "22 mins",
+    "mode": "driving",
+    "address": "260 Trenton Ave, Paterson, NJ 07503"
+  },
+  "461b 5th st b palisades park nj 07650": {
+    "minutes": 17,
+    "text": "17 mins",
+    "mode": "driving",
+    "address": "461B 5th St #B, Palisades Park, NJ 07650"
+  },
+  "230 21st st floor 2 irvington nj 07111": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "230 21st St Floor 2, Irvington, NJ 07111"
+  },
+  "118 w 114th st new york ny 10026": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "118 W 114th St APT 3e, New York, NY 10026"
+  },
+  "130 ellis ave irvington nj": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "130 Ellis Ave, Irvington, NJ"
+  },
+  "90 wilkinson ave floor 2 jersey city nj 07305": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "90 Wilkinson Ave Floor 2, Jersey City, NJ 07305"
+  },
+  "415 thomas st floor 1 perth amboy nj 08861": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "driving",
+    "address": "415 Thomas St Floor 1, Perth Amboy, NJ 08861"
+  },
+  "804 canton st elizabeth nj 07202": {
+    "minutes": 30,
+    "text": "30 mins",
+    "mode": "driving",
+    "address": "804 Canton St, Elizabeth, NJ 07202"
+  },
+  "89 van buren ave 2 metuchen nj 08840": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "driving",
+    "address": "89 Van Buren Ave #2, Metuchen, NJ 08840"
+  },
+  "40 mountain ave 1 mendham nj 07945": {
+    "minutes": 53,
+    "text": "53 mins",
+    "mode": "driving",
+    "address": "40 Mountain Ave #1, Mendham, NJ 07945"
+  },
+  "149 w 120th st new york ny 10027": {
+    "minutes": 42,
+    "text": "42 mins",
+    "mode": "transit",
+    "address": "149 W 120th St APT 1, New York, NY 10027"
+  },
+  "53 passaic ave nutley nj": {
+    "minutes": 19,
+    "text": "19 mins",
+    "mode": "driving",
+    "address": "53 Passaic Ave, Nutley, NJ"
+  },
+  "2307 the plz 2307 tenafly nj 07670": {
+    "minutes": 31,
+    "text": "31 mins",
+    "mode": "driving",
+    "address": "2307 The Plz #2307, Tenafly, NJ 07670"
+  },
+  "125 springhill dr morris plains nj 07950": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "driving",
+    "address": "125 Springhill Dr, Morris Plains, NJ 07950"
+  },
+  "49 overlook rd morristown nj 07960": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "driving",
+    "address": "49 Overlook Rd, Morristown, NJ 07960"
+  },
+  "605 w 141st st new york ny 10031": {
+    "minutes": 47,
+    "text": "47 mins",
+    "mode": "transit",
+    "address": "605 W 141st St, New York, NY 10031"
+  },
+  "154 n franklin tpke ho ho kus nj 07423": {
+    "minutes": 29,
+    "text": "29 mins",
+    "mode": "driving",
+    "address": "154 N Franklin Tpke, Ho Ho Kus, NJ 07423"
+  },
+  "249 avon ave newark nj 07108": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "249 Avon Ave, Newark, NJ 07108"
+  },
+  "321 w 110th st new york ny 10026": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "321 W 110th St APT 19C, New York, NY 10026"
+  },
+  "31 w 17th st new york ny 10011": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "transit",
+    "address": "31 W 17th St APT 5, New York, NY 10011"
+  },
+  "5200 meadowview ave 2 north bergen nj 07047": {
+    "minutes": 12,
+    "text": "12 mins",
+    "mode": "driving",
+    "address": "5200 Meadowview Ave #2, North Bergen, NJ 07047"
+  },
+  "(undisclosed address) new york ny 10031": {
+    "minutes": 45,
+    "text": "45 mins",
+    "mode": "transit",
+    "address": "(undisclosed Address), New York, NY 10031"
+  },
+  "519 w 158th st 2 new york ny 10032": {
+    "minutes": 49,
+    "text": "49 mins",
+    "mode": "transit",
+    "address": "519 W 158th St #2, New York, NY 10032"
+  },
+  "2310 adam clayton powell jr blvd new york ny 10030": {
+    "minutes": 45,
+    "text": "45 mins",
+    "mode": "transit",
+    "address": "2310 Adam Clayton Powell Jr Blvd APT 7, New York, NY 10030"
+  },
+  "96 nichols st floor 2 newark nj 07105": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "96 Nichols St Floor 2, Newark, NJ 07105"
+  },
+  "430 w 160th st 3 new york ny 10032": {
+    "minutes": 45,
+    "text": "45 mins",
+    "mode": "transit",
+    "address": "430 W 160th St #3, New York, NY 10032"
+  },
+  "31 6th ave clifton nj 07011": {
+    "minutes": 20,
+    "text": "20 mins",
+    "mode": "driving",
+    "address": "31 6th Ave, Clifton, NJ 07011"
+  },
+  "335 myrtle ave 2 irvington nj 07111": {
+    "minutes": 22,
+    "text": "22 mins",
+    "mode": "driving",
+    "address": "335 Myrtle Ave #2, Irvington, NJ 07111"
+  },
+  "93 n 13th st floor 2 bloomfield nj 07003": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "93 N 13th St Floor 2, Bloomfield, NJ 07003"
+  },
+  "113-114 elizabeth ave newark nj": {
+    "minutes": 21,
+    "text": "21 mins",
+    "mode": "driving",
+    "address": "113-114 Elizabeth Ave, Newark, NJ"
+  },
+  "317 2nd ave new york ny 10003": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "317 2nd Ave APT 17, New York, NY 10003"
+  },
+  "230 e 27th st new york ny 10016": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "230 E 27th St APT 17, New York, NY 10016"
+  },
+  "357 wayne st 1b jersey city nj 07302": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "357 Wayne St #1B, Jersey City, NJ 07302"
+  },
+  "63 prestwick way edison nj 08820": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "driving",
+    "address": "63 Prestwick Way, Edison, NJ 08820"
+  },
+  "36 clerk st floor basement jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "36 Clerk St Floor Basement, Jersey City, NJ 07305"
+  },
+  "105 e 122nd st new york ny 10035": {
+    "minutes": 44,
+    "text": "44 mins",
+    "mode": "transit",
+    "address": "105 E 122nd St APT 4E, New York, NY 10035"
+  },
+  "8 cooper pl weehawken nj": {
+    "minutes": 7,
+    "text": "7 mins",
+    "mode": "driving",
+    "address": "8 Cooper Pl, Weehawken, NJ"
+  },
+  "8 travers ave edison nj 08817": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "driving",
+    "address": "8 Travers Ave, Edison, NJ 08817"
+  },
+  "357-359 s 11th st newark nj": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "357-359 S 11th St, Newark, NJ"
+  },
+  "8 travers ave 1 edison nj 08817": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "driving",
+    "address": "8 Travers Ave #1, Edison, NJ 08817"
+  },
+  "938 w side ave jersey city nj": {
+    "minutes": 19,
+    "text": "19 mins",
+    "mode": "driving",
+    "address": "938 W Side Ave, Jersey City, NJ"
+  },
+  "69 valley rd floor 2 montclair nj 07042": {
+    "minutes": 28,
+    "text": "28 mins",
+    "mode": "driving",
+    "address": "69 Valley Rd Floor 2, Montclair, NJ 07042"
+  },
+  "24 sunderland ave rutherford nj 07070": {
+    "minutes": 18,
+    "text": "18 mins",
+    "mode": "driving",
+    "address": "24 Sunderland Ave, Rutherford, NJ 07070"
+  },
+  "1157 67th st north bergen nj 07047": {
+    "minutes": 16,
+    "text": "16 mins",
+    "mode": "driving",
+    "address": "1157 67th St, North Bergen, NJ 07047"
+  },
+  "130 charles st new york ny 10014": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "130 Charles St, New York, NY 10014"
+  },
+  "53 leroy st new york ny 10014": {
+    "minutes": 33,
+    "text": "33 mins",
+    "mode": "transit",
+    "address": "53 Leroy St APT 1D, New York, NY 10014"
+  },
+  "1 morton sq 10aw new york ny 10014": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "1 Morton Sq #10AW, New York, NY 10014"
+  },
+  "164 waverly pl new york ny 10014": {
+    "minutes": 29,
+    "text": "29 mins",
+    "mode": "transit",
+    "address": "164 Waverly Pl APT 3A, New York, NY 10014"
+  },
+  "36 bedford st new york ny 10014": {
+    "minutes": 31,
+    "text": "31 mins",
+    "mode": "transit",
+    "address": "36 Bedford St APT Ph, New York, NY 10014"
+  },
+  "453 hudson st 1g new york ny 10014": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "transit",
+    "address": "453 Hudson St #1G, New York, NY 10014"
+  },
+  "344 w 14th st new york ny 10014": {
+    "minutes": 28,
+    "text": "28 mins",
+    "mode": "transit",
+    "address": "344 W 14th St APT B1, New York, NY 10014"
+  },
+  "199 w 10th st new york ny 10014": {
+    "minutes": 33,
+    "text": "33 mins",
+    "mode": "transit",
+    "address": "199 W 10th St APT 5B, New York, NY 10014"
+  },
+  "423 west st 1b new york ny 10014": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "423 West St #1B, New York, NY 10014"
+  },
+  "88 perry st new york ny 10014": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "88 Perry St APT 4R, New York, NY 10014"
+  },
+  "287 bleecker st c2 new york ny 10014": {
+    "minutes": 32,
+    "text": "32 mins",
+    "mode": "transit",
+    "address": "287 Bleecker St #C2, New York, NY 10014"
+  },
+  "62 leroy st 2bc new york ny 10014": {
+    "minutes": 33,
+    "text": "33 mins",
+    "mode": "transit",
+    "address": "62 Leroy St #2BC, New York, NY 10014"
+  },
+  "43 bethune st new york ny 10014": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "43 Bethune St APT 2, New York, NY 10014"
+  },
+  "145 w 10th st -a new york ny 10014": {
+    "minutes": 30,
+    "text": "30 mins",
+    "mode": "transit",
+    "address": "145 W 10th St APT 2-A, New York, NY 10014"
+  },
+  "78 christopher st 7 new york ny 10014": {
+    "minutes": 32,
+    "text": "32 mins",
+    "mode": "transit",
+    "address": "78 Christopher St #7, New York, NY 10014"
+  },
+  "248 w 14th st fl 4 new york ny 10011": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "transit",
+    "address": "248 W 14th St Fl 4, New York, NY 10011"
+  },
+  "280 bleecker st new york ny 10014": {
+    "minutes": 31,
+    "text": "31 mins",
+    "mode": "transit",
+    "address": "280 Bleecker St APT 3, New York, NY 10014"
+  },
+  "18 abingdon sq new york ny 10014": {
+    "minutes": 30,
+    "text": "30 mins",
+    "mode": "transit",
+    "address": "18 Abingdon Sq APT 6, New York, NY 10014"
+  },
+  "71 horatio st 1 new york ny 10014": {
+    "minutes": 32,
+    "text": "32 mins",
+    "mode": "transit",
+    "address": "71 Horatio St #1, New York, NY 10014"
+  },
+  "29 7th ave s new york ny 10014": {
+    "minutes": 32,
+    "text": "32 mins",
+    "mode": "transit",
+    "address": "29 7th Ave S APT 2C, New York, NY 10014"
+  },
+  "227 waverly pl new york ny 10014": {
+    "minutes": 31,
+    "text": "31 mins",
+    "mode": "transit",
+    "address": "227 Waverly Pl APT 3A, New York, NY 10014"
+  },
+  "117 bedford st 3 new york ny 10014": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "117 Bedford St #3, New York, NY 10014"
+  },
+  "45 christopher st 8ag new york ny 10014": {
+    "minutes": 30,
+    "text": "30 mins",
+    "mode": "transit",
+    "address": "45 Christopher St #8AG, New York, NY 10014"
+  },
+  "120 christopher st new york ny 10014": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "120 Christopher St APT 15, New York, NY 10014"
+  },
+  "68 morton st 1 new york ny 10014": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "68 Morton St #1, New York, NY 10014"
+  },
+  "36 saint marks pl new york ny 10003": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "36 Saint Marks Pl APT 15, New York, NY 10003"
+  },
+  "151 e 3rd st new york ny 10009": {
+    "minutes": 46,
+    "text": "46 mins",
+    "mode": "transit",
+    "address": "151 E 3rd St APT 3D, New York, NY 10009"
+  },
+  "291 e 3rd st 1g new york ny 10009": {
+    "minutes": 51,
+    "text": "51 mins",
+    "mode": "transit",
+    "address": "291 E 3rd St #1G, New York, NY 10009"
+  },
+  "24 avenue a 4a new york ny 10009": {
+    "minutes": 45,
+    "text": "45 mins",
+    "mode": "transit",
+    "address": "24 Avenue A #4A, New York, NY 10009"
+  },
+  "195 e 2nd st 7 new york ny 10009": {
+    "minutes": 47,
+    "text": "47 mins",
+    "mode": "transit",
+    "address": "195 E 2nd St #7, New York, NY 10009"
+  },
+  "620 e 6th st new york ny 10009": {
+    "minutes": 44,
+    "text": "44 mins",
+    "mode": "transit",
+    "address": "620 E 6th St, New York, NY 10009"
+  },
+  "217 e 4th st new york ny 10009": {
+    "minutes": 48,
+    "text": "48 mins",
+    "mode": "transit",
+    "address": "217 E 4th St APT 2B, New York, NY 10009"
+  },
+  "201 e 2nd st new york ny 10009": {
+    "minutes": 47,
+    "text": "47 mins",
+    "mode": "transit",
+    "address": "201 E 2nd St APT 2B, New York, NY 10009"
+  },
+  "34 1/2 saint marks pl new york ny 10003": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "34 1/2 Saint Marks Pl APT 1, New York, NY 10003"
+  },
+  "57 2nd ave new york ny": {
+    "minutes": 44,
+    "text": "44 mins",
+    "mode": "transit",
+    "address": "57 2nd Ave, New York, NY"
+  },
+  "725 e 9th st new york ny": {
+    "minutes": 45,
+    "text": "45 mins",
+    "mode": "transit",
+    "address": "725 E 9th St, New York, NY"
+  },
+  "310 e 12th st new york ny 10003": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "310 E 12th St APT 5G, New York, NY 10003"
+  },
+  "104 e 4th st a7 new york ny 10003": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "104 E 4th St #A7, New York, NY 10003"
+  },
+  "629 e 5th st new york ny 10009": {
+    "minutes": 48,
+    "text": "48 mins",
+    "mode": "transit",
+    "address": "629 E 5th St APT 2, New York, NY 10009"
+  },
+  "130 e 7th st new york ny 10009": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "130 E 7th St APT 5, New York, NY 10009"
+  },
+  "188 2nd ave new york ny 10003": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "188 2nd Ave APT 19, New York, NY 10003"
+  },
+  "104 2nd ave new york ny 10003": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "104 2nd Ave APT 7, New York, NY 10003"
+  },
+  "99 avenue c new york ny 10009": {
+    "minutes": 45,
+    "text": "45 mins",
+    "mode": "transit",
+    "address": "99 Avenue C APT 3A, New York, NY 10009"
+  },
+  "117 1st ave 10 new york ny 10003": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "117 1st Ave #10, New York, NY 10003"
+  },
+  "58 2nd ave 1f new york ny 10003": {
+    "minutes": 45,
+    "text": "45 mins",
+    "mode": "transit",
+    "address": "58 2nd Ave #1F, New York, NY 10003"
+  },
+  "216 e 6th st 3e new york ny 10003": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "216 E 6th St #3E, New York, NY 10003"
+  },
+  "416 e 13th st penthouse 6b new york ny 10009": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "416 E 13th St #Penthouse 6b, New York, NY 10009"
+  },
+  "347 bowery /6 new york ny 10003": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "347 Bowery Unit 5/6, New York, NY 10003"
+  },
+  "410 e 13th st new york ny": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "410 E 13th St, New York, NY"
+  },
+  "502 e 12th st 1a new york ny 10009": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "transit",
+    "address": "502 E 12th St #1A, New York, NY 10009"
+  },
+  "508 e 12th st 6c new york ny 10009": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "transit",
+    "address": "508 E 12th St #6C, New York, NY 10009"
+  },
+  "164 e 7th st 1 new york ny 10009": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "164 E 7th St #1, New York, NY 10009"
+  },
+  "540 e 5th st new york ny": {
+    "minutes": 44,
+    "text": "44 mins",
+    "mode": "transit",
+    "address": "540 E 5th St, New York, NY"
+  },
+  "337 e 13th st new york ny 10003": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "337 E 13th St APT 9, New York, NY 10003"
+  },
+  "208 e 7th st 5b new york ny 10009": {
+    "minutes": 44,
+    "text": "44 mins",
+    "mode": "transit",
+    "address": "208 E 7th St #5B, New York, NY 10009"
+  },
+  "239 e 5th st 1r new york ny 10003": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "239 E 5th St #1R, New York, NY 10003"
+  },
+  "61 e 7th st 2e new york ny 10003": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "61 E 7th St #2E, New York, NY 10003"
+  },
+  "200 2nd ave new york ny 10003": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "200 2nd Ave APT 30, New York, NY 10003"
+  },
+  "236 e 5th st 5h new york ny 10003": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "236 E 5th St #5H, New York, NY 10003"
+  },
+  "176 e 2nd st new york ny 10009": {
+    "minutes": 46,
+    "text": "46 mins",
+    "mode": "transit",
+    "address": "176 E 2nd St APT 1B, New York, NY 10009"
+  },
+  "205 avenue a new york ny 10009": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "205 Avenue A APT 5A, New York, NY 10009"
+  },
+  "93 avenue b new york ny": {
+    "minutes": 43,
+    "text": "43 mins",
+    "mode": "transit",
+    "address": "93 Avenue B, New York, NY"
+  },
+  "19 1st ave 1 new york ny 10003": {
+    "minutes": 45,
+    "text": "45 mins",
+    "mode": "transit",
+    "address": "19 1st Ave #1, New York, NY 10003"
+  },
+  "412 e 9th st new york ny 10009": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "412 E 9th St APT 8, New York, NY 10009"
+  },
+  "50 e 3rd st new york ny 10003": {
+    "minutes": 45,
+    "text": "45 mins",
+    "mode": "transit",
+    "address": "50 E 3rd St APT 4C, New York, NY 10003"
+  },
+  "529 e 13th st new york ny 10009": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "transit",
+    "address": "529 E 13th St APT 4B, New York, NY 10009"
+  },
+  "23 avenue b 601 new york ny 10009": {
+    "minutes": 47,
+    "text": "47 mins",
+    "mode": "transit",
+    "address": "23 Avenue B #601, New York, NY 10009"
+  },
+  "442 e 9th st new york ny 10009": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "442 E 9th St APT 7, New York, NY 10009"
+  },
+  "150 e 2nd st 5f new york ny 10009": {
+    "minutes": 45,
+    "text": "45 mins",
+    "mode": "transit",
+    "address": "150 E 2nd St #5F, New York, NY 10009"
+  },
+  "401 e 13th st 4s* new york ny 10009": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "401 E 13th St #4S*, New York, NY 10009"
+  },
+  "62 avenue b new york ny 10009": {
+    "minutes": 44,
+    "text": "44 mins",
+    "mode": "transit",
+    "address": "62 Avenue B APT 1B, New York, NY 10009"
+  },
+  "444 e 13th st new york ny 10009": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "444 E 13th St APT 15, New York, NY 10009"
+  },
+  "170 e 2nd st new york ny 10009": {
+    "minutes": 46,
+    "text": "46 mins",
+    "mode": "transit",
+    "address": "170 E 2nd St APT 2E, New York, NY 10009"
+  },
+  "75 2nd ave 1a new york ny 10003": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "75 2nd Ave #1A, New York, NY 10003"
+  },
+  "110 e 1st st 2d new york ny 10009": {
+    "minutes": 44,
+    "text": "44 mins",
+    "mode": "transit",
+    "address": "110 E 1st St #2D, New York, NY 10009"
+  },
+  "637 e 6th st new york ny 10009": {
+    "minutes": 45,
+    "text": "45 mins",
+    "mode": "transit",
+    "address": "637 E 6th St APT 6, New York, NY 10009"
+  },
+  "342 e 8th st new york ny 10009": {
+    "minutes": 44,
+    "text": "44 mins",
+    "mode": "transit",
+    "address": "342 E 8th St APT 7K, New York, NY 10009"
+  },
+  "751 e 6th st 3e new york ny 10009": {
+    "minutes": 51,
+    "text": "51 mins",
+    "mode": "transit",
+    "address": "751 E 6th St #3E, New York, NY 10009"
+  },
+  "6 e 1st st new york ny 10003": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "6 E 1st St APT 2A, New York, NY 10003"
+  },
+  "202 e 13th st new york ny 10003": {
+    "minutes": 33,
+    "text": "33 mins",
+    "mode": "transit",
+    "address": "202 E 13th St APT 3D, New York, NY 10003"
+  },
+  "73 e 2nd st new york ny 10003": {
+    "minutes": 45,
+    "text": "45 mins",
+    "mode": "transit",
+    "address": "73 E 2nd St APT 3, New York, NY 10003"
+  },
+  "223 w 115th st new york ny 10026": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "223 W 115th St APT 1, New York, NY 10026"
+  },
+  "280 w 115th st 2 new york ny 10026": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "280 W 115th St #2, New York, NY 10026"
+  },
+  "129 w 137th st new york ny 10030": {
+    "minutes": 43,
+    "text": "43 mins",
+    "mode": "transit",
+    "address": "129 W 137th St APT 2A, New York, NY 10030"
+  },
+  "136 w 111th st new york ny 10026": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "136 W 111th St APT 3RE, New York, NY 10026"
+  },
+  "250 manhattan ave new york ny 10026": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "transit",
+    "address": "250 Manhattan Ave APT 3C, New York, NY 10026"
+  },
+  "117 w 141st st new york ny 10030": {
+    "minutes": 46,
+    "text": "46 mins",
+    "mode": "transit",
+    "address": "117 W 141st St APT 24, New York, NY 10030"
+  },
+  "147 w 111th st new york ny 10026": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "147 W 111th St APT 7, New York, NY 10026"
+  },
+  "92 morningside ave new york ny 10027": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "92 Morningside Ave APT 5E, New York, NY 10027"
+  },
+  "2280 frederick douglass blvd phb new york ny 10027": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "2280 Frederick Douglass Blvd #Phb, New York, NY 10027"
+  },
+  "2035 adam clayton powell jr blvd new york ny 10027": {
+    "minutes": 43,
+    "text": "43 mins",
+    "mode": "transit",
+    "address": "2035 Adam Clayton Powell Jr Blvd APT 22, New York, NY 10027"
+  },
+  "3 w 137th st 1g new york ny 10037": {
+    "minutes": 45,
+    "text": "45 mins",
+    "mode": "transit",
+    "address": "3 W 137th St #1G, New York, NY 10037"
+  },
+  "2041 adam clayton powell jr blvd new york ny 10027": {
+    "minutes": 43,
+    "text": "43 mins",
+    "mode": "transit",
+    "address": "2041 Adam Clayton Powell Jr Blvd APT 2A, New York, NY 10027"
+  },
+  "508 manhattan ave 2cc new york ny 10027": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "508 Manhattan Ave #2CC, New York, NY 10027"
+  },
+  "125 w 142nd st new york ny 10030": {
+    "minutes": 44,
+    "text": "44 mins",
+    "mode": "transit",
+    "address": "125 W 142nd St APT 1, New York, NY 10030"
+  },
+  "108 w 138th st 1a new york ny 10030": {
+    "minutes": 43,
+    "text": "43 mins",
+    "mode": "transit",
+    "address": "108 W 138th St #1A, New York, NY 10030"
+  },
+  "215 w 116th st new york ny 10026": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "215 W 116th St APT 5C, New York, NY 10026"
+  },
+  "160 w 130th st 3a new york ny 10027": {
+    "minutes": 45,
+    "text": "45 mins",
+    "mode": "transit",
+    "address": "160 W 130th St #3A, New York, NY 10027"
+  },
+  "312 manhattan ave 3f new york ny 10026": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "312 Manhattan Ave #3F, New York, NY 10026"
+  },
+  "222 w 141st st new york ny 10030": {
+    "minutes": 47,
+    "text": "47 mins",
+    "mode": "transit",
+    "address": "222 W 141st St APT 5B, New York, NY 10030"
+  },
+  "348 st nicholas ave new york ny 10027": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "348 St Nicholas Ave APT 5B, New York, NY 10027"
+  },
+  "47 e 129th st 5f new york ny 10035": {
+    "minutes": 49,
+    "text": "49 mins",
+    "mode": "transit",
+    "address": "47 E 129th St #5F, New York, NY 10035"
+  },
+  "1485 5th ave new york ny 10035": {
+    "minutes": 44,
+    "text": "44 mins",
+    "mode": "transit",
+    "address": "1485 5th Ave APT 26D, New York, NY 10035"
+  },
+  "348 lenox ave 3nc new york ny 10027": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "348 Lenox Ave #3NC, New York, NY 10027"
+  },
+  "1838 adam clayton powell jr blvd 12 new york ny 10026": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "1838 Adam Clayton Powell Jr Blvd #12, New York, NY 10026"
+  },
+  "312 w 121st st 5aa new york ny 10027": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "312 W 121st St #5AA, New York, NY 10027"
+  },
+  "167 w 122nd st 2a new york ny 10027": {
+    "minutes": 43,
+    "text": "43 mins",
+    "mode": "transit",
+    "address": "167 W 122nd St #2A, New York, NY 10027"
+  },
+  "307 w 114th st new york ny 10026": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "307 W 114th St APT 1C, New York, NY 10026"
+  },
+  "101 w 140th st 25 new york ny 10030": {
+    "minutes": 46,
+    "text": "46 mins",
+    "mode": "transit",
+    "address": "101 W 140th St #25, New York, NY 10030"
+  },
+  "2053 frederick douglass blvd new york ny": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "transit",
+    "address": "2053 Frederick Douglass Blvd, New York, NY"
+  },
+  "2413 adam clayton powell jr blvd 2f new york ny 10030": {
+    "minutes": 47,
+    "text": "47 mins",
+    "mode": "transit",
+    "address": "2413 Adam Clayton Powell Jr Blvd #2F, New York, NY 10030"
+  },
+  "103 w 117th st new york ny 10026": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "103 W 117th St APT 3, New York, NY 10026"
+  },
+  "342 manhattan ave 3d new york ny 10026": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "342 Manhattan Ave #3D, New York, NY 10026"
+  },
+  "140 w 120th st new york ny 10027": {
+    "minutes": 42,
+    "text": "42 mins",
+    "mode": "transit",
+    "address": "140 W 120th St, New York, NY 10027"
+  },
+  "117 w 116th st new york ny 10026": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "117 W 116th St APT 5B, New York, NY 10026"
+  },
+  "225 central park n new york ny 10024": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "225 Central Park N APT 1605, New York, NY 10024"
+  },
+  "2038 5th ave new york ny 10035": {
+    "minutes": 43,
+    "text": "43 mins",
+    "mode": "transit",
+    "address": "2038 5th Ave APT 1R, New York, NY 10035"
+  },
+  "2419 adam clayton powell jr blvd new york ny 10030": {
+    "minutes": 47,
+    "text": "47 mins",
+    "mode": "transit",
+    "address": "2419 Adam Clayton Powell Jr Blvd APT 5C, New York, NY 10030"
+  },
+  "301 w 112th st new york ny 10026": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "301 W 112th St APT 1A, New York, NY 10026"
+  },
+  "39 w 131st st 2 new york ny 10037": {
+    "minutes": 46,
+    "text": "46 mins",
+    "mode": "transit",
+    "address": "39 W 131st St #2, New York, NY 10037"
+  },
+  "(undisclosed address) new york ny 10035": {
+    "minutes": 69,
+    "text": "1 hour 9 mins",
+    "mode": "transit",
+    "address": "(undisclosed Address), New York, NY 10035"
+  },
+  "(undisclosed address) new york ny 10029": {
+    "minutes": 47,
+    "text": "47 mins",
+    "mode": "transit",
+    "address": "(undisclosed Address), New York, NY 10029"
+  },
+  "114 w 131st st 2 new york ny 10027": {
+    "minutes": 45,
+    "text": "45 mins",
+    "mode": "transit",
+    "address": "114 W 131st St #2, New York, NY 10027"
+  },
+  "56 e 119th st fl 2 new york ny 10035": {
+    "minutes": 46,
+    "text": "46 mins",
+    "mode": "transit",
+    "address": "56 E 119th St Fl 2, New York, NY 10035"
+  },
+  "2504 adam clayton powell jr blvd 3 new york ny 10039": {
+    "minutes": 44,
+    "text": "44 mins",
+    "mode": "transit",
+    "address": "2504 Adam Clayton Powell Jr Blvd #3, New York, NY 10039"
+  },
+  "216 w 123rd st 1 new york ny 10027": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "216 W 123rd St #1, New York, NY 10027"
+  },
+  "1975 adam c powell blvd 3d new york ny 10026": {
+    "minutes": 42,
+    "text": "42 mins",
+    "mode": "transit",
+    "address": "1975 Adam C Powell Blvd #3D, New York, NY 10026"
+  },
+  "53 pitt st new york ny 10002": {
+    "minutes": 43,
+    "text": "43 mins",
+    "mode": "transit",
+    "address": "53 Pitt St APT 6A, New York, NY 10002"
+  },
+  "186 orchard st new york ny 10002": {
+    "minutes": 44,
+    "text": "44 mins",
+    "mode": "transit",
+    "address": "186 Orchard St APT 6RN, New York, NY 10002"
+  },
+  "161 stanton st new york ny": {
+    "minutes": 42,
+    "text": "42 mins",
+    "mode": "transit",
+    "address": "161 Stanton St, New York, NY"
+  },
+  "195 stanton st new york ny": {
+    "minutes": 45,
+    "text": "45 mins",
+    "mode": "transit",
+    "address": "195 Stanton St, New York, NY"
+  },
+  "10 rutgers st new york ny 10002": {
+    "minutes": 45,
+    "text": "45 mins",
+    "mode": "transit",
+    "address": "10 Rutgers St APT 2F, New York, NY 10002"
+  },
+  "102 norfolk st 1 new york ny 10002": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "102 Norfolk St #1, New York, NY 10002"
+  },
+  "168 stanton st 5a new york ny 10002": {
+    "minutes": 43,
+    "text": "43 mins",
+    "mode": "transit",
+    "address": "168 Stanton St #5A, New York, NY 10002"
+  },
+  "87 chrystie st new york ny 10002": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "87 Chrystie St APT 2B, New York, NY 10002"
+  },
+  "143 ludlow st new york ny 10002": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "143 Ludlow St APT 5B, New York, NY 10002"
+  },
+  "171 attorney st new york ny 10002": {
+    "minutes": 45,
+    "text": "45 mins",
+    "mode": "transit",
+    "address": "171 Attorney St APT 4A, New York, NY 10002"
+  },
+  "135 eldridge st 2a new york ny 10002": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "135 Eldridge St #2A, New York, NY 10002"
+  },
+  "32 market st 3 new york ny 10002": {
+    "minutes": 50,
+    "text": "50 mins",
+    "mode": "transit",
+    "address": "32 Market St #3, New York, NY 10002"
+  },
+  "176 stanton st new york ny 10002": {
+    "minutes": 43,
+    "text": "43 mins",
+    "mode": "transit",
+    "address": "176 Stanton St APT 1C, New York, NY 10002"
+  },
+  "47 market st new york ny 10002": {
+    "minutes": 50,
+    "text": "50 mins",
+    "mode": "transit",
+    "address": "47 Market St APT 1, New York, NY 10002"
+  },
+  "122 rivington st penthouse new york ny 10002": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "122 Rivington St #Penthouse, New York, NY 10002"
+  },
+  "105 rivington st 1 new york ny 10002": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "105 Rivington St #1, New York, NY 10002"
+  },
+  "126 rivington st new york ny": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "126 Rivington St, New York, NY"
+  },
+  "89 clinton st new york ny 10002": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "89 Clinton St APT Gf, New York, NY 10002"
+  },
+  "124 ridge st penthouse u8 new york ny 10002": {
+    "minutes": 44,
+    "text": "44 mins",
+    "mode": "transit",
+    "address": "124 Ridge St #Penthouse U8, New York, NY 10002"
+  },
+  "70 pine st new york ny 10005": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "70 Pine St APT 1103, New York, NY 10005"
+  },
+  "180 water st new york ny 10038": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "180 Water St APT 1109, New York, NY 10038"
+  },
+  "136 william st ph 6a new york ny 10038": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "136 William St Ph 6A, New York, NY 10038"
+  },
+  "55 liberty st new york ny 10038": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "transit",
+    "address": "55 Liberty St APT 4B, New York, NY 10038"
+  },
+  "20 exchange pl new york ny 10005": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "20 Exchange Pl APT 5501, New York, NY 10005"
+  },
+  "125 greenwich st 30d new york ny 10006": {
+    "minutes": 52,
+    "text": "52 mins",
+    "mode": "walking",
+    "address": "125 Greenwich St #30D, New York, NY 10006"
+  },
+  "222 broadway 718 new york ny 10038": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "222 Broadway #718, New York, NY 10038"
+  },
+  "1 park row 20b new york ny 10038": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "transit",
+    "address": "1 Park Row #20B, New York, NY 10038"
+  },
+  "60 pearl st new york ny 10004": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "60 Pearl St APT 3, New York, NY 10004"
+  },
+  "1 west st new york ny 10004": {
+    "minutes": 43,
+    "text": "43 mins",
+    "mode": "transit",
+    "address": "1 West St APT 1930, New York, NY 10004"
+  },
+  "25 park row new york ny 10038": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "transit",
+    "address": "25 Park Row Unit 40B, New York, NY 10038"
+  },
+  "366 broadway new york ny 10013": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "366 Broadway APT 2, New York, NY 10013"
+  },
+  "25 thompson st new york ny 10013": {
+    "minutes": 33,
+    "text": "33 mins",
+    "mode": "transit",
+    "address": "25 Thompson St APT 12, New York, NY 10013"
+  },
+  "117 varick st new york ny 10013": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "117 Varick St APT 3F, New York, NY 10013"
+  },
+  "203 spring st new york ny 10012": {
+    "minutes": 33,
+    "text": "33 mins",
+    "mode": "transit",
+    "address": "203 Spring St APT 4, New York, NY 10012"
+  },
+  "100 vandam st 3c new york ny 10013": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "100 Vandam St #3C, New York, NY 10013"
+  },
+  "98 thompson st 8 new york ny 10012": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "98 Thompson St #8, New York, NY 10012"
+  },
+  "552 broome st new york ny 10013": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "transit",
+    "address": "552 Broome St APT 2B, New York, NY 10013"
+  },
+  "284 lafayette st new york ny 10012": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "284 Lafayette St APT 5D, New York, NY 10012"
+  },
+  "535 broadway floor 5a new york ny 10012": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "535 Broadway Floor 5A, New York, NY 10012"
+  },
+  "146 reade st 3a new york ny 10013": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "146 Reade St #3A, New York, NY 10013"
+  },
+  "405 broadway fl 3 new york ny 10013": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "405 Broadway Fl 3, New York, NY 10013"
+  },
+  "295 greenwich st 8/9h new york ny 10007": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "295 Greenwich St #8/9H, New York, NY 10007"
+  },
+  "460 greenwich st new york ny 10013": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "460 Greenwich St APT 5, New York, NY 10013"
+  },
+  "30 park pl new york ny 10007": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "30 Park Pl APT 68B, New York, NY 10007"
+  },
+  "122 duane st new york ny 10007": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "122 Duane St APT 5B, New York, NY 10007"
+  },
+  "19 park pl 10a new york ny 10007": {
+    "minutes": 33,
+    "text": "33 mins",
+    "mode": "transit",
+    "address": "19 Park Pl #10A, New York, NY 10007"
+  },
+  "71 reade st 2b new york ny 10007": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "71 Reade St #2B, New York, NY 10007"
+  },
+  "31 walker st fl 4 new york ny 10013": {
+    "minutes": 32,
+    "text": "32 mins",
+    "mode": "transit",
+    "address": "31 Walker St Fl 4, New York, NY 10013"
+  },
+  "83 warren st 4b new york ny 10007": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "83 Warren St #4B, New York, NY 10007"
+  },
+  "61 lispenard st 4 new york ny 10013": {
+    "minutes": 33,
+    "text": "33 mins",
+    "mode": "transit",
+    "address": "61 Lispenard St #4, New York, NY 10013"
+  },
+  "39 lispenard st penthouse new york ny 10013": {
+    "minutes": 32,
+    "text": "32 mins",
+    "mode": "transit",
+    "address": "39 Lispenard St #Penthouse, New York, NY 10013"
+  },
+  "161 hudson st new york ny 10013": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "161 Hudson St, New York, NY 10013"
+  },
+  "53 murray st g new york ny 10007": {
+    "minutes": 33,
+    "text": "33 mins",
+    "mode": "transit",
+    "address": "53 Murray St #G, New York, NY 10007"
+  },
+  "52 thomas st phd new york ny 10013": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "transit",
+    "address": "52 Thomas St #Phd, New York, NY 10013"
+  },
+  "325 e 14th st phd new york ny 10003": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "325 E 14th St #Phd, New York, NY 10003"
+  },
+  "126 e 19th st new york ny 10003": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "126 E 19th St APT 5, New York, NY 10003"
+  },
+  "250 e 21st st 8a new york ny 10010": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "250 E 21st St #8A, New York, NY 10010"
+  },
+  "332 e 19th st new york ny 10003": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "332 E 19th St APT 14, New York, NY 10003"
+  },
+  "246 e 23rd st new york ny 10010": {
+    "minutes": 59,
+    "text": "59 mins",
+    "mode": "transit",
+    "address": "246 E 23rd St APT 3, New York, NY 10010"
+  },
+  "78 irving pl new york ny 10003": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "78 Irving Pl, New York, NY 10003"
+  },
+  "118 e 18th st new york ny": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "118 E 18th St, New York, NY"
+  },
+  "354 e 20th st 5e new york ny 10003": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "354 E 20th St #5E, New York, NY 10003"
+  },
+  "80 haven ave new york ny 10032": {
+    "minutes": 59,
+    "text": "59 mins",
+    "mode": "transit",
+    "address": "80 Haven Ave APT 4D, New York, NY 10032"
+  },
+  "715 w 172nd st new york ny 10032": {
+    "minutes": 56,
+    "text": "56 mins",
+    "mode": "transit",
+    "address": "715 W 172nd St APT 24, New York, NY 10032"
+  },
+  "112 haven ave new york ny 10032": {
+    "minutes": 58,
+    "text": "58 mins",
+    "mode": "transit",
+    "address": "112 Haven Ave APT 32, New York, NY 10032"
+  },
+  "1 bennett ave new york ny 10033": {
+    "minutes": 54,
+    "text": "54 mins",
+    "mode": "transit",
+    "address": "1 Bennett Ave APT 37, New York, NY 10033"
+  },
+  "503 w 176th st b2 new york ny 10033": {
+    "minutes": 60,
+    "text": "1 hour 0 mins",
+    "mode": "transit",
+    "address": "503 W 176th St #B2, New York, NY 10033"
+  },
+  "587 w 177th st new york ny 10033": {
+    "minutes": 56,
+    "text": "56 mins",
+    "mode": "transit",
+    "address": "587 W 177th St APT 43, New York, NY 10033"
+  },
+  "2108 amsterdam ave n4 new york ny 10032": {
+    "minutes": 46,
+    "text": "46 mins",
+    "mode": "transit",
+    "address": "2108 Amsterdam Ave #N4, New York, NY 10032"
+  },
+  "54 wadsworth ter new york ny 10040": {
+    "minutes": 51,
+    "text": "51 mins",
+    "mode": "transit",
+    "address": "54 Wadsworth Ter APT 44, New York, NY 10040"
+  },
+  "660 fort washington ave 2jj new york ny 10040": {
+    "minutes": 49,
+    "text": "49 mins",
+    "mode": "transit",
+    "address": "660 Fort Washington Ave #2JJ, New York, NY 10040"
+  },
+  "4260 broadway new york ny 10033": {
+    "minutes": 56,
+    "text": "56 mins",
+    "mode": "transit",
+    "address": "4260 Broadway APT 601, New York, NY 10033"
+  },
+  "563 w 170th st 8a new york ny 10032": {
+    "minutes": 43,
+    "text": "43 mins",
+    "mode": "transit",
+    "address": "563 W 170th St #8A, New York, NY 10032"
+  },
+  "551 w 170th st new york ny 10032": {
+    "minutes": 44,
+    "text": "44 mins",
+    "mode": "transit",
+    "address": "551 W 170th St APT 15, New York, NY 10032"
+  },
+  "573 w 172nd st 1 new york ny 10032": {
+    "minutes": 45,
+    "text": "45 mins",
+    "mode": "transit",
+    "address": "573 W 172nd St #1, New York, NY 10032"
+  },
+  "4398 broadway new york ny 10040": {
+    "minutes": 62,
+    "text": "1 hour 2 mins",
+    "mode": "transit",
+    "address": "4398 Broadway, New York, NY 10040"
+  },
+  "620 w 174th st new york ny 10033": {
+    "minutes": 56,
+    "text": "56 mins",
+    "mode": "transit",
+    "address": "620 W 174th St, New York, NY 10033"
+  },
+  "370 fort washington ave new york ny 10033": {
+    "minutes": 51,
+    "text": "51 mins",
+    "mode": "transit",
+    "address": "370 Fort Washington Ave APT 503, New York, NY 10033"
+  },
+  "509 w 159th st new york ny 10032": {
+    "minutes": 46,
+    "text": "46 mins",
+    "mode": "transit",
+    "address": "509 W 159th St APT 15, New York, NY 10032"
+  },
+  "512 park ave 2f hoboken nj 07030": {
+    "minutes": 9,
+    "text": "9 mins",
+    "mode": "driving",
+    "address": "512 Park Ave #2F, Hoboken, NJ 07030"
+  },
+  "130 jefferson st hoboken nj 07030": {
+    "minutes": 12,
+    "text": "12 mins",
+    "mode": "driving",
+    "address": "130 Jefferson St APT 3, Hoboken, NJ 07030"
+  },
+  "419 washington st hoboken nj 07030": {
+    "minutes": 11,
+    "text": "11 mins",
+    "mode": "driving",
+    "address": "419 Washington St APT 2, Hoboken, NJ 07030"
+  },
+  "716 madison st hoboken nj 07030": {
+    "minutes": 11,
+    "text": "11 mins",
+    "mode": "driving",
+    "address": "716 Madison St APT 301, Hoboken, NJ 07030"
+  },
+  "609 monroe st 2 hoboken nj 07030": {
+    "minutes": 11,
+    "text": "11 mins",
+    "mode": "driving",
+    "address": "609 Monroe St #2, Hoboken, NJ 07030"
+  },
+  "202 bloomfield st hoboken nj 07030": {
+    "minutes": 12,
+    "text": "12 mins",
+    "mode": "driving",
+    "address": "202 Bloomfield St APT 4, Hoboken, NJ 07030"
+  },
+  "95 court st hoboken nj 07030": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "95 Court St, Hoboken, NJ 07030"
+  },
+  "112 clinton st hoboken nj 07030": {
+    "minutes": 11,
+    "text": "11 mins",
+    "mode": "driving",
+    "address": "112 Clinton St APT 1, Hoboken, NJ 07030"
+  },
+  "1404 willow ave hoboken nj": {
+    "minutes": 20,
+    "text": "20 mins",
+    "mode": "walking",
+    "address": "1404 Willow Ave, Hoboken, NJ"
+  },
+  "bloomfield manor 1305-1307 bloomfield st 4205052 hoboken nj 07030": {
+    "minutes": 9,
+    "text": "9 mins",
+    "mode": "driving",
+    "address": "Bloomfield Manor, 1305-1307 Bloomfield St #4205052, Hoboken, NJ 07030"
+  },
+  "77 park avenue 77 park ave 1-1105 hoboken nj 07030": {
+    "minutes": 13,
+    "text": "13 mins",
+    "mode": "driving",
+    "address": "77 Park Avenue, 77 Park Ave #1-1105, Hoboken, NJ 07030"
+  },
+  "1038 garden st 2f hoboken nj 07030": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "walking",
+    "address": "1038 Garden St #2F, Hoboken, NJ 07030"
+  },
+  "557 2nd st hoboken nj 07030": {
+    "minutes": 13,
+    "text": "13 mins",
+    "mode": "driving",
+    "address": "557 2nd St APT 6, Hoboken, NJ 07030"
+  },
+  "91 madison st hoboken nj 07030": {
+    "minutes": 12,
+    "text": "12 mins",
+    "mode": "driving",
+    "address": "91 Madison St APT 2, Hoboken, NJ 07030"
+  },
+  "1131 washington st hoboken nj": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "walking",
+    "address": "1131 Washington St, Hoboken, NJ"
+  },
+  "56 3rd st hoboken nj 07030": {
+    "minutes": 11,
+    "text": "11 mins",
+    "mode": "driving",
+    "address": "56 3rd St APT 3, Hoboken, NJ 07030"
+  },
+  "1100 clinton st hoboken nj 07030": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "walking",
+    "address": "1100 Clinton St APT 101, Hoboken, NJ 07030"
+  },
+  "108 8th st 1 hoboken nj 07030": {
+    "minutes": 8,
+    "text": "8 mins",
+    "mode": "driving",
+    "address": "108 8th St #1, Hoboken, NJ 07030"
+  },
+  "302 monroe st 4d hoboken nj 07030": {
+    "minutes": 12,
+    "text": "12 mins",
+    "mode": "driving",
+    "address": "302 Monroe St #4D, Hoboken, NJ 07030"
+  },
+  "450 2nd st 1 hoboken nj 07030": {
+    "minutes": 12,
+    "text": "12 mins",
+    "mode": "driving",
+    "address": "450 2nd St #1, Hoboken, NJ 07030"
+  },
+  "160 6th st hoboken nj 07030": {
+    "minutes": 9,
+    "text": "9 mins",
+    "mode": "driving",
+    "address": "160 6th St, Hoboken, NJ 07030"
+  },
+  "450-460 5th st hoboken nj": {
+    "minutes": 11,
+    "text": "11 mins",
+    "mode": "driving",
+    "address": "450-460 5th St, Hoboken, NJ"
+  },
+  "1000 grand st hoboken nj 07030": {
+    "minutes": 29,
+    "text": "29 mins",
+    "mode": "walking",
+    "address": "1000 Grand St, Hoboken, NJ 07030"
+  },
+  "306 park ave penthouse hoboken nj 07030": {
+    "minutes": 11,
+    "text": "11 mins",
+    "mode": "driving",
+    "address": "306 Park Ave #Penthouse, Hoboken, NJ 07030"
+  },
+  "926 park ave hoboken nj 07030": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "walking",
+    "address": "926 Park Ave, Hoboken, NJ 07030"
+  },
+  "1231 park ave hoboken nj 07030": {
+    "minutes": 21,
+    "text": "21 mins",
+    "mode": "walking",
+    "address": "1231 Park Ave APT 7, Hoboken, NJ 07030"
+  },
+  "662 1st st hoboken nj 07030": {
+    "minutes": 13,
+    "text": "13 mins",
+    "mode": "driving",
+    "address": "662 1st St APT 4A, Hoboken, NJ 07030"
+  },
+  "209 clinton st a hoboken nj 07030": {
+    "minutes": 11,
+    "text": "11 mins",
+    "mode": "driving",
+    "address": "209 Clinton St #A, Hoboken, NJ 07030"
+  },
+  "80 madison st hoboken nj 07030": {
+    "minutes": 12,
+    "text": "12 mins",
+    "mode": "driving",
+    "address": "80 Madison St APT 2, Hoboken, NJ 07030"
+  },
+  "912 washington st hoboken nj 07030": {
+    "minutes": 8,
+    "text": "8 mins",
+    "mode": "driving",
+    "address": "912 Washington St APT 2, Hoboken, NJ 07030"
+  },
+  "604 4th st hoboken nj 07030": {
+    "minutes": 12,
+    "text": "12 mins",
+    "mode": "driving",
+    "address": "604 4th St, Hoboken, NJ 07030"
+  },
+  "112 duncan ave jersey city nj": {
+    "minutes": 22,
+    "text": "22 mins",
+    "mode": "driving",
+    "address": "112 Duncan Ave, Jersey City, NJ"
+  },
+  "85 palisade ave 1 jersey city nj 07306": {
+    "minutes": 16,
+    "text": "16 mins",
+    "mode": "driving",
+    "address": "85 Palisade Ave #1, Jersey City, NJ 07306"
+  },
+  "136 grace st 1 jersey city nj 07307": {
+    "minutes": 11,
+    "text": "11 mins",
+    "mode": "driving",
+    "address": "136 Grace St #1, Jersey City, NJ 07307"
+  },
+  "48 manhattan ave 2 jersey city nj 07307": {
+    "minutes": 16,
+    "text": "16 mins",
+    "mode": "driving",
+    "address": "48 Manhattan Ave #2, Jersey City, NJ 07307"
+  },
+  "10 pollock ave floor 1 jersey city nj 07305": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "10 Pollock Ave Floor 1, Jersey City, NJ 07305"
+  },
+  "18 terrace ave 2 jersey city nj 07307": {
+    "minutes": 13,
+    "text": "13 mins",
+    "mode": "driving",
+    "address": "18 Terrace Ave #2, Jersey City, NJ 07307"
+  },
+  "1 2nd st jersey city nj 07302": {
+    "minutes": 21,
+    "text": "21 mins",
+    "mode": "driving",
+    "address": "1 2nd St APT 1012, Jersey City, NJ 07302"
+  },
+  "286 martin luther king jr dr 2 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "286 Martin Luther King Jr Dr #2, Jersey City, NJ 07305"
+  },
+  "114 duncan ave 3l jersey city nj 07306": {
+    "minutes": 22,
+    "text": "22 mins",
+    "mode": "driving",
+    "address": "114 Duncan Ave #3L, Jersey City, NJ 07306"
+  },
+  "303 grand st jersey city nj 07302": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "303 Grand St, Jersey City, NJ 07302"
+  },
+  "192 arlington ave 2 jersey city nj 07305": {
+    "minutes": 28,
+    "text": "28 mins",
+    "mode": "driving",
+    "address": "192 Arlington Ave #2, Jersey City, NJ 07305"
+  },
+  "384 fulton ave 2 jersey city nj 07305": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "384 Fulton Ave #2, Jersey City, NJ 07305"
+  },
+  "80 broadman pkwy jersey city nj": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "80 Broadman Pkwy, Jersey City, NJ"
+  },
+  "381-383 halladay st jersey city nj 07304": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "381-383 Halladay St, Jersey City, NJ 07304"
+  },
+  "2 spring st jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "2 Spring St, Jersey City, NJ 07305"
+  },
+  "151 congress st jersey city nj": {
+    "minutes": 12,
+    "text": "12 mins",
+    "mode": "driving",
+    "address": "151 Congress St, Jersey City, NJ"
+  },
+  "376 new york ave 2 jersey city nj 07307": {
+    "minutes": 12,
+    "text": "12 mins",
+    "mode": "driving",
+    "address": "376 New York Ave #2, Jersey City, NJ 07307"
+  },
+  "139 cambridge ave floor 1 jersey city nj 07307": {
+    "minutes": 13,
+    "text": "13 mins",
+    "mode": "driving",
+    "address": "139 Cambridge Ave Floor 1, Jersey City, NJ 07307"
+  },
+  "72 charles st 2 jersey city nj 07307": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "72 Charles St #2, Jersey City, NJ 07307"
+  },
+  "182 ocean ave jersey city nj": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "182 Ocean Ave, Jersey City, NJ"
+  },
+  "45 terrace ave jersey city nj": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "45 Terrace Ave, Jersey City, NJ"
+  },
+  "29 bartholdi ave jersey city nj": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "29 Bartholdi Ave, Jersey City, NJ"
+  },
+  "318 linden ave jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "318 Linden Ave APT 1, Jersey City, NJ 07305"
+  },
+  "19 baldwin ave floor 2 jersey city nj 07304": {
+    "minutes": 22,
+    "text": "22 mins",
+    "mode": "driving",
+    "address": "19 Baldwin Ave Floor 2, Jersey City, NJ 07304"
+  },
+  "15 suburbia dr floor 2 jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "15 Suburbia Dr Floor 2, Jersey City, NJ 07305"
+  },
+  "130 highland ave jersey city nj": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "130 Highland Ave, Jersey City, NJ"
+  },
+  "20 delaware ave floor 2 jersey city nj 07304": {
+    "minutes": 21,
+    "text": "21 mins",
+    "mode": "driving",
+    "address": "20 Delaware Ave Floor 2, Jersey City, NJ 07304"
+  },
+  "100 wilkinson ave jersey city nj": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "100 Wilkinson Ave, Jersey City, NJ"
+  },
+  "292 martin luther king dr 2 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "292 Martin Luther King Dr #2, Jersey City, NJ 07305"
+  },
+  "177 wegman pkwy floor 2 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "177 Wegman Pkwy Floor 2, Jersey City, NJ 07305"
+  },
+  "125 collard st 1 jersey city nj 07306": {
+    "minutes": 19,
+    "text": "19 mins",
+    "mode": "driving",
+    "address": "125 Collard St #1, Jersey City, NJ 07306"
+  },
+  "54 saint pauls ave jersey city nj 07306": {
+    "minutes": 16,
+    "text": "16 mins",
+    "mode": "driving",
+    "address": "54 Saint Pauls Ave, Jersey City, NJ 07306"
+  },
+  "354 liberty ave jersey city nj 07307": {
+    "minutes": 16,
+    "text": "16 mins",
+    "mode": "driving",
+    "address": "354 Liberty Ave, Jersey City, NJ 07307"
+  },
+  "76 wade st floor 1 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "76 Wade St Floor 1, Jersey City, NJ 07305"
+  },
+  "234 webster ave jersey city nj 07307": {
+    "minutes": 12,
+    "text": "12 mins",
+    "mode": "driving",
+    "address": "234 Webster Ave APT 1L, Jersey City, NJ 07307"
+  },
+  "434 w side ave 1 jersey city nj 07304": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "434 W Side Ave #1, Jersey City, NJ 07304"
+  },
+  "the morgan provost square 160 morgan st jersey city nj 07302": {
+    "minutes": 21,
+    "text": "21 mins",
+    "mode": "driving",
+    "address": "The Morgan Provost Square, 160 Morgan St APT 213, Jersey City, NJ 07302"
+  },
+  "188 bergen ave jersey city nj": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "188 Bergen Ave, Jersey City, NJ"
+  },
+  "journal square urby 532 summit ave jsq-714 jersey city nj 07306": {
+    "minutes": 19,
+    "text": "19 mins",
+    "mode": "driving",
+    "address": "Journal Square Urby, 532 Summit Ave #Jsq-714, Jersey City, NJ 07306"
+  },
+  "dvora art house 148 1st st jersey city nj 07302": {
+    "minutes": 21,
+    "text": "21 mins",
+    "mode": "driving",
+    "address": "DVORA Art House, 148 1st St APT 1107, Jersey City, NJ 07302"
+  },
+  "221 jewett ave floor 2 jersey city nj 07304": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "221 Jewett Ave Floor 2, Jersey City, NJ 07304"
+  },
+  "372 ocean ave jersey city nj 07305": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "372 Ocean Ave, Jersey City, NJ 07305"
+  },
+  "166 grant ave 3 jersey city nj 07305": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "166 Grant Ave #3, Jersey City, NJ 07305"
+  },
+  "37 armstrong ave 2 jersey city nj 07305": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "37 Armstrong Ave #2, Jersey City, NJ 07305"
+  },
+  "189 griffith st floor 3 jersey city nj 07307": {
+    "minutes": 15,
+    "text": "15 mins",
+    "mode": "driving",
+    "address": "189 Griffith St Floor 3, Jersey City, NJ 07307"
+  },
+  "28 zabriskie st 2 jersey city nj 07307": {
+    "minutes": 15,
+    "text": "15 mins",
+    "mode": "driving",
+    "address": "28 Zabriskie St #2, Jersey City, NJ 07307"
+  },
+  "110 thorne st jersey city nj 07307": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "110 Thorne St, Jersey City, NJ 07307"
+  },
+  "11 rose ave floor 2 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "11 Rose Ave Floor 2, Jersey City, NJ 07305"
+  },
+  "91a palisade ave 2 jersey city nj 07306": {
+    "minutes": 16,
+    "text": "16 mins",
+    "mode": "driving",
+    "address": "91A Palisade Ave #2, Jersey City, NJ 07306"
+  },
+  "188 zabriskie st jersey city nj 07307": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "188 Zabriskie St, Jersey City, NJ 07307"
+  },
+  "20 gardner ave jersey city nj 07304": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "20 Gardner Ave, Jersey City, NJ 07304"
+  },
+  "49 washburn st floor 2 jersey city nj 07306": {
+    "minutes": 19,
+    "text": "19 mins",
+    "mode": "driving",
+    "address": "49 Washburn St Floor 2, Jersey City, NJ 07306"
+  },
+  "45 river dr s jersey city nj": {
+    "minutes": 20,
+    "text": "20 mins",
+    "mode": "driving",
+    "address": "45 River Dr S, Jersey City, NJ"
+  },
+  "11 dwight st jersey city nj": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "11 Dwight St, Jersey City, NJ"
+  },
+  "397 woodlawn ave b jersey city nj 07305": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "397 Woodlawn Ave #B, Jersey City, NJ 07305"
+  },
+  "92 laidlaw ave floor 2 jersey city nj 07306": {
+    "minutes": 16,
+    "text": "16 mins",
+    "mode": "driving",
+    "address": "92 Laidlaw Ave Floor 2, Jersey City, NJ 07306"
+  },
+  "138 bidwell ave jersey city nj": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "138 Bidwell Ave, Jersey City, NJ"
+  },
+  "33 rutgers ave floor 1 jersey city nj 07305": {
+    "minutes": 28,
+    "text": "28 mins",
+    "mode": "driving",
+    "address": "33 Rutgers Ave Floor 1, Jersey City, NJ 07305"
+  },
+  "46 st jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "46 Stegman St, Jersey City, NJ 07305"
+  },
+  "348 armstrong ave 2e jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "348 Armstrong Ave #2E, Jersey City, NJ 07305"
+  },
+  "290 martin luther king dr 2 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "290 Martin Luther King Dr #2, Jersey City, NJ 07305"
+  },
+  "261 hutton st jersey city nj 07307": {
+    "minutes": 16,
+    "text": "16 mins",
+    "mode": "driving",
+    "address": "261 Hutton St Unit 3, Jersey City, NJ 07307"
+  },
+  "176 garfield ave jersey city nj": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "176 Garfield Ave, Jersey City, NJ"
+  },
+  "(undisclosed address) jersey city nj 07310": {
+    "minutes": 17,
+    "text": "17 mins",
+    "mode": "driving",
+    "address": "(undisclosed Address), Jersey City, NJ 07310"
+  },
+  "315 old bergen rd 3b jersey city nj 07305": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "315 Old Bergen Rd #3B, Jersey City, NJ 07305"
+  },
+  "11 grant ave 3l jersey city nj 07305": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "11 Grant Ave #3L, Jersey City, NJ 07305"
+  },
+  "55 western ave 2 jersey city nj 07307": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "55 Western Ave #2, Jersey City, NJ 07307"
+  },
+  "78 pearsall ave jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "78 Pearsall Ave, Jersey City, NJ 07305"
+  },
+  "346 armstrong ave jersey city nj": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "346 Armstrong Ave, Jersey City, NJ"
+  },
+  "149 wegman pkwy floor 1 jersey city nj 07305": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "149 Wegman Pkwy Floor 1, Jersey City, NJ 07305"
+  },
+  "133 boyd ave jersey city nj": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "133 Boyd Ave, Jersey City, NJ"
+  },
+  "318 martin luther king dr jersey city nj": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "318 Martin Luther King Dr, Jersey City, NJ"
+  },
+  "11 dwight st floor 1 jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "11 Dwight St Floor 1, Jersey City, NJ 07305"
+  },
+  "155 carlton ave floor 2 jersey city nj 07306": {
+    "minutes": 13,
+    "text": "13 mins",
+    "mode": "driving",
+    "address": "155 Carlton Ave Floor 2, Jersey City, NJ 07306"
+  },
+  "543 central ave jersey city nj 07307": {
+    "minutes": 11,
+    "text": "11 mins",
+    "mode": "driving",
+    "address": "543 Central Ave APT 3, Jersey City, NJ 07307"
+  },
+  "8 albert pl jersey city nj 07305": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "8 Albert Pl, Jersey City, NJ 07305"
+  },
+  "the summit 136 summit ave 905 jersey city nj 07304": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "The Summit, 136 Summit Ave #905, Jersey City, NJ 07304"
+  },
+  "230 wilkinson ave jersey city nj": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "230 Wilkinson Ave, Jersey City, NJ"
+  },
+  "47 dogwood st 1 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "47 Dogwood St #1, Jersey City, NJ 07305"
+  },
+  "111 duncan ave 3l jersey city nj 07306": {
+    "minutes": 22,
+    "text": "22 mins",
+    "mode": "driving",
+    "address": "111 Duncan Ave #3L, Jersey City, NJ 07306"
+  },
+  "231 wilkinson ave floor 2 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "231 Wilkinson Ave Floor 2, Jersey City, NJ 07305"
+  },
+  "248 old bergen rd 3 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "248 Old Bergen Rd #3, Jersey City, NJ 07305"
+  },
+  "332 pkwy a jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "332 Stegman Pkwy #A, Jersey City, NJ 07305"
+  },
+  "297 fulton ave jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "297 Fulton Ave, Jersey City, NJ 07305"
+  },
+  "137 bostwick ave 1a jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "137 Bostwick Ave #1A, Jersey City, NJ 07305"
+  },
+  "4 duncan ct 2 jersey city nj 07306": {
+    "minutes": 22,
+    "text": "22 mins",
+    "mode": "driving",
+    "address": "4 Duncan Ct #2, Jersey City, NJ 07306"
+  },
+  "161 bidwell ave jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "161 Bidwell Ave, Jersey City, NJ 07305"
+  },
+  "141 christopher columbus dr 2 jersey city nj 07302": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "141 Christopher Columbus Dr #2, Jersey City, NJ 07302"
+  },
+  "703 garfield ave jersey city nj 07305": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "703 Garfield Ave, Jersey City, NJ 07305"
+  },
+  "150 mcadoo ave jersey city nj": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "150 McAdoo Ave, Jersey City, NJ"
+  },
+  "11 marcy ave jersey city nj": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "11 Marcy Ave, Jersey City, NJ"
+  },
+  "107 grant ave 1 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "107 Grant Ave #1, Jersey City, NJ 07305"
+  },
+  "199 hopkins ave jersey city nj 07306": {
+    "minutes": 18,
+    "text": "18 mins",
+    "mode": "driving",
+    "address": "199 Hopkins Ave, Jersey City, NJ 07306"
+  },
+  "313 4th st 2 jersey city nj 07302": {
+    "minutes": 19,
+    "text": "19 mins",
+    "mode": "driving",
+    "address": "313 4th St #2, Jersey City, NJ 07302"
+  },
+  "203 harrison ave jersey city nj 07304": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "203 Harrison Ave APT 33, Jersey City, NJ 07304"
+  },
+  "126 randolph ave jersey city nj 07305": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "126 Randolph Ave APT 2L, Jersey City, NJ 07305"
+  },
+  "2405 south st 4 jersey city nj 07307": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "240.5 South St #4, Jersey City, NJ 07307"
+  },
+  "187 clerk st 2 jersey city nj 07305": {
+    "minutes": 28,
+    "text": "28 mins",
+    "mode": "driving",
+    "address": "187 Clerk St #2, Jersey City, NJ 07305"
+  },
+  "270 ave 2 jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "270 Stevens Ave #2, Jersey City, NJ 07305"
+  },
+  "149 beach st 201 jersey city nj 07307": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "149 Beach St #201, Jersey City, NJ 07307"
+  },
+  "355 w side ave jersey city nj 07305": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "355 W Side Ave APT 2, Jersey City, NJ 07305"
+  },
+  "101 romaine ave a jersey city nj 07306": {
+    "minutes": 19,
+    "text": "19 mins",
+    "mode": "driving",
+    "address": "101 Romaine Ave #A, Jersey City, NJ 07306"
+  },
+  "217 tonnelle ave 1 jersey city nj 07306": {
+    "minutes": 16,
+    "text": "16 mins",
+    "mode": "driving",
+    "address": "217 Tonnelle Ave #1, Jersey City, NJ 07306"
+  },
+  "99 woodlawn ave floor 1 jersey city nj 07305": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "99 Woodlawn Ave Floor 1, Jersey City, NJ 07305"
+  },
+  "103 jefferson ave 1 jersey city nj 07306": {
+    "minutes": 17,
+    "text": "17 mins",
+    "mode": "driving",
+    "address": "103 Jefferson Ave #1, Jersey City, NJ 07306"
+  },
+  "316 linden ave floor 2 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "316 Linden Ave Floor 2, Jersey City, NJ 07305"
+  },
+  "18 martin luther king dr jersey city nj 07305": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "18 Martin Luther King Dr, Jersey City, NJ 07305"
+  },
+  "20 2nd st jersey city nj 07302": {
+    "minutes": 22,
+    "text": "22 mins",
+    "mode": "driving",
+    "address": "20 2nd St APT 909, Jersey City, NJ 07302"
+  },
+  "115 mcadoo ave 1 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "115 McAdoo Ave #1, Jersey City, NJ 07305"
+  },
+  "346 ogden ave floor 2 jersey city nj 07307": {
+    "minutes": 11,
+    "text": "11 mins",
+    "mode": "driving",
+    "address": "346 Ogden Ave Floor 2, Jersey City, NJ 07307"
+  },
+  "3649 john f kennedy blvd floor 1 jersey city nj 07307": {
+    "minutes": 12,
+    "text": "12 mins",
+    "mode": "driving",
+    "address": "3649 John F Kennedy Blvd Floor 1, Jersey City, NJ 07307"
+  },
+  "335 summit ave jersey city nj 07306": {
+    "minutes": 21,
+    "text": "21 mins",
+    "mode": "driving",
+    "address": "335 Summit Ave APT 1, Jersey City, NJ 07306"
+  },
+  "188 lembeck ave floor 2 jersey city nj 07305": {
+    "minutes": 28,
+    "text": "28 mins",
+    "mode": "driving",
+    "address": "188 Lembeck Ave Floor 2, Jersey City, NJ 07305"
+  },
+  "466 pacific ave jersey city nj 07304": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "466 Pacific Ave, Jersey City, NJ 07304"
+  },
+  "112 greenville ave jersey city nj": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "112 Greenville Ave, Jersey City, NJ"
+  },
+  "106 old bergen rd jersey city nj": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "106 Old Bergen Rd, Jersey City, NJ"
+  },
+  "32 giles ave floor 1 jersey city nj 07306": {
+    "minutes": 19,
+    "text": "19 mins",
+    "mode": "driving",
+    "address": "32 Giles Ave Floor 1, Jersey City, NJ 07306"
+  },
+  "9 concord st 2 jersey city nj 07306": {
+    "minutes": 17,
+    "text": "17 mins",
+    "mode": "driving",
+    "address": "9 Concord St #2, Jersey City, NJ 07306"
+  },
+  "46 carlton ave 1 jersey city nj 07307": {
+    "minutes": 18,
+    "text": "18 mins",
+    "mode": "driving",
+    "address": "46 Carlton Ave #1, Jersey City, NJ 07307"
+  },
+  "565 central ave 2 jersey city nj 07307": {
+    "minutes": 11,
+    "text": "11 mins",
+    "mode": "driving",
+    "address": "565 Central Ave #2, Jersey City, NJ 07307"
+  },
+  "42 zabriskie st floor 2 jersey city nj 07307": {
+    "minutes": 16,
+    "text": "16 mins",
+    "mode": "driving",
+    "address": "42 Zabriskie St Floor 2, Jersey City, NJ 07307"
+  },
+  "132 randolph ave 2 jersey city nj 07305": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "132 Randolph Ave #2, Jersey City, NJ 07305"
+  },
+  "140 logan ave 1 jersey city nj 07306": {
+    "minutes": 19,
+    "text": "19 mins",
+    "mode": "driving",
+    "address": "140 Logan Ave #1, Jersey City, NJ 07306"
+  },
+  "132 grant ave jersey city nj": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "132 Grant Ave, Jersey City, NJ"
+  },
+  "35 lexington ave 2 jersey city nj 07304": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "35 Lexington Ave #2, Jersey City, NJ 07304"
+  },
+  "228 wilkinson ave floor 2 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "228 Wilkinson Ave Floor 2, Jersey City, NJ 07305"
+  },
+  "444 washington blvd jersey city nj": {
+    "minutes": 21,
+    "text": "21 mins",
+    "mode": "driving",
+    "address": "444 Washington Blvd, Jersey City, NJ"
+  },
+  "37 astor pl jersey city nj": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "37 Astor Pl, Jersey City, NJ"
+  },
+  "193 clerk st 1 jersey city nj 07305": {
+    "minutes": 28,
+    "text": "28 mins",
+    "mode": "driving",
+    "address": "193 Clerk St #1, Jersey City, NJ 07305"
+  },
+  "76 dales ave 3 jersey city nj 07306": {
+    "minutes": 17,
+    "text": "17 mins",
+    "mode": "driving",
+    "address": "76 Dales Ave #3, Jersey City, NJ 07306"
+  },
+  "59 arlington ave jersey city nj 07305": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "59 Arlington Ave Unit 2, Jersey City, NJ 07305"
+  },
+  "611 summit ave 8-03 jersey city nj 07306": {
+    "minutes": 19,
+    "text": "19 mins",
+    "mode": "driving",
+    "address": "611 Summit Ave #8-03, Jersey City, NJ 07306"
+  },
+  "203 virginia ave 1 jersey city nj 07304": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "203 Virginia Ave #1, Jersey City, NJ 07304"
+  },
+  "449 mallory ave 2 jersey city nj 07306": {
+    "minutes": 20,
+    "text": "20 mins",
+    "mode": "driving",
+    "address": "449 Mallory Ave #2, Jersey City, NJ 07306"
+  },
+  "38 duncan ave 4 jersey city nj 07304": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "38 Duncan Ave #4, Jersey City, NJ 07304"
+  },
+  "43 ravine ave floor 1 jersey city nj 07307": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "43 Ravine Ave Floor 1, Jersey City, NJ 07307"
+  },
+  "270 10th st jersey city nj": {
+    "minutes": 16,
+    "text": "16 mins",
+    "mode": "driving",
+    "address": "270 10th St, Jersey City, NJ"
+  },
+  "268 saint pauls ave 1 jersey city nj 07306": {
+    "minutes": 20,
+    "text": "20 mins",
+    "mode": "driving",
+    "address": "268 Saint Pauls Ave #1, Jersey City, NJ 07306"
+  },
+  "147 mcadoo ave floor 1 jersey city nj 07305": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "147 McAdoo Ave Floor 1, Jersey City, NJ 07305"
+  },
+  "20 wade st jersey city nj": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "20 Wade St, Jersey City, NJ"
+  },
+  "95 grant ave 3l jersey city nj 07305": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "9.5 Grant Ave #3L, Jersey City, NJ 07305"
+  },
+  "249 winfield ave 1 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "249 Winfield Ave #1, Jersey City, NJ 07305"
+  },
+  "302 terrace ave 7 jersey city nj 07307": {
+    "minutes": 12,
+    "text": "12 mins",
+    "mode": "driving",
+    "address": "302 Terrace Ave #7, Jersey City, NJ 07307"
+  },
+  "247 old bergen rd jersey city nj": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "247 Old Bergen Rd, Jersey City, NJ"
+  },
+  "41 dey st floor 1 jersey city nj 07306": {
+    "minutes": 17,
+    "text": "17 mins",
+    "mode": "driving",
+    "address": "41 Dey St Floor 1, Jersey City, NJ 07306"
+  },
+  "110 webster ave b jersey city nj 07307": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "110 Webster Ave #B, Jersey City, NJ 07307"
+  },
+  "126 gifford ave id1546496p jersey city nj 07304": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "126 Gifford Ave #Id1546496p, Jersey City, NJ 07304"
+  },
+  "93 roosevelt ave 3l jersey city nj 07304": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "93 Roosevelt Ave #3L, Jersey City, NJ 07304"
+  },
+  "301 lembeck ave id1545977p jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "301 Lembeck Ave #Id1545977p, Jersey City, NJ 07305"
+  },
+  "62 virginia ave floor 2 jersey city nj 07304": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "62 Virginia Ave Floor 2, Jersey City, NJ 07304"
+  },
+  "262 summit ave floor 2 jersey city nj 07306": {
+    "minutes": 22,
+    "text": "22 mins",
+    "mode": "driving",
+    "address": "262 Summit Ave Floor 2, Jersey City, NJ 07306"
+  },
+  "9 seidler st 1 jersey city nj 07304": {
+    "minutes": 28,
+    "text": "28 mins",
+    "mode": "driving",
+    "address": "9 Seidler St #1, Jersey City, NJ 07304"
+  },
+  "68 martin luther king jr dr jersey city nj": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "68 Martin Luther King Jr Dr, Jersey City, NJ"
+  },
+  "310 danforth ave jersey city nj 07305": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "310 Danforth Ave APT 2, Jersey City, NJ 07305"
+  },
+  "19 orient ave jersey city nj": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "19 Orient Ave, Jersey City, NJ"
+  },
+  "206 fulton ave 1 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "206 Fulton Ave #1, Jersey City, NJ 07305"
+  },
+  "183 webster ave 1 jersey city nj 07307": {
+    "minutes": 13,
+    "text": "13 mins",
+    "mode": "driving",
+    "address": "183 Webster Ave #1, Jersey City, NJ 07307"
+  },
+  "331 princeton ave jersey city nj": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "331 Princeton Ave, Jersey City, NJ"
+  },
+  "187 wegman pkwy floor 2 jersey city nj 07305": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "187 Wegman Pkwy Floor 2, Jersey City, NJ 07305"
+  },
+  "391 manila ave jersey city nj": {
+    "minutes": 21,
+    "text": "21 mins",
+    "mode": "driving",
+    "address": "391 Manila Ave, Jersey City, NJ"
+  },
+  "riverparc at port imperial 1300 avenue at port rvp-0602 weehawken nj 07086": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "walking",
+    "address": "RiverParc at Port Imperial, 1300 Avenue At Port #Rvp-0602, Weehawken, NJ 07086"
+  },
+  "437 gregory ave floor 1 weehawken nj 07086": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "walking",
+    "address": "437 Gregory Ave Floor 1, Weehawken, NJ 07086"
+  },
+  "1100 avenue at port weehawken nj": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "walking",
+    "address": "1100 Avenue At Port, Weehawken, NJ"
+  },
+  "800 avenue at port imperial weehawken nj 07086": {
+    "minutes": 30,
+    "text": "30 mins",
+    "mode": "walking",
+    "address": "800 Avenue At Port Imperial APT 811, Weehawken, NJ 07086"
+  },
+  "600 harbor blvd 1079-81r weehawken nj 07086": {
+    "minutes": 6,
+    "text": "6 mins",
+    "mode": "walking",
+    "address": "600 Harbor Blvd #1079-81R, Weehawken, NJ 07086"
+  },
+  "80 hackensack plank rd 1 weehawken nj 07086": {
+    "minutes": 20,
+    "text": "20 mins",
+    "mode": "walking",
+    "address": "80 Hackensack Plank Rd #1, Weehawken, NJ 07086"
+  },
+  "66 46th st weehawken nj 07086": {
+    "minutes": 8,
+    "text": "8 mins",
+    "mode": "driving",
+    "address": "66 46th St, Weehawken, NJ 07086"
+  },
+  "200 shippen st 1 weehawken nj 07086": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "walking",
+    "address": "200 Shippen St #1, Weehawken, NJ 07086"
+  },
+  "261 park ave weehawken nj 07086": {
+    "minutes": 17,
+    "text": "17 mins",
+    "mode": "walking",
+    "address": "261 Park Ave APT 3, Weehawken, NJ 07086"
+  },
+  "42 duer pl weehawken nj": {
+    "minutes": 22,
+    "text": "22 mins",
+    "mode": "walking",
+    "address": "42 Duer Pl, Weehawken, NJ"
+  },
+  "36 46th st 1 weehawken nj 07086": {
+    "minutes": 9,
+    "text": "9 mins",
+    "mode": "driving",
+    "address": "36 46th St #1, Weehawken, NJ 07086"
+  },
+  "2602 palisade ave floor 1 weehawken nj 07086": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "walking",
+    "address": "2602 Palisade Ave Floor 1, Weehawken, NJ 07086"
+  },
+  "72 46th st 1 weehawken nj 07086": {
+    "minutes": 8,
+    "text": "8 mins",
+    "mode": "driving",
+    "address": "72 46th St #1, Weehawken, NJ 07086"
+  },
+  "138 shippen st floor 1 weehawken nj 07086": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "walking",
+    "address": "138 Shippen St Floor 1, Weehawken, NJ 07086"
   }
 }
