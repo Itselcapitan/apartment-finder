@@ -11194,5 +11194,395 @@
     "text": "23 mins",
     "mode": "walking",
     "address": "138 Shippen St Floor 1, Weehawken, NJ 07086"
+  },
+  "65 w 70th st new york ny 10023": {
+    "minutes": 30,
+    "text": "30 mins",
+    "mode": "transit",
+    "address": "65 W 70th St APT 6S, New York, NY 10023"
+  },
+  "280 riverside dr 3s new york ny 10025": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "280 Riverside Dr #3S, New York, NY 10025"
+  },
+  "969 columbus ave new york ny 10025": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "969 Columbus Ave APT 3B, New York, NY 10025"
+  },
+  "32 w 86th st new york ny 10024": {
+    "minutes": 31,
+    "text": "31 mins",
+    "mode": "transit",
+    "address": "32 W 86th St APT 1C, New York, NY 10024"
+  },
+  "98 riverside dr 3h new york ny 10024": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "98 Riverside Dr #3H, New York, NY 10024"
+  },
+  "312 e 91st st new york ny": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "312 E 91st St, New York, NY"
+  },
+  "1410 york ave new york ny 10021": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "1410 York Ave APT 1H, New York, NY 10021"
+  },
+  "309 e 92nd st r1 new york ny 10128": {
+    "minutes": 39,
+    "text": "39 mins",
+    "mode": "transit",
+    "address": "309 E 92nd St #R1, New York, NY 10128"
+  },
+  "240 e 86th st new york ny": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "transit",
+    "address": "240 E 86th St, New York, NY"
+  },
+  "231 e 60th st new york ny 10022": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "231 E 60th St APT 4, New York, NY 10022"
+  },
+  "1402 lexington ave new york ny 10128": {
+    "minutes": 58,
+    "text": "58 mins",
+    "mode": "transit",
+    "address": "1402 Lexington Ave APT 7, New York, NY 10128"
+  },
+  "305 e 61st st 902 new york ny 10065": {
+    "minutes": 37,
+    "text": "37 mins",
+    "mode": "transit",
+    "address": "305 E 61st St #902, New York, NY 10065"
+  },
+  "233 e 60th st new york ny 10022": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "transit",
+    "address": "233 E 60th St APT 1, New York, NY 10022"
+  },
+  "420 e 64th st new york ny": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "420 E 64th St, New York, NY"
+  },
+  "camelot at lamer 20 pointe of woods dr n 4-421 parlin nj 08859": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "driving",
+    "address": "Camelot at LaMer, 20 Pointe Of Woods Dr N #4-421, Parlin, NJ 08859"
+  },
+  "224 w 21st st new york ny 10011": {
+    "minutes": 31,
+    "text": "31 mins",
+    "mode": "transit",
+    "address": "224 W 21st St APT 12, New York, NY 10011"
+  },
+  "119 marsellus pl floor 2 garfield nj 07026": {
+    "minutes": 22,
+    "text": "22 mins",
+    "mode": "driving",
+    "address": "119 Marsellus Pl Floor 2, Garfield, NJ 07026"
+  },
+  "13 minuteman ct basking ridge nj 07920": {
+    "minutes": 44,
+    "text": "44 mins",
+    "mode": "driving",
+    "address": "13 Minuteman Ct, Basking Ridge, NJ 07920"
+  },
+  "431 gregory ave floor 2 weehawken nj 07086": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "walking",
+    "address": "431 Gregory Ave Floor 2, Weehawken, NJ 07086"
+  },
+  "215 e 124th st new york ny": {
+    "minutes": 44,
+    "text": "44 mins",
+    "mode": "transit",
+    "address": "215 E 124th St, New York, NY"
+  },
+  "47 graham st jersey city nj 07307": {
+    "minutes": 12,
+    "text": "12 mins",
+    "mode": "driving",
+    "address": "47 Graham St APT 1, Jersey City, NJ 07307"
+  },
+  "370 pacific ave floor 1 jersey city nj 07304": {
+    "minutes": 19,
+    "text": "19 mins",
+    "mode": "driving",
+    "address": "370 Pacific Ave Floor 1, Jersey City, NJ 07304"
+  },
+  "110 montclair ave montclair nj 07042": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "110 Montclair Ave, Montclair, NJ 07042"
+  },
+  "118 maple ave newark nj 07112": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "118 Maple Ave, Newark, NJ 07112"
+  },
+  "118 tappan st floor 1 kearny nj 07032": {
+    "minutes": 18,
+    "text": "18 mins",
+    "mode": "driving",
+    "address": "118 Tappan St Floor 1, Kearny, NJ 07032"
+  },
+  "121 e edsall ave floor 2 palisades park nj 07650": {
+    "minutes": 16,
+    "text": "16 mins",
+    "mode": "driving",
+    "address": "121 E Edsall Ave Floor 2, Palisades Park, NJ 07650"
+  },
+  "5814 newkirk ave floor 2 north bergen nj 07047": {
+    "minutes": 15,
+    "text": "15 mins",
+    "mode": "driving",
+    "address": "5814 Newkirk Ave Floor 2, North Bergen, NJ 07047"
+  },
+  "243 w 14th st new york ny 10011": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "transit",
+    "address": "243 W 14th St APT 1R, New York, NY 10011"
+  },
+  "618 w 164th st new york ny 10032": {
+    "minutes": 46,
+    "text": "46 mins",
+    "mode": "transit",
+    "address": "618 W 164th St APT 6, New York, NY 10032"
+  },
+  "116 fiat ave iselin nj 08830": {
+    "minutes": 34,
+    "text": "34 mins",
+    "mode": "driving",
+    "address": "116 Fiat Ave, Iselin, NJ 08830"
+  },
+  "33 mattocks pl closter nj 07624": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "driving",
+    "address": "33 Mattocks Pl, Closter, NJ 07624"
+  },
+  "(undisclosed address) carteret nj 07008": {
+    "minutes": 29,
+    "text": "29 mins",
+    "mode": "driving",
+    "address": "(undisclosed Address), Carteret, NJ 07008"
+  },
+  "233a myrtle ave fort lee nj 07024": {
+    "minutes": 20,
+    "text": "20 mins",
+    "mode": "driving",
+    "address": "233A Myrtle Ave, Fort Lee, NJ 07024"
+  },
+  "157 e 57th st new york ny 10022": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "transit",
+    "address": "157 E 57th St APT 11D, New York, NY 10022"
+  },
+  "443 5th st floor 2 palisades park nj 07650": {
+    "minutes": 18,
+    "text": "18 mins",
+    "mode": "driving",
+    "address": "443 5th St Floor 2, Palisades Park, NJ 07650"
+  },
+  "27 mission st 2 montclair nj 07042": {
+    "minutes": 27,
+    "text": "27 mins",
+    "mode": "driving",
+    "address": "27 Mission St #2, Montclair, NJ 07042"
+  },
+  "69 intervale rd boonton nj 07005": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "driving",
+    "address": "69 Intervale Rd, Boonton, NJ 07005"
+  },
+  "78 christopher st new york ny": {
+    "minutes": 32,
+    "text": "32 mins",
+    "mode": "transit",
+    "address": "78 Christopher St, New York, NY"
+  },
+  "415 13th ave newark nj": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "415 13th Ave, Newark, NJ"
+  },
+  "307 w front st 203 plainfield nj 07060": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "driving",
+    "address": "307 W Front St #203, Plainfield, NJ 07060"
+  },
+  "1281 broadway hillside nj 07205": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "1281 Broadway, Hillside, NJ 07205"
+  },
+  "50 halsted st newark nj": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "50 Halsted St, Newark, NJ"
+  },
+  "509 new durham rd piscataway nj 08854": {
+    "minutes": 38,
+    "text": "38 mins",
+    "mode": "driving",
+    "address": "509 New Durham Rd, Piscataway, NJ 08854"
+  },
+  "84 2nd st elizabethport nj": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "84 2nd St, Elizabethport, NJ"
+  },
+  "291 w runyon st newark nj": {
+    "minutes": 23,
+    "text": "23 mins",
+    "mode": "driving",
+    "address": "291 W Runyon St, Newark, NJ"
+  },
+  "351 15th ave newark nj": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "351 15th Ave, Newark, NJ"
+  },
+  "142 johnson ave newark nj": {
+    "minutes": 21,
+    "text": "21 mins",
+    "mode": "driving",
+    "address": "142 Johnson Ave, Newark, NJ"
+  },
+  "553 s orange ave newark nj": {
+    "minutes": 22,
+    "text": "22 mins",
+    "mode": "driving",
+    "address": "553 S Orange Ave, Newark, NJ"
+  },
+  "161 norman rd newark nj": {
+    "minutes": 28,
+    "text": "28 mins",
+    "mode": "driving",
+    "address": "161 Norman Rd, Newark, NJ"
+  },
+  "123 franklin st 2 jersey city nj 07307": {
+    "minutes": 14,
+    "text": "14 mins",
+    "mode": "driving",
+    "address": "123 Franklin St #2, Jersey City, NJ 07307"
+  },
+  "489 market st floor 2 paterson nj 07501": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "489 Market St Floor 2, Paterson, NJ 07501"
+  },
+  "809 s 14th st 2 newark nj 07108": {
+    "minutes": 26,
+    "text": "26 mins",
+    "mode": "driving",
+    "address": "809 S 14th St #2, Newark, NJ 07108"
+  },
+  "418 s clinton st 1 east orange nj 07018": {
+    "minutes": 24,
+    "text": "24 mins",
+    "mode": "driving",
+    "address": "418 S Clinton St #1, East Orange, NJ 07018"
+  },
+  "139 smith st 2 elizabeth nj 07201": {
+    "minutes": 25,
+    "text": "25 mins",
+    "mode": "driving",
+    "address": "139 Smith St #2, Elizabeth, NJ 07201"
+  },
+  "31 shepard way basking ridge nj 07920": {
+    "minutes": 44,
+    "text": "44 mins",
+    "mode": "driving",
+    "address": "31 Shepard Way, Basking Ridge, NJ 07920"
+  },
+  "225 12th ave floor 1 newark nj 07107": {
+    "minutes": 22,
+    "text": "22 mins",
+    "mode": "driving",
+    "address": "225 12th Ave Floor 1, Newark, NJ 07107"
+  },
+  "9 jones st new york ny 10014": {
+    "minutes": 30,
+    "text": "30 mins",
+    "mode": "transit",
+    "address": "9 Jones St APT 2, New York, NY 10014"
+  },
+  "103 avenue a new york ny 10009": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "103 Avenue A, New York, NY 10009"
+  },
+  "66 avenue a new york ny": {
+    "minutes": 42,
+    "text": "42 mins",
+    "mode": "transit",
+    "address": "66 Avenue A, New York, NY"
+  },
+  "442 e 13th st new york ny 10009": {
+    "minutes": 35,
+    "text": "35 mins",
+    "mode": "transit",
+    "address": "442 E 13th St Unit 5, New York, NY 10009"
+  },
+  "63 w 130th st new york ny": {
+    "minutes": 44,
+    "text": "44 mins",
+    "mode": "transit",
+    "address": "63 W 130th St, New York, NY"
+  },
+  "309 w 111th st new york ny 10026": {
+    "minutes": 36,
+    "text": "36 mins",
+    "mode": "transit",
+    "address": "309 W 111th St APT 5, New York, NY 10026"
+  },
+  "11 w 123rd st b new york ny 10027": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "11 W 123rd St #B, New York, NY 10027"
+  },
+  "506 manhattan ave new york ny 10027": {
+    "minutes": 40,
+    "text": "40 mins",
+    "mode": "transit",
+    "address": "506 Manhattan Ave Unit 1AA, New York, NY 10027"
+  },
+  "41 w 126th st new york ny 10027": {
+    "minutes": 41,
+    "text": "41 mins",
+    "mode": "transit",
+    "address": "41 W 126th St APT 2, New York, NY 10027"
   }
 }
